@@ -1,0 +1,127 @@
+{
+  "date": "2025-10-06",
+  "projects": {
+    "eventscop-frontend-guide (Workspace)": {
+      "totalLinesAdded": 411,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\History\\6d2accd1\\entries.json": [
+          {
+            "timestamp": "2025-10-06T10:09:03.744Z",
+            "fileName": "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\History\\6d2accd1\\entries.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\Julien\\Desktop\\vscode_analysis\\history_vscode.py": [
+          {
+            "timestamp": "2025-10-06T10:09:51.528Z",
+            "fileName": "c:\\Users\\Julien\\Desktop\\vscode_analysis\\history_vscode.py",
+            "fileType": ".py",
+            "linesAdded": 184,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-06T10:09:52.819Z",
+            "fileName": "c:\\Users\\Julien\\Desktop\\vscode_analysis\\history_vscode.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-06T10:09:54.595Z",
+            "fileName": "c:\\Users\\Julien\\Desktop\\vscode_analysis\\history_vscode.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx": [
+          {
+            "timestamp": "2025-10-06T10:10:16.114Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 223,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-06T10:10:16.361Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "py": 3,
+        "tsx": 2
+      },
+      "changeFrequency": {
+        "12": 5
+      },
+      "topFiles": [
+        "c:\\Users\\Julien\\Desktop\\vscode_analysis\\history_vscode.py",
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx",
+        "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\History\\6d2accd1\\entries.json"
+      ],
+      "averageChangeSize": 68.83333333333333
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "py",
+    "tsx",
+    "json"
+  ]
+}
