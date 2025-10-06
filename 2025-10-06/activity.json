@@ -202,8 +202,8 @@
     },
     "usr.aleoudev.fr (Workspace)": {
       "totalLinesAdded": 1831,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 15,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 20,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\frs_update_work.asp": [
           {
@@ -302,6 +302,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-06T13:12:50.160Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\frs_update_work.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "asp"
           }
         ]
