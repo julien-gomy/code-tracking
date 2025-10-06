@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1579                                          |
-| **Lines Removed** (➖) | 28                                        |
-| **Net Change** (↕)    | 1551                |
-| **Active Time** (⌚)   | 26 minutes |
+| **Lines Added** (➕)   | 2411                                          |
+| **Lines Removed** (➖) | 77                                        |
+| **Net Change** (↕)    | 2334                |
+| **Active Time** (⌚)   | 35 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,9 @@
 - **page.tsx** (+223, -0)
 - **page.tsx** (+461, -0)
 - **searchHelpers.ts** (+250, -4)
+- **routing.ts** (+193, -0)
+- **page.tsx** (+314, -23)
+- **page.tsx** (+325, -26)
 
 ## Visualizations
 
@@ -27,8 +30,8 @@ pie showData
 title Lines changed by file type
 ".json" : 1
 ".py" : 188
-".tsx" : 1164
-".ts" : 254
+".tsx" : 1852
+".ts" : 447
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +41,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 7
 "14h" : 5
-"16h" : 10
+"16h" : 15
 ```
 
 
-> **Last Updated:** 10/6/2025, 4:32:15 PM
+> **Last Updated:** 10/6/2025, 4:37:15 PM
