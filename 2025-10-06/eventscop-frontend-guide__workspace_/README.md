@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5050                                          |
-| **Lines Removed** (➖) | 231                                        |
-| **Net Change** (↕)    | 4819                |
-| **Active Time** (⌚)   | 137 minutes |
+| **Lines Added** (➕)   | 5051                                          |
+| **Lines Removed** (➖) | 284                                        |
+| **Net Change** (↕)    | 4767                |
+| **Active Time** (⌚)   | 143 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **page.tsx** (+223, -0)
 - **page.tsx** (+461, -0)
 - **searchHelpers.ts** (+250, -4)
-- **routing.ts** (+197, -0)
+- **routing.ts** (+197, -2)
 - **page.tsx** (+314, -23)
 - **page.tsx** (+325, -26)
 - **package.json** (+1, -0)
@@ -41,9 +41,10 @@
 - **PresearchResults.tsx** (+76, -6)
 - **Discover.tsx** (+96, -4)
 - **page.tsx** (+382, -75)
-- **page.tsx** (+321, -0)
+- **page.tsx** (+321, -51)
 - **components.ts** (+1, -0)
 - **components.tsx** (+57, -0)
+- **page.tsx** (+1, -0)
 
 ## Visualizations
 
@@ -54,8 +55,8 @@ pie showData
 title Lines changed by file type
 ".json" : 2
 ".py" : 188
-".tsx" : 4307
-".ts" : 784
+".tsx" : 4359
+".ts" : 786
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -69,8 +70,8 @@ title Coding activity by hour (count of changes)
 "17h" : 30
 "18h" : 11
 "19h" : 18
-"20h" : 8
+"20h" : 11
 ```
 
 
-> **Last Updated:** 10/6/2025, 8:22:15 PM
+> **Last Updated:** 10/6/2025, 8:27:15 PM
