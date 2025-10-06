@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7040                                          |
+| **Lines Added** (➕)   | 7131                                          |
 | **Lines Removed** (➖) | 685                                        |
-| **Net Change** (↕)    | 6355                |
-| **Active Time** (⌚)   | 239 minutes |
+| **Net Change** (↕)    | 6446                |
+| **Active Time** (⌚)   | 243 minutes |
 
 
 ## Modified Files
@@ -46,13 +46,14 @@
 - **components.tsx** (+57, -0)
 - **page.tsx** (+93, -1)
 - **page.tsx** (+285, -27)
-- **page.tsx** (+52, -0)
+- **page.tsx** (+104, -0)
 - **page.tsx** (+106, -21)
 - **page.tsx** (+1110, -258)
 - **components.tsx** (+111, -92)
 - **ImageWithOverlay.tsx** (+69, -0)
 - **event-types.ts** (+22, -1)
 - **EventCard.tsx** (+138, -0)
+- **eventscop-frontend-guide.code-workspace** (+39, -0)
 
 ## Visualizations
 
@@ -63,8 +64,9 @@ pie showData
 title Lines changed by file type
 ".json" : 2
 ".py" : 188
-".tsx" : 6721
+".tsx" : 6773
 ".ts" : 814
+".code-workspace" : 39
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -81,7 +83,8 @@ title Coding activity by hour (count of changes)
 "20h" : 25
 "21h" : 40
 "22h" : 1
+"23h" : 2
 ```
 
 
-> **Last Updated:** 10/6/2025, 10:59:59 PM
+> **Last Updated:** 10/6/2025, 11:06:32 PM
