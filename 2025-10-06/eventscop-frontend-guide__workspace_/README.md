@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6902                                          |
-| **Lines Removed** (➖) | 683                                        |
-| **Net Change** (↕)    | 6219                |
-| **Active Time** (⌚)   | 227 minutes |
+| **Lines Added** (➕)   | 6953                                          |
+| **Lines Removed** (➖) | 685                                        |
+| **Net Change** (↕)    | 6268                |
+| **Active Time** (⌚)   | 234 minutes |
 
 
 ## Modified Files
@@ -48,10 +48,11 @@
 - **page.tsx** (+285, -27)
 - **page.tsx** (+52, -0)
 - **page.tsx** (+106, -21)
-- **page.tsx** (+1110, -256)
+- **page.tsx** (+1110, -258)
 - **components.tsx** (+111, -92)
 - **ImageWithOverlay.tsx** (+69, -0)
 - **event-types.ts** (+22, -1)
+- **EventCard.tsx** (+51, -0)
 
 ## Visualizations
 
@@ -62,7 +63,7 @@ pie showData
 title Lines changed by file type
 ".json" : 2
 ".py" : 188
-".tsx" : 6581
+".tsx" : 6634
 ".ts" : 814
 ```
 
@@ -78,8 +79,8 @@ title Coding activity by hour (count of changes)
 "18h" : 11
 "19h" : 18
 "20h" : 25
-"21h" : 35
+"21h" : 38
 ```
 
 
-> **Last Updated:** 10/6/2025, 9:37:15 PM
+> **Last Updated:** 10/6/2025, 9:42:15 PM
