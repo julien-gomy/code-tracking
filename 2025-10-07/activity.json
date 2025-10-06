@@ -2,9 +2,9 @@
   "date": "2025-10-07",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3881,
-      "totalLinesRemoved": 17,
-      "totalActiveTime": 62,
+      "totalLinesAdded": 3906,
+      "totalLinesRemoved": 18,
+      "totalActiveTime": 64,
       "files": {
         "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
@@ -458,6 +458,20 @@
             },
             "duration": 4,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-06T23:45:55.386Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\organize-event-types\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\organize-event-types\\conferences\\page.tsx": [
@@ -608,6 +622,22 @@
             },
             "duration": 1,
             "language": "css"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\breathe-section\\BreatheLeftSection.tsx": [
+          {
+            "timestamp": "2025-10-06T23:45:58.281Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\breathe-section\\BreatheLeftSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
