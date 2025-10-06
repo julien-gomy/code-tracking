@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3859                                          |
-| **Lines Removed** (➖) | 77                                        |
-| **Net Change** (↕)    | 3782                |
-| **Active Time** (⌚)   | 68 minutes |
+| **Lines Added** (➕)   | 4135                                          |
+| **Lines Removed** (➖) | 89                                        |
+| **Net Change** (↕)    | 4046                |
+| **Active Time** (⌚)   | 80 minutes |
 
 
 ## Modified Files
@@ -36,6 +36,9 @@
 - **reviews.ts** (+166, -0)
 - **cache-tags.ts** (+26, -0)
 - **cache.ts** (+140, -0)
+- **ClientPresearchSection.tsx** (+96, -6)
+- **PresearchSectionWrapper.tsx** (+104, -3)
+- **PresearchResults.tsx** (+76, -3)
 
 ## Visualizations
 
@@ -46,7 +49,7 @@ pie showData
 title Lines changed by file type
 ".json" : 2
 ".py" : 188
-".tsx" : 2964
+".tsx" : 3252
 ".ts" : 782
 ```
 
@@ -58,8 +61,8 @@ title Coding activity by hour (count of changes)
 "12h" : 7
 "14h" : 5
 "16h" : 28
-"17h" : 13
+"17h" : 24
 ```
 
 
-> **Last Updated:** 10/6/2025, 5:12:15 PM
+> **Last Updated:** 10/6/2025, 5:17:15 PM
