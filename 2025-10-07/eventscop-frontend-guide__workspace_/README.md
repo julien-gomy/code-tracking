@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3907                                          |
-| **Lines Removed** (➖) | 18                                        |
-| **Net Change** (↕)    | 3889                |
-| **Active Time** (⌚)   | 64 minutes |
+| **Lines Added** (➕)   | 7791                                          |
+| **Lines Removed** (➖) | 88                                        |
+| **Net Change** (↕)    | 7703                |
+| **Active Time** (⌚)   | 71 minutes |
 
 
 ## Modified Files
@@ -32,8 +32,28 @@
 - **components.tsx** (+57, -0)
 - **List.tsx** (+57, -2)
 - **page.tsx** (+271, -0)
-- **globals.css** (+237, -4)
+- **globals.css** (+237, -8)
 - **BreatheLeftSection.tsx** (+25, -0)
+- **page.tsx** (+254, -0)
+- **ImageWithOverlay.tsx** (+134, -66)
+- **page.tsx** (+324, -0)
+- **page.tsx** (+79, -0)
+- **page.tsx** (+80, -0)
+- **page.tsx** (+92, -0)
+- **page.tsx** (+89, -0)
+- **page.tsx** (+70, -0)
+- **ImageWithOverlay.tsx** (+69, -0)
+- **page.tsx** (+403, -0)
+- **page.tsx** (+252, -0)
+- **page.tsx** (+101, -0)
+- **page.tsx** (+107, -0)
+- **page.tsx** (+115, -0)
+- **InfoCard.tsx** (+16, -0)
+- **Card.tsx** (+25, -0)
+- **page.tsx** (+265, -0)
+- **page.tsx** (+461, -0)
+- **page.tsx** (+848, -0)
+- **PostalCodeTags.tsx** (+100, -0)
 
 ## Visualizations
 
@@ -43,9 +63,9 @@
 pie showData
 title Lines changed by file type
 ".json" : 296
-".tsx" : 2338
+".tsx" : 6288
 ".ts" : 1050
-".css" : 241
+".css" : 245
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,8 +74,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 7
-"01h" : 36
+"01h" : 60
 ```
 
 
-> **Last Updated:** 10/7/2025, 1:55:35 AM
+> **Last Updated:** 10/7/2025, 2:00:35 AM
