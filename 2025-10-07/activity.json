@@ -5010,9 +5010,9 @@
       "averageChangeSize": 909.5
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 680,
+      "totalLinesAdded": 899,
       "totalLinesRemoved": 5,
-      "totalActiveTime": 17,
+      "totalActiveTime": 20,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\com-suppliers-validation.asp": [
           {
@@ -5276,6 +5276,64 @@
             "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\admin\\generate_key.asp",
             "fileType": ".asp",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\db\\services\\query_executor.asp": [
+          {
+            "timestamp": "2025-10-07T21:37:31.563Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\db\\services\\query_executor.asp",
+            "fileType": ".asp",
+            "linesAdded": 192,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-07T21:37:50.295Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\db\\services\\query_executor.asp",
+            "fileType": ".asp",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-07T21:38:05.073Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\db\\services\\query_executor.asp",
+            "fileType": ".asp",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-07T21:38:19.461Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\db\\services\\query_executor.asp",
+            "fileType": ".asp",
+            "linesAdded": 15,
             "linesRemoved": 0,
             "projectName": "cdp.aleoudev.fr (Workspace)",
             "content": {
