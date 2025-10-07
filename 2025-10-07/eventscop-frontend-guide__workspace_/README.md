@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11241                                          |
-| **Lines Removed** (➖) | 757                                        |
-| **Net Change** (↕)    | 10484                |
-| **Active Time** (⌚)   | 246 minutes |
+| **Lines Added** (➕)   | 11697                                          |
+| **Lines Removed** (➖) | 828                                        |
+| **Net Change** (↕)    | 10869                |
+| **Active Time** (⌚)   | 253 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **package.json** (+3, -2)
 - **EventCard.tsx** (+75, -1)
 - **page.tsx** (+855, -2)
-- **routing.ts** (+202, -30)
+- **routing.ts** (+230, -30)
 - **page.tsx** (+60, -6)
 - **page.ts** (+85, -0)
 - **page.ts** (+85, -0)
@@ -33,7 +33,7 @@
 - **List.tsx** (+57, -2)
 - **page.tsx** (+271, -0)
 - **globals.css** (+237, -54)
-- **BreatheLeftSection.tsx** (+45, -20)
+- **BreatheLeftSection.tsx** (+54, -20)
 - **page.tsx** (+254, -0)
 - **ImageWithOverlay.tsx** (+134, -66)
 - **page.tsx** (+324, -0)
@@ -56,22 +56,22 @@
 - **PostalCodeTags.tsx** (+100, -0)
 - **BreatheSection.tsx** (+15, -1)
 - **FiltrePopup.tsx** (+62, -4)
-- **HeroTitleBase.tsx** (+218, -100)
+- **HeroTitleBase.tsx** (+218, -120)
 - **urls.ts** (+93, -10)
 - **navigation.ts** (+63, -9)
 - **supplier-chains.ts** (+29, -0)
 - **supplier.ts** (+609, -0)
 - **locations.ts** (+9, -8)
-- **route.ts** (+137, -45)
+- **route.ts** (+181, -45)
 - **LocationTypeIcon.tsx** (+39, -2)
-- **cities.ts** (+56, -44)
+- **cities.ts** (+98, -44)
 - **CityAutocomplete.tsx** (+246, -0)
-- **searchHelpers.ts** (+258, -64)
-- **page.tsx** (+321, -5)
-- **TruncatedText.tsx** (+165, -113)
-- **page.tsx** (+320, -0)
-- **page.tsx** (+297, -109)
-- **page.tsx** (+230, -55)
+- **searchHelpers.ts** (+322, -64)
+- **page.tsx** (+321, -35)
+- **TruncatedText.tsx** (+270, -113)
+- **page.tsx** (+320, -21)
+- **page.tsx** (+406, -109)
+- **page.tsx** (+285, -55)
 - **page.tsx** (+219, -0)
 - **event-types.ts** (+25, -0)
 
@@ -83,8 +83,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 296
-".tsx" : 8870
-".ts" : 2541
+".tsx" : 9219
+".ts" : 2719
 ".css" : 291
 ```
 
@@ -97,8 +97,8 @@ title Coding activity by hour (count of changes)
 "01h" : 60
 "02h" : 36
 "03h" : 66
-"04h" : 18
+"04h" : 29
 ```
 
 
-> **Last Updated:** 10/7/2025, 4:25:35 AM
+> **Last Updated:** 10/7/2025, 4:34:13 AM
