@@ -3501,7 +3501,7 @@
       "averageChangeSize": 291
     },
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 1818,
+      "totalLinesAdded": 2214,
       "totalLinesRemoved": 1,
       "totalActiveTime": 3,
       "files": {
@@ -3532,6 +3532,22 @@
               "removed": []
             },
             "duration": 3,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\avis_etab.asp": [
+          {
+            "timestamp": "2025-10-07T14:30:36.452Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\avis_etab.asp",
+            "fileType": ".asp",
+            "linesAdded": 396,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "asp"
           }
         ]
