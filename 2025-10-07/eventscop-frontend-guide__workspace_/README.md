@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7883                                          |
+| **Lines Added** (➕)   | 8080                                          |
 | **Lines Removed** (➖) | 150                                        |
-| **Net Change** (↕)    | 7733                |
-| **Active Time** (⌚)   | 96 minutes |
+| **Net Change** (↕)    | 7930                |
+| **Active Time** (⌚)   | 97 minutes |
 
 
 ## Modified Files
@@ -56,6 +56,8 @@
 - **PostalCodeTags.tsx** (+100, -0)
 - **BreatheSection.tsx** (+15, -1)
 - **FiltrePopup.tsx** (+62, -4)
+- **HeroTitleBase.tsx** (+196, -0)
+- **urls.ts** (+1, -0)
 
 ## Visualizations
 
@@ -65,8 +67,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 296
-".tsx" : 6396
-".ts" : 1050
+".tsx" : 6592
+".ts" : 1051
 ".css" : 291
 ```
 
@@ -77,8 +79,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 7
 "01h" : 60
-"02h" : 20
+"02h" : 22
 ```
 
 
-> **Last Updated:** 10/7/2025, 2:30:35 AM
+> **Last Updated:** 10/7/2025, 2:35:35 AM
