@@ -2,7 +2,7 @@
   "date": "2025-10-07",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 20242,
+      "totalLinesAdded": 20243,
       "totalLinesRemoved": 975,
       "totalActiveTime": 425,
       "files": {
@@ -4568,6 +4568,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\ui\\icons\\SpokenLanguage.tsx": [
+          {
+            "timestamp": "2025-10-07T20:51:22.427Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\ui\\icons\\SpokenLanguage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
