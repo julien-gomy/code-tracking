@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 18441                                          |
-| **Lines Removed** (➖) | 948                                        |
-| **Net Change** (↕)    | 17493                |
-| **Active Time** (⌚)   | 397 minutes |
+| **Lines Added** (➕)   | 18736                                          |
+| **Lines Removed** (➖) | 975                                        |
+| **Net Change** (↕)    | 17761                |
+| **Active Time** (⌚)   | 408 minutes |
 
 
 ## Modified Files
@@ -77,7 +77,7 @@
 - **CityInputWithRadius.tsx** (+466, -1)
 - **TagSelector.tsx** (+207, -22)
 - **brief.ts** (+1620, -0)
-- **brief.ts** (+227, -0)
+- **brief.ts** (+454, -16)
 - **CateringFormFields.tsx** (+262, -14)
 - **.claude.json** (+157, -26)
 - **settings.local.json** (+56, -0)
@@ -85,11 +85,11 @@
 - **LocationTabsContent.tsx** (+327, -0)
 - **StepLocation.tsx** (+208, -0)
 - **MeetingHallItem.tsx** (+272, -17)
-- **ActivityMapAccessDescription.tsx** (+205, -10)
+- **ActivityMapAccessDescription.tsx** (+272, -11)
 - **RadiusSelector.tsx** (+84, -1)
 - **departments.ts** (+1854, -24)
-- **FranceMapReadOnly.tsx** (+93, -4)
-- **page.tsx** (+392, -1)
+- **FranceMapReadOnly.tsx** (+93, -6)
+- **page.tsx** (+393, -9)
 - **track-visit.ts** (+51, -0)
 - **ActivityPresentationSection.tsx** (+29, -0)
 
@@ -101,8 +101,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 567
-".tsx" : 11834
-".ts" : 6697
+".tsx" : 11913
+".ts" : 6940
 ".css" : 291
 ```
 
@@ -123,8 +123,8 @@ title Coding activity by hour (count of changes)
 "16h" : 8
 "17h" : 21
 "18h" : 17
-"19h" : 12
+"19h" : 23
 ```
 
 
-> **Last Updated:** 10/7/2025, 7:33:45 PM
+> **Last Updated:** 10/7/2025, 7:48:45 PM
