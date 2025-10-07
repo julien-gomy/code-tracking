@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 16675                                          |
+| **Lines Added** (➕)   | 17656                                          |
 | **Lines Removed** (➖) | 926                                        |
-| **Net Change** (↕)    | 15749                |
-| **Active Time** (⌚)   | 347 minutes |
+| **Net Change** (↕)    | 16730                |
+| **Active Time** (⌚)   | 352 minutes |
 
 
 ## Modified Files
@@ -75,7 +75,7 @@
 - **page.tsx** (+219, -0)
 - **event-types.ts** (+25, -0)
 - **CityInputWithRadius.tsx** (+466, -1)
-- **TagSelector.tsx** (+142, -22)
+- **TagSelector.tsx** (+207, -22)
 - **brief.ts** (+1620, -0)
 - **brief.ts** (+227, -0)
 - **CateringFormFields.tsx** (+262, -14)
@@ -87,7 +87,7 @@
 - **MeetingHallItem.tsx** (+272, -17)
 - **ActivityMapAccessDescription.tsx** (+205, -10)
 - **RadiusSelector.tsx** (+84, -1)
-- **departments.ts** (+920, -7)
+- **departments.ts** (+1836, -7)
 
 ## Visualizations
 
@@ -97,8 +97,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 567
-".tsx" : 11250
-".ts" : 5493
+".tsx" : 11315
+".ts" : 6409
 ".css" : 291
 ```
 
@@ -117,8 +117,8 @@ title Coding activity by hour (count of changes)
 "12h" : 2
 "15h" : 1
 "16h" : 8
-"17h" : 17
+"17h" : 21
 ```
 
 
-> **Last Updated:** 10/7/2025, 5:48:29 PM
+> **Last Updated:** 10/7/2025, 5:53:39 PM
