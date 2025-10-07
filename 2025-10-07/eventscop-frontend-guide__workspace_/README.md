@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 17961                                          |
+| **Lines Added** (➕)   | 18337                                          |
 | **Lines Removed** (➖) | 935                                        |
-| **Net Change** (↕)    | 17026                |
-| **Active Time** (⌚)   | 370 minutes |
+| **Net Change** (↕)    | 17402                |
+| **Active Time** (⌚)   | 377 minutes |
 
 
 ## Modified Files
@@ -89,6 +89,7 @@
 - **RadiusSelector.tsx** (+84, -1)
 - **departments.ts** (+1846, -12)
 - **FranceMapReadOnly.tsx** (+93, -4)
+- **page.tsx** (+376, -0)
 
 ## Visualizations
 
@@ -98,7 +99,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 567
-".tsx" : 11412
+".tsx" : 11788
 ".ts" : 6626
 ".css" : 291
 ```
@@ -120,8 +121,8 @@ title Coding activity by hour (count of changes)
 "16h" : 8
 "17h" : 21
 "18h" : 17
-"19h" : 1
+"19h" : 3
 ```
 
 
-> **Last Updated:** 10/7/2025, 7:08:39 PM
+> **Last Updated:** 10/7/2025, 7:13:45 PM
