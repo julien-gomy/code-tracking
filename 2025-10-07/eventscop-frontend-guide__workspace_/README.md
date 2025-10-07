@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15072                                          |
-| **Lines Removed** (➖) | 896                                        |
-| **Net Change** (↕)    | 14176                |
-| **Active Time** (⌚)   | 308 minutes |
+| **Lines Added** (➕)   | 15156                                          |
+| **Lines Removed** (➖) | 897                                        |
+| **Net Change** (↕)    | 14259                |
+| **Active Time** (⌚)   | 310 minutes |
 
 
 ## Modified Files
@@ -86,6 +86,7 @@
 - **StepLocation.tsx** (+208, -0)
 - **MeetingHallItem.tsx** (+134, -7)
 - **ActivityMapAccessDescription.tsx** (+138, -10)
+- **RadiusSelector.tsx** (+84, -1)
 
 ## Visualizations
 
@@ -95,7 +96,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 567
-".tsx" : 10544
+".tsx" : 10629
 ".ts" : 4566
 ".css" : 291
 ```
@@ -114,8 +115,8 @@ title Coding activity by hour (count of changes)
 "11h" : 22
 "12h" : 2
 "15h" : 1
-"16h" : 1
+"16h" : 4
 ```
 
 
-> **Last Updated:** 10/7/2025, 4:18:29 PM
+> **Last Updated:** 10/7/2025, 4:48:29 PM
