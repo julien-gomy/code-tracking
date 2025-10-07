@@ -5010,9 +5010,9 @@
       "averageChangeSize": 909.5
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 987,
+      "totalLinesAdded": 1038,
       "totalLinesRemoved": 9,
-      "totalActiveTime": 32,
+      "totalActiveTime": 36,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\com-suppliers-validation.asp": [
           {
@@ -5397,6 +5397,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-07T21:50:57.558Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\db\\services\\query_executor.asp",
+            "fileType": ".asp",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "asp"
           }
         ]
