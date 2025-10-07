@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15156                                          |
+| **Lines Added** (➕)   | 15353                                          |
 | **Lines Removed** (➖) | 897                                        |
-| **Net Change** (↕)    | 14259                |
+| **Net Change** (↕)    | 14456                |
 | **Active Time** (⌚)   | 310 minutes |
 
 
@@ -74,7 +74,7 @@
 - **page.tsx** (+285, -55)
 - **page.tsx** (+219, -0)
 - **event-types.ts** (+25, -0)
-- **CityInputWithRadius.tsx** (+269, -1)
+- **CityInputWithRadius.tsx** (+466, -1)
 - **TagSelector.tsx** (+79, -22)
 - **brief.ts** (+1620, -0)
 - **brief.ts** (+227, -0)
@@ -96,7 +96,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 567
-".tsx" : 10629
+".tsx" : 10826
 ".ts" : 4566
 ".css" : 291
 ```
@@ -115,8 +115,8 @@ title Coding activity by hour (count of changes)
 "11h" : 22
 "12h" : 2
 "15h" : 1
-"16h" : 4
+"16h" : 5
 ```
 
 
-> **Last Updated:** 10/7/2025, 4:48:29 PM
+> **Last Updated:** 10/7/2025, 4:53:29 PM
