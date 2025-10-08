@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4797                                          |
-| **Lines Removed** (➖) | 435                                        |
-| **Net Change** (↕)    | 4362                |
-| **Active Time** (⌚)   | 204 minutes |
+| **Lines Added** (➕)   | 4798                                          |
+| **Lines Removed** (➖) | 445                                        |
+| **Net Change** (↕)    | 4353                |
+| **Active Time** (⌚)   | 211 minutes |
 
 
 ## Modified Files
@@ -30,11 +30,11 @@
 - **eventscop-frontend-guide.code-workspace** (+39, -0)
 - **supplier-activities.ts** (+480, -29)
 - **ActivityCapacityBrief.tsx** (+103, -1)
-- **ActivityQuoteForm.tsx** (+63, -0)
-- **PlaceQuoteForm.tsx** (+73, -0)
-- **PlaceQuoteSidebar.tsx** (+71, -1)
+- **ActivityQuoteForm.tsx** (+63, -5)
+- **PlaceQuoteForm.tsx** (+74, -2)
+- **PlaceQuoteSidebar.tsx** (+71, -3)
 - **AsyncSidebar.tsx** (+36, -2)
-- **ProviderQuoteForm.tsx** (+62, -0)
+- **ProviderQuoteForm.tsx** (+62, -1)
 - **QuoteTarifs.tsx** (+50, -0)
 
 ## Visualizations
@@ -44,7 +44,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2862
+".tsx" : 2873
 ".ts" : 2330
 ".json" : 1
 ".code-workspace" : 39
@@ -62,8 +62,8 @@ title Coding activity by hour (count of changes)
 "14h" : 15
 "15h" : 55
 "16h" : 12
-"17h" : 21
+"17h" : 27
 ```
 
 
-> **Last Updated:** 10/8/2025, 5:39:32 PM
+> **Last Updated:** 10/8/2025, 5:44:32 PM
