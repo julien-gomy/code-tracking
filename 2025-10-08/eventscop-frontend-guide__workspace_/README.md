@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4333                                          |
-| **Lines Removed** (➖) | 428                                        |
-| **Net Change** (↕)    | 3905                |
-| **Active Time** (⌚)   | 181 minutes |
+| **Lines Added** (➕)   | 4436                                          |
+| **Lines Removed** (➖) | 429                                        |
+| **Net Change** (↕)    | 4007                |
+| **Active Time** (⌚)   | 182 minutes |
 
 
 ## Modified Files
@@ -29,6 +29,7 @@
 - **activity.ts** (+94, -0)
 - **eventscop-frontend-guide.code-workspace** (+39, -0)
 - **supplier-activities.ts** (+476, -28)
+- **ActivityCapacityBrief.tsx** (+103, -1)
 
 ## Visualizations
 
@@ -37,7 +38,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2396
+".tsx" : 2500
 ".ts" : 2325
 ".json" : 1
 ".code-workspace" : 39
@@ -54,8 +55,8 @@ title Coding activity by hour (count of changes)
 "13h" : 11
 "14h" : 15
 "15h" : 55
-"16h" : 7
+"16h" : 9
 ```
 
 
-> **Last Updated:** 10/8/2025, 4:09:32 PM
+> **Last Updated:** 10/8/2025, 4:29:32 PM
