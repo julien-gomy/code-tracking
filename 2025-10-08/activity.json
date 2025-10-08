@@ -2,9 +2,9 @@
   "date": "2025-10-08",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 5735,
+      "totalLinesAdded": 8705,
       "totalLinesRemoved": 459,
-      "totalActiveTime": 236,
+      "totalActiveTime": 256,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\activity\\[[...url_path]]\\page.tsx": [
           {
@@ -2416,6 +2416,166 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\config\\redirects.ts": [
+          {
+            "timestamp": "2025-10-08T19:24:49.813Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\config\\redirects.ts",
+            "fileType": ".ts",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\events-planning\\manage-registrations\\page.tsx": [
+          {
+            "timestamp": "2025-10-08T19:24:49.796Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\events-planning\\manage-registrations\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\organize-event-types\\inauguration\\page.tsx": [
+          {
+            "timestamp": "2025-10-08T19:24:49.780Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\organize-event-types\\inauguration\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 89,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\organize-event-types\\incentives\\page.tsx": [
+          {
+            "timestamp": "2025-10-08T19:24:49.763Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\organize-event-types\\incentives\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\organize-event-types\\symposium\\page.tsx": [
+          {
+            "timestamp": "2025-10-08T19:24:49.742Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\organize-event-types\\symposium\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\organize-event-types\\page.tsx": [
+          {
+            "timestamp": "2025-10-08T19:24:49.731Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\organize-event-types\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 852,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\organize-event-types\\congress\\page.tsx": [
+          {
+            "timestamp": "2025-10-08T19:24:49.835Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\organize-event-types\\congress\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 252,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\organize-event-types\\conventions\\page.tsx": [
+          {
+            "timestamp": "2025-10-08T19:24:49.819Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\organize-event-types\\conventions\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\test\\data\\content-scenarios.js": [
+          {
+            "timestamp": "2025-10-08T19:24:49.851Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\test\\data\\content-scenarios.js",
+            "fileType": ".js",
+            "linesAdded": 850,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\test\\data\\redirect-scenarios.js": [
+          {
+            "timestamp": "2025-10-08T19:24:49.870Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\test\\data\\redirect-scenarios.js",
+            "fileType": ".js",
+            "linesAdded": 492,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ]
       },
