@@ -2,9 +2,9 @@
   "date": "2025-10-08",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 2654,
+      "totalLinesAdded": 2680,
       "totalLinesRemoved": 84,
-      "totalActiveTime": 57,
+      "totalActiveTime": 59,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\activity\\[[...url_path]]\\page.tsx": [
           {
@@ -673,6 +673,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-08T12:48:11.030Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\seo\\url-mapping.ts",
+            "fileType": ".ts",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-08T12:49:15.654Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\seo\\url-mapping.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ]
