@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4684                                          |
-| **Lines Removed** (➖) | 434                                        |
-| **Net Change** (↕)    | 4250                |
-| **Active Time** (⌚)   | 199 minutes |
+| **Lines Added** (➕)   | 4797                                          |
+| **Lines Removed** (➖) | 435                                        |
+| **Net Change** (↕)    | 4362                |
+| **Active Time** (⌚)   | 204 minutes |
 
 
 ## Modified Files
@@ -33,7 +33,9 @@
 - **ActivityQuoteForm.tsx** (+63, -0)
 - **PlaceQuoteForm.tsx** (+73, -0)
 - **PlaceQuoteSidebar.tsx** (+71, -1)
-- **AsyncSidebar.tsx** (+35, -1)
+- **AsyncSidebar.tsx** (+36, -2)
+- **ProviderQuoteForm.tsx** (+62, -0)
+- **QuoteTarifs.tsx** (+50, -0)
 
 ## Visualizations
 
@@ -42,7 +44,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2748
+".tsx" : 2862
 ".ts" : 2330
 ".json" : 1
 ".code-workspace" : 39
@@ -60,8 +62,8 @@ title Coding activity by hour (count of changes)
 "14h" : 15
 "15h" : 55
 "16h" : 12
-"17h" : 16
+"17h" : 21
 ```
 
 
-> **Last Updated:** 10/8/2025, 5:34:32 PM
+> **Last Updated:** 10/8/2025, 5:39:32 PM
