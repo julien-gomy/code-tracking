@@ -227,9 +227,9 @@
       "averageChangeSize": 7
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1407,
+      "totalLinesAdded": 1523,
       "totalLinesRemoved": 43,
-      "totalActiveTime": 19,
+      "totalActiveTime": 26,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py": [
           {
@@ -400,6 +400,54 @@
               "removed": []
             },
             "duration": 4,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\EntityAddress.py": [
+          {
+            "timestamp": "2025-10-08T10:02:45.077Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\EntityAddress.py",
+            "fileType": ".py",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\SupplierSupplierCategory.py": [
+          {
+            "timestamp": "2025-10-08T10:03:13.767Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\SupplierSupplierCategory.py",
+            "fileType": ".py",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\SupplierCategory.py": [
+          {
+            "timestamp": "2025-10-08T10:03:48.565Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\SupplierCategory.py",
+            "fileType": ".py",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
