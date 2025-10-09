@@ -2,9 +2,9 @@
   "date": "2025-10-10",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 1165,
+      "totalLinesAdded": 1220,
       "totalLinesRemoved": 126,
-      "totalActiveTime": 54,
+      "totalActiveTime": 58,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\print\\VenueCard.tsx": [
           {
@@ -356,6 +356,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-09T22:51:36.742Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\print\\VenueCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-09T22:53:18.525Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\print\\VenueCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(print)\\print\\suppliers\\page.tsx": [
@@ -508,6 +536,22 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\cart\\HorizontalCard\\PlaceHorizontalCard.tsx",
             "fileType": ".tsx",
             "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(print)\\layout.tsx": [
+          {
+            "timestamp": "2025-10-09T22:51:07.745Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(print)\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 50,
             "linesRemoved": 0,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
