@@ -3,7 +3,7 @@
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 5627,
-      "totalLinesRemoved": 206,
+      "totalLinesRemoved": 208,
       "totalActiveTime": 162,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\favorites\\CompareDrawer.tsx": [
@@ -1411,6 +1411,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-09T20:35:49.164Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\print\\suppliers\\[id_supplier]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
