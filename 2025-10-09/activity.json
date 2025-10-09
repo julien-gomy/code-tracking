@@ -1705,7 +1705,7 @@
       "averageChangeSize": 119
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 845,
+      "totalLinesAdded": 858,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -1731,6 +1731,20 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_customer_reviews\\routes.py",
             "fileType": ".py",
             "linesAdded": 294,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-09T21:35:26.585Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_customer_reviews\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "eventscop-api-guide (Workspace)",
             "content": {
