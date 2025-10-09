@@ -2,9 +2,9 @@
   "date": "2025-10-09",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3433,
+      "totalLinesAdded": 3489,
       "totalLinesRemoved": 101,
-      "totalActiveTime": 93,
+      "totalActiveTime": 97,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\favorites\\CompareDrawer.tsx": [
           {
@@ -813,6 +813,50 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-09T15:14:20.760Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\navigation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\navigation.ts": [
+          {
+            "timestamp": "2025-10-09T15:13:18.442Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\navigation.ts",
+            "fileType": ".ts",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-09T15:13:25.473Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\navigation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
