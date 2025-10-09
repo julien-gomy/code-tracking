@@ -2,9 +2,9 @@
   "date": "2025-10-09",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 5197,
+      "totalLinesAdded": 5397,
       "totalLinesRemoved": 157,
-      "totalActiveTime": 138,
+      "totalActiveTime": 145,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\favorites\\CompareDrawer.tsx": [
           {
@@ -49,6 +49,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-09T16:33:37.444Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\ui\\Link.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -207,6 +221,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-09T16:36:40.303Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\routing.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -1228,6 +1256,54 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\menu\\NavbarMenuItem.tsx",
             "fileType": ".tsx",
             "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\place-list\\PlaceList.tsx": [
+          {
+            "timestamp": "2025-10-09T16:36:17.861Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\place-list\\PlaceList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\SupplierTopList\\SupplierTopList.tsx": [
+          {
+            "timestamp": "2025-10-09T16:37:27.945Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\SupplierTopList\\SupplierTopList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\LastSupplierUpdated\\LastSupplierUpdated.tsx": [
+          {
+            "timestamp": "2025-10-09T16:37:38.048Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\LastSupplierUpdated\\LastSupplierUpdated.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 43,
             "linesRemoved": 0,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
