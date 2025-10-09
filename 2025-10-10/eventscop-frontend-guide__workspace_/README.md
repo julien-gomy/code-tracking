@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 10                                          |
-| **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 7                |
+| **Lines Removed** (➖) | 7                                        |
+| **Net Change** (↕)    | 3                |
 | **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
-- **VenueCard.tsx** (+10, -3)
+- **VenueCard.tsx** (+10, -7)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 13
+".tsx" : 17
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,9 +28,9 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 2
+"00h" : 3
 "23h" : 2
 ```
 
 
-> **Last Updated:** 10/10/2025, 12:05:00 AM
+> **Last Updated:** 10/10/2025, 12:10:00 AM
