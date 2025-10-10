@@ -2,9 +2,9 @@
   "date": "2025-10-10",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3385,
-      "totalLinesRemoved": 429,
-      "totalActiveTime": 198,
+      "totalLinesAdded": 3424,
+      "totalLinesRemoved": 452,
+      "totalActiveTime": 209,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\print\\VenueCard.tsx": [
           {
@@ -1837,6 +1837,120 @@
             "fileType": ".svg",
             "linesAdded": 0,
             "linesRemoved": 28,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed copy.svg": [
+          {
+            "timestamp": "2025-10-10T13:18:57.548Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-10-10T13:18:58.212Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-10-10T13:19:05.551Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-10-10T13:19:14.639Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-10-10T13:19:24.426Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-10-10T13:19:57.139Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-10-10T13:20:19.802Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-10-10T13:20:56.092Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
               "added": [],
