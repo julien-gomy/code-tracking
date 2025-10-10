@@ -2,9 +2,9 @@
   "date": "2025-10-10",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3424,
-      "totalLinesRemoved": 452,
-      "totalActiveTime": 209,
+      "totalLinesAdded": 3464,
+      "totalLinesRemoved": 469,
+      "totalActiveTime": 212,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\print\\VenueCard.tsx": [
           {
@@ -1958,6 +1958,50 @@
             },
             "duration": 1,
             "language": "svg"
+          },
+          {
+            "timestamp": "2025-10-10T13:21:19.108Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-10-10T13:22:30.357Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed copy.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\ui\\icons\\BedIcon.tsx": [
+          {
+            "timestamp": "2025-10-10T13:22:01.818Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\ui\\icons\\BedIcon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
