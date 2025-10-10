@@ -2,9 +2,9 @@
   "date": "2025-10-10",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3310,
+      "totalLinesAdded": 3321,
       "totalLinesRemoved": 395,
-      "totalActiveTime": 178,
+      "totalActiveTime": 186,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\print\\VenueCard.tsx": [
           {
@@ -1673,6 +1673,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-10T12:58:20.005Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-10T12:59:08.274Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-10T13:00:50.854Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ]
