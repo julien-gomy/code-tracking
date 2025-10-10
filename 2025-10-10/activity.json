@@ -2,9 +2,9 @@
   "date": "2025-10-10",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 2961,
-      "totalLinesRemoved": 394,
-      "totalActiveTime": 168,
+      "totalLinesAdded": 3310,
+      "totalLinesRemoved": 395,
+      "totalActiveTime": 178,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\print\\VenueCard.tsx": [
           {
@@ -1572,6 +1572,108 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\package.json": [
+          {
+            "timestamp": "2025-10-10T12:51:45.102Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\package.json",
+            "fileType": ".json",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-10T12:51:48.827Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.vscode\\tasks.json": [
+          {
+            "timestamp": "2025-10-10T12:52:08.824Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 251,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-10T12:52:42.088Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-10T12:53:03.911Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-10T12:53:10.621Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-10T12:53:56.091Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
