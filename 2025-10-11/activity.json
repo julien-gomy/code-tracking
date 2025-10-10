@@ -1,0 +1,78 @@
+{
+  "date": "2025-10-11",
+  "projects": {
+    "cdp.aleoudev.fr (Workspace)": {
+      "totalLinesAdded": 464,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 9,
+      "files": {
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\includes\\tools.asp": [
+          {
+            "timestamp": "2025-10-10T22:00:49.361Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\includes\\tools.asp",
+            "fileType": ".asp",
+            "linesAdded": 432,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-10T22:00:55.169Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\includes\\tools.asp",
+            "fileType": ".asp",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\includes\\functions.asp": [
+          {
+            "timestamp": "2025-10-10T22:04:11.371Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\includes\\functions.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "asp"
+          }
+        ]
+      },
+      "languageStats": {
+        "asp": 9
+      },
+      "changeFrequency": {
+        "0": 9
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\includes\\tools.asp",
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\includes\\functions.asp"
+      ],
+      "averageChangeSize": 159.33333333333334
+    }
+  },
+  "totalActiveTime": 9,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "asp"
+  ]
+}
