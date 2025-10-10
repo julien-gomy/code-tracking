@@ -142,9 +142,9 @@
       "averageChangeSize": 159.33333333333334
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 1024,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 23,
+      "totalLinesAdded": 1097,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 29,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\[category_slug]\\[[...url_path]]\\page.tsx": [
           {
@@ -367,6 +367,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-10T23:19:46.892Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\ContactButtons.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-10T23:20:49.332Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\ContactButtons.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
