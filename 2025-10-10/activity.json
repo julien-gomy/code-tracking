@@ -2363,9 +2363,9 @@
       "averageChangeSize": 5
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1424,
-      "totalLinesRemoved": 130,
-      "totalActiveTime": 58,
+      "totalLinesAdded": 1459,
+      "totalLinesRemoved": 165,
+      "totalActiveTime": 61,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\main.py": [
           {
@@ -2822,6 +2822,34 @@
           },
           {
             "timestamp": "2025-10-10T21:43:03.680Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-10T21:44:24.407Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-10T21:44:34.129Z",
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\routes.py",
             "fileType": ".py",
             "linesAdded": 35,
