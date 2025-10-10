@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3464                                          |
-| **Lines Removed** (➖) | 469                                        |
-| **Net Change** (↕)    | 2995                |
-| **Active Time** (⌚)   | 212 minutes |
+| **Lines Added** (➕)   | 3571                                          |
+| **Lines Removed** (➖) | 473                                        |
+| **Net Change** (↕)    | 3098                |
+| **Active Time** (⌚)   | 218 minutes |
 
 
 ## Modified Files
@@ -28,8 +28,9 @@
 - **package.json** (+91, -0)
 - **tasks.json** (+274, -4)
 - **twinbed.svg** (+57, -29)
-- **twinbed copy.svg** (+44, -40)
-- **BedIcon.tsx** (+35, -0)
+- **twinbed copy.svg** (+58, -40)
+- **BedIcon.tsx** (+71, -0)
+- **SingleBedIcon.tsx** (+57, -4)
 
 ## Visualizations
 
@@ -38,11 +39,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2127
+".tsx" : 2224
 ".css" : 329
 ".json" : 378
 ".ts" : 929
-".svg" : 170
+".svg" : 184
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -57,9 +58,9 @@ title Coding activity by hour (count of changes)
 "10h" : 9
 "12h" : 10
 "14h" : 19
-"15h" : 21
+"15h" : 26
 "23h" : 2
 ```
 
 
-> **Last Updated:** 10/10/2025, 3:25:58 PM
+> **Last Updated:** 10/10/2025, 3:35:58 PM
