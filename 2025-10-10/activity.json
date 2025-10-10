@@ -2,9 +2,9 @@
   "date": "2025-10-10",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3326,
-      "totalLinesRemoved": 398,
-      "totalActiveTime": 192,
+      "totalLinesAdded": 3385,
+      "totalLinesRemoved": 429,
+      "totalActiveTime": 198,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\print\\VenueCard.tsx": [
           {
@@ -1348,6 +1348,34 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-10-10T13:15:34.614Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-10T13:15:47.928Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\StepContact.tsx": [
@@ -1758,6 +1786,64 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed.svg": [
+          {
+            "timestamp": "2025-10-10T13:12:51.822Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed.svg",
+            "fileType": ".svg",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-10-10T13:12:52.159Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed.svg",
+            "fileType": ".svg",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-10-10T13:13:14.101Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
+          },
+          {
+            "timestamp": "2025-10-10T13:13:44.226Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\public\\images\\picto\\twinbed.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
           }
         ]
       },
