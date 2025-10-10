@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1579                                          |
-| **Lines Removed** (➖) | 248                                        |
-| **Net Change** (↕)    | 1331                |
-| **Active Time** (⌚)   | 109 minutes |
+| **Lines Added** (➕)   | 1580                                          |
+| **Lines Removed** (➖) | 256                                        |
+| **Net Change** (↕)    | 1324                |
+| **Active Time** (⌚)   | 114 minutes |
 
 
 ## Modified Files
-- **VenueCard.tsx** (+844, -135)
-- **page.tsx** (+261, -3)
+- **VenueCard.tsx** (+844, -138)
+- **page.tsx** (+262, -8)
 - **RseScore.tsx** (+51, -0)
 - **PlaceHorizontalCard.tsx** (+45, -0)
 - **layout.tsx** (+104, -56)
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1499
+".tsx" : 1508
 ".css" : 328
 ```
 
@@ -36,9 +36,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 39
 "01h" : 25
-"02h" : 2
+"02h" : 6
 "23h" : 2
 ```
 
 
-> **Last Updated:** 10/10/2025, 2:00:55 AM
+> **Last Updated:** 10/10/2025, 2:05:55 AM
