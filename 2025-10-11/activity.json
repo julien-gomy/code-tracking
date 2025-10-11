@@ -142,9 +142,9 @@
       "averageChangeSize": 159.33333333333334
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 1612,
+      "totalLinesAdded": 1619,
       "totalLinesRemoved": 29,
-      "totalActiveTime": 78,
+      "totalActiveTime": 79,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\[category_slug]\\[[...url_path]]\\page.tsx": [
           {
@@ -759,6 +759,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-11T09:40:07.739Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\place\\hall-table\\HallTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-11T09:41:00.195Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\place\\hall-table\\HallTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
