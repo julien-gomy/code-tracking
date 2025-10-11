@@ -355,8 +355,8 @@
     },
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 2028,
-      "totalLinesRemoved": 354,
-      "totalActiveTime": 104,
+      "totalLinesRemoved": 372,
+      "totalActiveTime": 108,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\[category_slug]\\[[...url_path]]\\page.tsx": [
           {
@@ -1381,6 +1381,48 @@
             "fileType": ".tsx",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-11T13:51:54.726Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-11T13:53:11.167Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-11T13:53:58.414Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
               "added": [],
