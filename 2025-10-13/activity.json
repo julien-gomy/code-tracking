@@ -510,6 +510,53 @@
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\(test)\\temp2\\page.tsx"
       ],
       "averageChangeSize": 15.545454545454545
+    },
+    "frontend-cms": {
+      "totalLinesAdded": 32,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local": [
+          {
+            "timestamp": "2025-10-13T09:56:30.175Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-10-13T09:56:30.782Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "local"
+          }
+        ]
+      },
+      "languageStats": {
+        "local": 1
+      },
+      "changeFrequency": {
+        "11": 1
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local"
+      ],
+      "averageChangeSize": 16
     }
   },
   "totalActiveTime": 10,
