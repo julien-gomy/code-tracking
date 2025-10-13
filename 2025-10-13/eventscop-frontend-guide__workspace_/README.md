@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10362                                          |
-| **Lines Removed** (➖) | 69                                        |
-| **Net Change** (↕)    | 10293                |
-| **Active Time** (⌚)   | 73 minutes |
+| **Lines Added** (➕)   | 10567                                          |
+| **Lines Removed** (➖) | 70                                        |
+| **Net Change** (↕)    | 10497                |
+| **Active Time** (⌚)   | 78 minutes |
 
 
 ## Modified Files
@@ -19,12 +19,12 @@
 - **nutrition_eval_form.tsx** (+857, -0)
 - **VenueCard.tsx** (+1, -0)
 - **GeneralEntityTextBlock.tsx** (+49, -1)
-- **utils-client.ts** (+231, -6)
+- **utils-client.ts** (+347, -7)
 - **page.tsx** (+295, -0)
 - **page.tsx** (+230, -0)
 - **page.tsx** (+299, -0)
 - **page.tsx** (+280, -0)
-- **page.tsx** (+259, -1)
+- **page.tsx** (+262, -1)
 - **page.tsx** (+230, -0)
 - **page.tsx** (+295, -0)
 - **page.tsx** (+299, -0)
@@ -32,10 +32,12 @@
 - **page.tsx** (+315, -0)
 - **MapColumnContainer.tsx** (+30, -0)
 - **PlaceList.tsx** (+110, -0)
-- **SearchContainer.tsx** (+86, -0)
+- **SearchContainer.tsx** (+89, -0)
 - **pnpm-lock.yaml** (+4637, -0)
 - **pages.ts** (+287, -0)
 - **page.ts** (+41, -0)
+- **PlaceCardDescription.tsx** (+57, -0)
+- **MapColumnContainerClient.tsx** (+26, -0)
 
 ## Visualizations
 
@@ -44,8 +46,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5229
-".ts" : 565
+".tsx" : 5318
+".ts" : 682
 ".yaml" : 4637
 ```
 
@@ -59,8 +61,8 @@ title Coding activity by hour (count of changes)
 "11h" : 2
 "14h" : 16
 "15h" : 4
-"16h" : 10
+"16h" : 16
 ```
 
 
-> **Last Updated:** 10/13/2025, 4:26:34 PM
+> **Last Updated:** 10/13/2025, 4:31:34 PM
