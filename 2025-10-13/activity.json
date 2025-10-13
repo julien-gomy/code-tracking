@@ -760,9 +760,9 @@
       "averageChangeSize": 15.545454545454545
     },
     "frontend-cms": {
-      "totalLinesAdded": 1415,
-      "totalLinesRemoved": 15,
-      "totalActiveTime": 17,
+      "totalLinesAdded": 1449,
+      "totalLinesRemoved": 43,
+      "totalActiveTime": 19,
       "files": {
         "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local": [
           {
@@ -901,6 +901,48 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T13:01:09.162Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\app\\content\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T13:01:30.026Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\app\\content\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-13T13:01:41.252Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\app\\content\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 28,
             "projectName": "frontend-cms",
             "content": {
               "added": [],
