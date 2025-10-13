@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 10876                                          |
-| **Lines Removed** (➖) | 265                                        |
-| **Net Change** (↕)    | 10611                |
+| **Lines Removed** (➖) | 295                                        |
+| **Net Change** (↕)    | 10581                |
 | **Active Time** (⌚)   | 94 minutes |
 
 
@@ -36,7 +36,7 @@
 - **pnpm-lock.yaml** (+4637, -0)
 - **pages.ts** (+287, -0)
 - **page.ts** (+41, -0)
-- **PlaceCardDescription.tsx** (+89, -0)
+- **PlaceCardDescription.tsx** (+89, -30)
 - **MapColumnContainerClient.tsx** (+26, -0)
 - **QuerySearchResults.tsx** (+47, -0)
 - **PlaceCard.tsx** (+146, -0)
@@ -48,7 +48,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5555
+".tsx" : 5585
 ".ts" : 949
 ".yaml" : 4637
 ```
@@ -65,8 +65,8 @@ title Coding activity by hour (count of changes)
 "15h" : 4
 "16h" : 23
 "17h" : 3
-"18h" : 5
+"18h" : 6
 ```
 
 
-> **Last Updated:** 10/13/2025, 6:16:34 PM
+> **Last Updated:** 10/13/2025, 6:21:34 PM
