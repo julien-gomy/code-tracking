@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11307                                          |
-| **Lines Removed** (➖) | 437                                        |
-| **Net Change** (↕)    | 10870                |
+| **Lines Added** (➕)   | 11321                                          |
+| **Lines Removed** (➖) | 455                                        |
+| **Net Change** (↕)    | 10866                |
 | **Active Time** (⌚)   | 115 minutes |
 
 
@@ -24,7 +24,7 @@
 - **page.tsx** (+230, -0)
 - **page.tsx** (+299, -0)
 - **page.tsx** (+280, -0)
-- **page.tsx** (+266, -47)
+- **page.tsx** (+268, -47)
 - **page.tsx** (+230, -0)
 - **page.tsx** (+295, -0)
 - **page.tsx** (+299, -0)
@@ -41,9 +41,9 @@
 - **QuerySearchResults.tsx** (+47, -0)
 - **PlaceCard.tsx** (+146, -0)
 - **sanitize-server.ts** (+188, -81)
-- **SearchResults.tsx** (+44, -2)
-- **CateringFormContent.tsx** (+144, -4)
-- **SingleBedIcon.tsx** (+53, -0)
+- **SearchResults.tsx** (+56, -2)
+- **CateringFormContent.tsx** (+144, -8)
+- **SingleBedIcon.tsx** (+53, -14)
 
 ## Visualizations
 
@@ -52,7 +52,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5889
+".tsx" : 5921
 ".ts" : 1218
 ".yaml" : 4637
 ```
@@ -71,7 +71,8 @@ title Coding activity by hour (count of changes)
 "17h" : 3
 "18h" : 20
 "19h" : 1
+"22h" : 4
 ```
 
 
-> **Last Updated:** 10/13/2025, 7:01:34 PM
+> **Last Updated:** 10/13/2025, 10:11:35 PM
