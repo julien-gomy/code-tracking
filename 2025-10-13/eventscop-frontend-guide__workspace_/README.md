@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11246                                          |
-| **Lines Removed** (➖) | 386                                        |
-| **Net Change** (↕)    | 10860                |
-| **Active Time** (⌚)   | 114 minutes |
+| **Lines Added** (➕)   | 11303                                          |
+| **Lines Removed** (➖) | 437                                        |
+| **Net Change** (↕)    | 10866                |
+| **Active Time** (⌚)   | 115 minutes |
 
 
 ## Modified Files
@@ -24,7 +24,7 @@
 - **page.tsx** (+230, -0)
 - **page.tsx** (+299, -0)
 - **page.tsx** (+280, -0)
-- **page.tsx** (+266, -4)
+- **page.tsx** (+266, -47)
 - **page.tsx** (+230, -0)
 - **page.tsx** (+295, -0)
 - **page.tsx** (+299, -0)
@@ -32,17 +32,18 @@
 - **page.tsx** (+315, -0)
 - **MapColumnContainer.tsx** (+30, -1)
 - **PlaceList.tsx** (+110, -0)
-- **SearchContainer.tsx** (+93, -3)
+- **SearchContainer.tsx** (+93, -7)
 - **pnpm-lock.yaml** (+4637, -0)
 - **pages.ts** (+287, -0)
 - **page.ts** (+41, -0)
-- **PlaceCardDescription.tsx** (+89, -35)
+- **PlaceCardDescription.tsx** (+91, -35)
 - **MapColumnContainerClient.tsx** (+26, -0)
 - **QuerySearchResults.tsx** (+47, -0)
 - **PlaceCard.tsx** (+146, -0)
 - **sanitize-server.ts** (+188, -81)
-- **SearchResults.tsx** (+42, -2)
-- **CateringFormContent.tsx** (+140, -0)
+- **SearchResults.tsx** (+44, -2)
+- **CateringFormContent.tsx** (+140, -4)
+- **SingleBedIcon.tsx** (+53, -0)
 
 ## Visualizations
 
@@ -51,7 +52,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5777
+".tsx" : 5885
 ".ts" : 1218
 ".yaml" : 4637
 ```
@@ -68,8 +69,8 @@ title Coding activity by hour (count of changes)
 "15h" : 4
 "16h" : 23
 "17h" : 3
-"18h" : 14
+"18h" : 20
 ```
 
 
-> **Last Updated:** 10/13/2025, 6:41:34 PM
+> **Last Updated:** 10/13/2025, 6:51:34 PM
