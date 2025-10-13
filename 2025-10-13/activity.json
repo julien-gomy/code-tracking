@@ -2,7 +2,7 @@
   "date": "2025-10-13",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 2108,
+      "totalLinesAdded": 2109,
       "totalLinesRemoved": 61,
       "totalActiveTime": 34,
       "files": {
@@ -470,6 +470,22 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(test)\\test\\temp2\\nutrition_eval_form.tsx",
             "fileType": ".tsx",
             "linesAdded": 857,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\print\\VenueCard.tsx": [
+          {
+            "timestamp": "2025-10-13T09:26:22.191Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\print\\VenueCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
