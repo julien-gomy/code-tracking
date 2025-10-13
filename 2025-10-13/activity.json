@@ -512,9 +512,9 @@
       "averageChangeSize": 15.545454545454545
     },
     "frontend-cms": {
-      "totalLinesAdded": 32,
+      "totalLinesAdded": 271,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local": [
           {
@@ -544,6 +544,22 @@
             },
             "duration": 1,
             "language": "local"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\pages\\pages-table-client.tsx": [
+          {
+            "timestamp": "2025-10-13T10:00:29.200Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\pages\\pages-table-client.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 239,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
           }
         ]
       },
