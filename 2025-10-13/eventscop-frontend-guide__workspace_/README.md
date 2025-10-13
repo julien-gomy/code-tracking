@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10983                                          |
-| **Lines Removed** (➖) | 381                                        |
-| **Net Change** (↕)    | 10602                |
-| **Active Time** (⌚)   | 101 minutes |
+| **Lines Added** (➕)   | 11106                                          |
+| **Lines Removed** (➖) | 383                                        |
+| **Net Change** (↕)    | 10723                |
+| **Active Time** (⌚)   | 107 minutes |
 
 
 ## Modified Files
@@ -40,7 +40,8 @@
 - **MapColumnContainerClient.tsx** (+26, -0)
 - **QuerySearchResults.tsx** (+47, -0)
 - **PlaceCard.tsx** (+146, -0)
-- **sanitize-server.ts** (+107, -81)
+- **sanitize-server.ts** (+188, -81)
+- **SearchResults.tsx** (+42, -2)
 
 ## Visualizations
 
@@ -49,8 +50,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5590
-".ts" : 1137
+".tsx" : 5634
+".ts" : 1218
 ".yaml" : 4637
 ```
 
@@ -66,8 +67,8 @@ title Coding activity by hour (count of changes)
 "15h" : 4
 "16h" : 23
 "17h" : 3
-"18h" : 9
+"18h" : 12
 ```
 
 
-> **Last Updated:** 10/13/2025, 6:26:34 PM
+> **Last Updated:** 10/13/2025, 6:31:34 PM
