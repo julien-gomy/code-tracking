@@ -963,6 +963,53 @@
         "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local"
       ],
       "averageChangeSize": 16
+    },
+    "cdp.aleoudev.fr (Workspace)": {
+      "totalLinesAdded": 2133,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\helper\\fx_query.asp": [
+          {
+            "timestamp": "2025-10-13T13:10:18.290Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\helper\\fx_query.asp",
+            "fileType": ".asp",
+            "linesAdded": 2132,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-13T13:11:06.523Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\helper\\fx_query.asp",
+            "fileType": ".asp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          }
+        ]
+      },
+      "languageStats": {
+        "asp": 1
+      },
+      "changeFrequency": {
+        "15": 1
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\helper\\fx_query.asp"
+      ],
+      "averageChangeSize": 1066.5
     }
   },
   "totalActiveTime": 10,
