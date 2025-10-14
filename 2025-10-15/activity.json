@@ -77,6 +77,39 @@
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\etab_queries_tmp\\functions.asp"
       ],
       "averageChangeSize": 607
+    },
+    "usr.aleoudev.fr (Workspace)": {
+      "totalLinesAdded": 1791,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\frs_demandes.asp": [
+          {
+            "timestamp": "2025-10-14T23:31:03.457Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\frs_demandes.asp",
+            "fileType": ".asp",
+            "linesAdded": 1791,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          }
+        ]
+      },
+      "languageStats": {
+        "asp": 0
+      },
+      "changeFrequency": {
+        "1": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\frs_demandes.asp"
+      ],
+      "averageChangeSize": 1791
     }
   },
   "totalActiveTime": 0,
