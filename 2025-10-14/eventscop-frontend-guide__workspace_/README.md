@@ -4,19 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 423                                          |
-| **Lines Removed** (➖) | 28                                        |
-| **Net Change** (↕)    | 395                |
-| **Active Time** (⌚)   | 17 minutes |
+| **Lines Added** (➕)   | 425                                          |
+| **Lines Removed** (➖) | 42                                        |
+| **Net Change** (↕)    | 383                |
+| **Active Time** (⌚)   | 25 minutes |
 
 
 ## Modified Files
 - **ActivityCard.tsx** (+166, -8)
 - **halltable.ts** (+20, -0)
-- **HallRow.tsx** (+80, -6)
-- **HallTable.tsx** (+72, -4)
-- **HallTableFooter.tsx** (+31, -5)
-- **HallTableHeader.tsx** (+54, -5)
+- **HallRow.tsx** (+82, -6)
+- **HallTable.tsx** (+72, -13)
+- **HallTableFooter.tsx** (+31, -8)
+- **HallTableHeader.tsx** (+54, -7)
 
 ## Visualizations
 
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 431
+".tsx" : 447
 ".ts" : 20
 ```
 
@@ -35,8 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 3
-"14h" : 16
+"14h" : 20
 ```
 
 
-> **Last Updated:** 10/14/2025, 2:25:11 PM
+> **Last Updated:** 10/14/2025, 2:30:11 PM
