@@ -532,9 +532,9 @@
       "averageChangeSize": 1781
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1835,
-      "totalLinesRemoved": 41,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 1870,
+      "totalLinesRemoved": 61,
+      "totalActiveTime": 20,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\routes.py": [
           {
@@ -633,6 +633,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-14T14:00:53.155Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-14T14:03:17.276Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-14T14:03:31.890Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ],
