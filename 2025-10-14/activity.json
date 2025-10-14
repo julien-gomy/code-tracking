@@ -2,9 +2,9 @@
   "date": "2025-10-14",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 1349,
-      "totalLinesRemoved": 45,
-      "totalActiveTime": 31,
+      "totalLinesAdded": 1370,
+      "totalLinesRemoved": 46,
+      "totalActiveTime": 32,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\team-building\\ActivityCard.tsx": [
           {
@@ -516,6 +516,36 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\place.ts": [
+          {
+            "timestamp": "2025-10-14T15:41:34.885Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\place.ts",
+            "fileType": ".ts",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-14T15:41:58.116Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\place.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
