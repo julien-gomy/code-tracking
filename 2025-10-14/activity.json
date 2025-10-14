@@ -560,9 +560,9 @@
       "averageChangeSize": 1781
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1870,
+      "totalLinesAdded": 2161,
       "totalLinesRemoved": 61,
-      "totalActiveTime": 20,
+      "totalActiveTime": 21,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\routes.py": [
           {
@@ -784,6 +784,36 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_customer_reviews\\routes.py",
             "fileType": ".py",
             "linesAdded": 177,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\continents\\countries\\referenced_searches\\routes.py": [
+          {
+            "timestamp": "2025-10-14T14:18:23.635Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\continents\\countries\\referenced_searches\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 287,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-14T14:18:51.437Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\continents\\countries\\referenced_searches\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "eventscop-api-guide (Workspace)",
             "content": {
