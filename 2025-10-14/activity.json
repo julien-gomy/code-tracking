@@ -63,7 +63,7 @@
       "averageChangeSize": 58
     },
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 1789,
+      "totalLinesAdded": 1791,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -87,6 +87,20 @@
             "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\frs_demandes.asp",
             "fileType": ".asp",
             "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-14T12:01:28.337Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\frs_demandes.asp",
+            "fileType": ".asp",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "usr.aleoudev.fr (Workspace)",
             "content": {
