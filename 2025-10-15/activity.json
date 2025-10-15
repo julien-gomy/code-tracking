@@ -124,6 +124,53 @@
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\frs_demandes.asp"
       ],
       "averageChangeSize": 1791
+    },
+    "eventscop-frontend-guide (Workspace)": {
+      "totalLinesAdded": 262,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx": [
+          {
+            "timestamp": "2025-10-15T00:02:27.416Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 219,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-15T00:02:40.280Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "2": 1
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx"
+      ],
+      "averageChangeSize": 131
     }
   },
   "totalActiveTime": 0,
