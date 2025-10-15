@@ -172,7 +172,7 @@
       "averageChangeSize": 1791
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 1332,
+      "totalLinesAdded": 1349,
       "totalLinesRemoved": 158,
       "totalActiveTime": 35,
       "files": {
@@ -538,6 +538,22 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\auth-token-manager.ts": [
+          {
+            "timestamp": "2025-10-15T12:38:28.629Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\auth-token-manager.ts",
+            "fileType": ".ts",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
