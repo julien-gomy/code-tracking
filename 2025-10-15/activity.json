@@ -1281,9 +1281,9 @@
       "averageChangeSize": 131
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 4443,
-      "totalLinesRemoved": 386,
-      "totalActiveTime": 88,
+      "totalLinesAdded": 4874,
+      "totalLinesRemoved": 411,
+      "totalActiveTime": 91,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py": [
           {
@@ -2348,6 +2348,52 @@
             "fileType": ".py",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_chains\\routes.py": [
+          {
+            "timestamp": "2025-10-15T15:33:22.250Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_chains\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 375,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_chains\\schemas.py": [
+          {
+            "timestamp": "2025-10-15T15:34:47.379Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_chains\\schemas.py",
+            "fileType": ".py",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-15T15:35:01.228Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_chains\\schemas.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 25,
             "projectName": "eventscop-api-guide (Workspace)",
             "content": {
               "added": [],
