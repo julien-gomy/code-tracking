@@ -172,9 +172,9 @@
       "averageChangeSize": 1791
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 2282,
+      "totalLinesAdded": 2294,
       "totalLinesRemoved": 342,
-      "totalActiveTime": 77,
+      "totalActiveTime": 83,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx": [
           {
@@ -696,6 +696,20 @@
             },
             "duration": 3,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-15T14:07:12.666Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\supplier-highlights.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\cache.ts": [
@@ -740,6 +754,20 @@
             },
             "duration": 3,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-15T14:06:32.856Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\cache.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\cache-tags.ts": [
@@ -783,6 +811,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-15T14:07:48.349Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\cache-tags.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
