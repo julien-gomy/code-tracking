@@ -172,9 +172,9 @@
       "averageChangeSize": 1791
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 2602,
-      "totalLinesRemoved": 354,
-      "totalActiveTime": 100,
+      "totalLinesAdded": 3326,
+      "totalLinesRemoved": 357,
+      "totalActiveTime": 104,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx": [
           {
@@ -1206,6 +1206,66 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\supplier-chains\\[chain_slug]\\page.tsx": [
+          {
+            "timestamp": "2025-10-15T15:29:10.658Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\supplier-chains\\[chain_slug]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 181,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-15T15:30:26.263Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\supplier-chains\\[chain_slug]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-15T15:30:34.947Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\supplier-chains\\[chain_slug]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\suppliers.ts": [
+          {
+            "timestamp": "2025-10-15T15:31:07.613Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\suppliers.ts",
+            "fileType": ".ts",
+            "linesAdded": 540,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
