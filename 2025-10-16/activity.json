@@ -98,9 +98,9 @@
       "averageChangeSize": 15
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 324,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 530,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 24,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\PresearchSection\\ClientPresearchSection.tsx": [
           {
@@ -333,6 +333,36 @@
               "removed": []
             },
             "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-15T22:55:28.583Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\cart.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\routing.ts": [
+          {
+            "timestamp": "2025-10-15T22:51:36.939Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\routing.ts",
+            "fileType": ".ts",
+            "linesAdded": 206,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ]
