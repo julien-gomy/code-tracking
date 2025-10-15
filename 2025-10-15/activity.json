@@ -2005,9 +2005,9 @@
       "averageChangeSize": 131
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 5045,
+      "totalLinesAdded": 5637,
       "totalLinesRemoved": 436,
-      "totalActiveTime": 92,
+      "totalActiveTime": 96,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py": [
           {
@@ -3182,6 +3182,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\routes_card.py": [
+          {
+            "timestamp": "2025-10-15T21:26:58.988Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\routes_card.py",
+            "fileType": ".py",
+            "linesAdded": 589,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-15T21:27:18.697Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\routes_card.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-15T21:29:50.183Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\routes_card.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ]
