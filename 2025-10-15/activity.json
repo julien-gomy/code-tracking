@@ -479,9 +479,9 @@
       "averageChangeSize": 131
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 2593,
+      "totalLinesAdded": 2702,
       "totalLinesRemoved": 149,
-      "totalActiveTime": 38,
+      "totalActiveTime": 41,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py": [
           {
@@ -995,6 +995,36 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.gitlab-ci.yml": [
+          {
+            "timestamp": "2025-10-15T10:42:09.742Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.gitlab-ci.yml",
+            "fileType": ".yml",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-10-15T10:44:25.284Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.gitlab-ci.yml",
+            "fileType": ".yml",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "yml"
           }
         ]
       },
