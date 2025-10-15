@@ -172,8 +172,8 @@
       "averageChangeSize": 1791
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 1902,
-      "totalLinesRemoved": 176,
+      "totalLinesAdded": 2169,
+      "totalLinesRemoved": 229,
       "totalActiveTime": 57,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx": [
@@ -494,6 +494,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-15T13:52:06.223Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\search\\DesktopSearchForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\SearchForm\\SearchForm.tsx": [
@@ -551,6 +565,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-15T13:52:06.234Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\SearchForm\\SearchForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -715,6 +743,52 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-15T13:52:06.210Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\search\\SearchFormClient.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 38,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\search\\[[...url_path]]\\page.tsx": [
+          {
+            "timestamp": "2025-10-15T13:52:06.172Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\search\\[[...url_path]]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 230,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\team-building\\ActivityGrid.tsx": [
+          {
+            "timestamp": "2025-10-15T13:52:06.193Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\team-building\\ActivityGrid.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
