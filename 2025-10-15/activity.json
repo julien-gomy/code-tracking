@@ -173,8 +173,8 @@
     },
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 1332,
-      "totalLinesRemoved": 157,
-      "totalActiveTime": 33,
+      "totalLinesRemoved": 158,
+      "totalActiveTime": 35,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx": [
           {
@@ -523,6 +523,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-15T12:30:52.747Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\SearchForm\\SearchForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
