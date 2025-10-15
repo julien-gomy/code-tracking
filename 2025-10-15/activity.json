@@ -509,9 +509,9 @@
       "averageChangeSize": 131
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 4374,
-      "totalLinesRemoved": 345,
-      "totalActiveTime": 79,
+      "totalLinesAdded": 4376,
+      "totalLinesRemoved": 349,
+      "totalActiveTime": 81,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py": [
           {
@@ -646,6 +646,48 @@
             "fileType": ".py",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-15T11:45:16.669Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-15T11:46:05.682Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-15T11:46:22.481Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "eventscop-api-guide (Workspace)",
             "content": {
               "added": [],
