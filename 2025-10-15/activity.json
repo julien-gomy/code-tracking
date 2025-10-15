@@ -188,7 +188,7 @@
       "averageChangeSize": 1791
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 5441,
+      "totalLinesAdded": 5531,
       "totalLinesRemoved": 749,
       "totalActiveTime": 165,
       "files": {
@@ -1856,6 +1856,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\atoms\\cart\\cartAtomUtils.ts": [
+          {
+            "timestamp": "2025-10-15T20:51:07.463Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\atoms\\cart\\cartAtomUtils.ts",
+            "fileType": ".ts",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
