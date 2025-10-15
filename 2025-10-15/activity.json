@@ -188,9 +188,9 @@
       "averageChangeSize": 1791
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 6349,
-      "totalLinesRemoved": 749,
-      "totalActiveTime": 174,
+      "totalLinesAdded": 6402,
+      "totalLinesRemoved": 750,
+      "totalActiveTime": 176,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx": [
           {
@@ -1980,6 +1980,50 @@
           {
             "timestamp": "2025-10-15T20:53:20.824Z",
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\supplier-activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\product.ts": [
+          {
+            "timestamp": "2025-10-15T21:37:22.092Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\product.ts",
+            "fileType": ".ts",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-15T21:37:25.106Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\product.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-15T21:38:06.159Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\product.ts",
             "fileType": ".ts",
             "linesAdded": 1,
             "linesRemoved": 0,
