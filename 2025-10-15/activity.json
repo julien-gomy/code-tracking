@@ -1407,9 +1407,9 @@
       "averageChangeSize": 131
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 4874,
-      "totalLinesRemoved": 411,
-      "totalActiveTime": 91,
+      "totalLinesAdded": 4899,
+      "totalLinesRemoved": 436,
+      "totalActiveTime": 92,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py": [
           {
@@ -2516,6 +2516,34 @@
           },
           {
             "timestamp": "2025-10-15T15:35:01.228Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_chains\\schemas.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-15T15:40:44.292Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_chains\\schemas.py",
+            "fileType": ".py",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-15T15:40:52.272Z",
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_chains\\schemas.py",
             "fileType": ".py",
             "linesAdded": 0,
