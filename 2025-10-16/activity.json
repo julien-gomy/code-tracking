@@ -2,7 +2,7 @@
   "date": "2025-10-16",
   "projects": {
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 0,
+      "totalLinesAdded": 29,
       "totalLinesRemoved": 45,
       "totalActiveTime": 2,
       "files": {
@@ -50,6 +50,22 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\Dockerfile": [
+          {
+            "timestamp": "2025-10-15T22:35:09.765Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
