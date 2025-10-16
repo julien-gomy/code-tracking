@@ -2,9 +2,9 @@
   "date": "2025-10-16",
   "projects": {
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 145,
+      "totalLinesAdded": 293,
       "totalLinesRemoved": 45,
-      "totalActiveTime": 6,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_highlights\\routes.py": [
           {
@@ -98,6 +98,36 @@
             },
             "duration": 0,
             "language": "unknown"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\e3bea9a52565_add_id_city_foreign_key_to_addresses_.py": [
+          {
+            "timestamp": "2025-10-16T12:19:12.083Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\e3bea9a52565_add_id_city_foreign_key_to_addresses_.py",
+            "fileType": ".py",
+            "linesAdded": 146,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-16T12:19:17.735Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\e3bea9a52565_add_id_city_foreign_key_to_addresses_.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },
