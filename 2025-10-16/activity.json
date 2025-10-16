@@ -1206,6 +1206,39 @@
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\gc\\data-load.asp"
       ],
       "averageChangeSize": 3234
+    },
+    "frontend-cms": {
+      "totalLinesAdded": 1,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\.next\\types\\package.json": [
+          {
+            "timestamp": "2025-10-16T11:16:28.343Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.next\\types\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\.next\\types\\package.json"
+      ],
+      "averageChangeSize": 1
     }
   },
   "totalActiveTime": 2,
