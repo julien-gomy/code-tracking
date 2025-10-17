@@ -2,9 +2,9 @@
   "date": "2025-10-17",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 736,
-      "totalLinesRemoved": 23,
-      "totalActiveTime": 33,
+      "totalLinesAdded": 856,
+      "totalLinesRemoved": 26,
+      "totalActiveTime": 39,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\ui\\RotatingText.tsx": [
           {
@@ -240,6 +240,78 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitlab-ci.yml": [
+          {
+            "timestamp": "2025-10-17T07:52:59.489Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitlab-ci.yml",
+            "fileType": ".yml",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-10-17T07:54:10.062Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitlab-ci.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-10-17T07:55:40.108Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitlab-ci.yml",
+            "fileType": ".yml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-10-17T07:56:12.914Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitlab-ci.yml",
+            "fileType": ".yml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-10-17T07:56:16.905Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitlab-ci.yml",
+            "fileType": ".yml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
           }
         ]
       },
