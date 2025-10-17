@@ -239,9 +239,9 @@
       "averageChangeSize": 34
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 4429,
+      "totalLinesAdded": 4536,
       "totalLinesRemoved": 22,
-      "totalActiveTime": 27,
+      "totalActiveTime": 31,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\etab\\functions.asp": [
           {
@@ -454,6 +454,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-17T01:01:34.877Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\suppliers\\supplier_form.asp",
+            "fileType": ".asp",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-17T01:03:32.747Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\suppliers\\supplier_form.asp",
+            "fileType": ".asp",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-17T01:04:43.756Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\suppliers\\supplier_form.asp",
+            "fileType": ".asp",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "asp"
           }
         ],
