@@ -2,8 +2,8 @@
   "date": "2025-10-17",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 856,
-      "totalLinesRemoved": 26,
+      "totalLinesAdded": 888,
+      "totalLinesRemoved": 36,
       "totalActiveTime": 39,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\ui\\RotatingText.tsx": [
@@ -118,6 +118,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-17T12:09:42.155Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\ui\\RotatingText.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\PresearchSection\\ClientPresearchSection.tsx": [
@@ -224,6 +238,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-17T12:09:42.194Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\csr-standards-and-assessments\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\supplier-highlights.ts": [
@@ -312,6 +340,22 @@
             },
             "duration": 1,
             "language": "yml"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\HeroSection\\HeroSection.tsx": [
+          {
+            "timestamp": "2025-10-17T12:09:42.163Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\HeroSection\\HeroSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
