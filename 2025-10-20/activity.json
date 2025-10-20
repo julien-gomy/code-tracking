@@ -187,7 +187,7 @@
       "averageChangeSize": 3.6666666666666665
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 1977,
+      "totalLinesAdded": 5800,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -218,6 +218,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\suppliers\\supplier_form.asp": [
+          {
+            "timestamp": "2025-10-20T10:06:41.727Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\suppliers\\supplier_form.asp",
+            "fileType": ".asp",
+            "linesAdded": 3823,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "asp"
           }
         ]
