@@ -98,7 +98,7 @@
       "averageChangeSize": 5
     },
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 1137,
+      "totalLinesAdded": 1154,
       "totalLinesRemoved": 13,
       "totalActiveTime": 37,
       "files": {
@@ -418,6 +418,20 @@
             "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande_prestataire.asp",
             "fileType": ".asp",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-20T14:27:29.869Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande_prestataire.asp",
+            "fileType": ".asp",
+            "linesAdded": 17,
             "linesRemoved": 0,
             "projectName": "usr.aleoudev.fr (Workspace)",
             "content": {
