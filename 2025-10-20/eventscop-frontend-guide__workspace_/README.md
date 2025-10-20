@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1874                                          |
-| **Lines Removed** (➖) | 67                                        |
-| **Net Change** (↕)    | 1807                |
-| **Active Time** (⌚)   | 59 minutes |
+| **Lines Added** (➕)   | 1918                                          |
+| **Lines Removed** (➖) | 105                                        |
+| **Net Change** (↕)    | 1813                |
+| **Active Time** (⌚)   | 68 minutes |
 
 
 ## Modified Files
@@ -18,17 +18,18 @@
 - **page.tsx** (+8, -0)
 - **supplier.ts** (+499, -0)
 - **WelcomeSelectSteps.tsx** (+135, -0)
-- **ActivityCapacityBrief.tsx** (+102, -3)
-- **urls.ts** (+97, -4)
+- **ActivityCapacityBrief.tsx** (+105, -6)
+- **urls.ts** (+98, -5)
 - **common.ts** (+210, -3)
 - **ActivityHeroSection.tsx** (+46, -1)
 - **HeroTitleBase.tsx** (+1, -1)
-- **ContactButtons.tsx** (+169, -1)
+- **ContactButtons.tsx** (+181, -13)
 - **PlaceQuoteSidebar.tsx** (+70, -2)
-- **ProviderQuoteSidebar.tsx** (+72, -29)
-- **place.ts** (+357, -0)
+- **ProviderQuoteSidebar.tsx** (+86, -43)
+- **place.ts** (+358, -1)
 - **phone.ts** (+29, -1)
-- **index.ts** (+13, -0)
+- **index.ts** (+14, -1)
+- **footer.ts** (+12, -6)
 
 ## Visualizations
 
@@ -37,8 +38,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 716
-".ts" : 1225
+".tsx" : 774
+".ts" : 1249
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -51,8 +52,8 @@ title Coding activity by hour (count of changes)
 "17h" : 9
 "21h" : 18
 "22h" : 1
-"23h" : 22
+"23h" : 37
 ```
 
 
-> **Last Updated:** 10/20/2025, 11:21:36 PM
+> **Last Updated:** 10/20/2025, 11:41:36 PM
