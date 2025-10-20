@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 542                                          |
+| **Lines Added** (➕)   | 605                                          |
 | **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 537                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Net Change** (↕)    | 600                |
+| **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
 - **cli_demande_proposition.asp** (+6, -5)
 - **cli_demande_prestataire.asp** (+536, -0)
+- **keybindings.json** (+63, -0)
 
 ## Visualizations
 
@@ -22,6 +23,7 @@
 pie showData
 title Lines changed by file type
 ".asp" : 547
+".json" : 63
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"11h" : 4
+"11h" : 7
 ```
 
 
-> **Last Updated:** 10/20/2025, 11:50:40 AM
+> **Last Updated:** 10/20/2025, 11:55:40 AM
