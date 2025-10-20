@@ -680,9 +680,9 @@
       "averageChangeSize": 988.5
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 13,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 24,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\search\\services\\search_engine.py": [
           {
@@ -715,6 +715,48 @@
           },
           {
             "timestamp": "2025-10-20T15:04:11.522Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\search\\services\\search_engine.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-20T15:06:35.339Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\search\\services\\search_engine.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-20T15:06:59.348Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\search\\services\\search_engine.py",
+            "fileType": ".py",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-20T15:07:12.940Z",
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\search\\services\\search_engine.py",
             "fileType": ".py",
             "linesAdded": 0,
