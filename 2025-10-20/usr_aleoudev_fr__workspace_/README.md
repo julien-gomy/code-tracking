@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1451                                          |
-| **Lines Removed** (➖) | 21                                        |
-| **Net Change** (↕)    | 1430                |
-| **Active Time** (⌚)   | 59 minutes |
+| **Lines Added** (➕)   | 1459                                          |
+| **Lines Removed** (➖) | 22                                        |
+| **Net Change** (↕)    | 1437                |
+| **Active Time** (⌚)   | 65 minutes |
 
 
 ## Modified Files
-- **cli_demande_proposition.asp** (+115, -10)
+- **cli_demande_proposition.asp** (+123, -11)
 - **cli_demande_prestataire.asp** (+652, -11)
 - **keybindings.json** (+63, -0)
 - **cli_demande_comparateur.asp** (+438, -0)
@@ -24,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".asp" : 1226
+".asp" : 1235
 ".json" : 63
 ".js" : 183
 ```
@@ -40,8 +40,8 @@ title Coding activity by hour (count of changes)
 "14h" : 5
 "15h" : 3
 "16h" : 7
-"18h" : 9
+"18h" : 11
 ```
 
 
-> **Last Updated:** 10/20/2025, 6:35:41 PM
+> **Last Updated:** 10/20/2025, 6:40:41 PM

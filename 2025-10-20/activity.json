@@ -228,9 +228,9 @@
       "averageChangeSize": 5
     },
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 1451,
-      "totalLinesRemoved": 21,
-      "totalActiveTime": 59,
+      "totalLinesAdded": 1459,
+      "totalLinesRemoved": 22,
+      "totalActiveTime": 65,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande_proposition.asp": [
           {
@@ -393,6 +393,34 @@
             "fileType": ".asp",
             "linesAdded": 5,
             "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-20T16:36:03.301Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande_proposition.asp",
+            "fileType": ".asp",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-20T16:37:18.898Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande_proposition.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "usr.aleoudev.fr (Workspace)",
             "content": {
               "added": [],
