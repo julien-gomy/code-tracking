@@ -98,7 +98,7 @@
       "averageChangeSize": 5
     },
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 695,
+      "totalLinesAdded": 1132,
       "totalLinesRemoved": 13,
       "totalActiveTime": 33,
       "files": {
@@ -442,6 +442,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande_comparateur.asp": [
+          {
+            "timestamp": "2025-10-20T13:39:31.333Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande_comparateur.asp",
+            "fileType": ".asp",
+            "linesAdded": 437,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
           }
         ]
       },
