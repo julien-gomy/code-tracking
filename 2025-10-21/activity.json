@@ -2718,7 +2718,7 @@
       "averageChangeSize": 14.666666666666666
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1761,
+      "totalLinesAdded": 1788,
       "totalLinesRemoved": 23,
       "totalActiveTime": 35,
       "files": {
@@ -3148,6 +3148,22 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\964fca6600a1_add_rse_label_languages.py",
             "fileType": ".py",
             "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_chains\\routes.py": [
+          {
+            "timestamp": "2025-10-21T16:47:10.043Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_chains\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 27,
             "linesRemoved": 0,
             "projectName": "eventscop-api-guide (Workspace)",
             "content": {
