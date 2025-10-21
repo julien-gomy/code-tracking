@@ -2504,9 +2504,9 @@
       "averageChangeSize": 14.666666666666666
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1696,
-      "totalLinesRemoved": 22,
-      "totalActiveTime": 28,
+      "totalLinesAdded": 1748,
+      "totalLinesRemoved": 23,
+      "totalActiveTime": 35,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\search\\services\\search_engine.py": [
           {
@@ -2883,6 +2883,50 @@
               "removed": []
             },
             "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-21T15:54:41.462Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\RseLabel.py",
+            "fileType": ".py",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-21T15:54:46.278Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\RseLabel.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\964fca6600a1_add_rse_label_languages.py": [
+          {
+            "timestamp": "2025-10-21T15:51:09.218Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\964fca6600a1_add_rse_label_languages.py",
+            "fileType": ".py",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
