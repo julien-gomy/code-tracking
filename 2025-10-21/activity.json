@@ -1465,6 +1465,39 @@
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\search\\services\\search_engine.py"
       ],
       "averageChangeSize": 11
+    },
+    "cdp.aleoudev.fr (Workspace)": {
+      "totalLinesAdded": 612,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\etab_queries_tmp\\functions.asp": [
+          {
+            "timestamp": "2025-10-21T08:35:42.695Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\etab_queries_tmp\\functions.asp",
+            "fileType": ".asp",
+            "linesAdded": 612,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          }
+        ]
+      },
+      "languageStats": {
+        "asp": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\etab_queries_tmp\\functions.asp"
+      ],
+      "averageChangeSize": 612
     }
   },
   "totalActiveTime": 3,
