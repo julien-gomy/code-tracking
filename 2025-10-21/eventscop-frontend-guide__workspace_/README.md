@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 2330                                          |
-| **Lines Removed** (➖) | 229                                        |
-| **Net Change** (↕)    | 2101                |
-| **Active Time** (⌚)   | 209 minutes |
+| **Lines Removed** (➖) | 231                                        |
+| **Net Change** (↕)    | 2099                |
+| **Active Time** (⌚)   | 211 minutes |
 
 
 ## Modified Files
@@ -37,7 +37,7 @@
 - **BottomBar.tsx** (+48, -8)
 - **BudgetField.tsx** (+43, -6)
 - **PresearchResults.tsx** (+91, -0)
-- **PlaceCard.tsx** (+150, -2)
+- **PlaceCard.tsx** (+150, -4)
 - **PlaceCardImage.tsx** (+79, -1)
 - **place-list.ts** (+36, -0)
 
@@ -48,7 +48,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1808
+".tsx" : 1810
 ".ts" : 682
 ".json" : 63
 ".local" : 6
@@ -70,8 +70,8 @@ title Coding activity by hour (count of changes)
 "13h" : 23
 "14h" : 2
 "15h" : 11
-"16h" : 5
+"16h" : 7
 ```
 
 
-> **Last Updated:** 10/21/2025, 4:11:40 PM
+> **Last Updated:** 10/21/2025, 4:16:40 PM
