@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2325                                          |
-| **Lines Removed** (➖) | 223                                        |
-| **Net Change** (↕)    | 2102                |
-| **Active Time** (⌚)   | 192 minutes |
+| **Lines Added** (➕)   | 2326                                          |
+| **Lines Removed** (➖) | 226                                        |
+| **Net Change** (↕)    | 2100                |
+| **Active Time** (⌚)   | 199 minutes |
 
 
 ## Modified Files
@@ -25,7 +25,7 @@
 - **actions.ts** (+42, -0)
 - **constants.ts** (+104, -0)
 - **index.ts** (+46, -0)
-- **place.ts** (+66, -50)
+- **place.ts** (+67, -51)
 - **common.ts** (+21, -16)
 - **customer-reviews.ts** (+101, -1)
 - **PropertyGrid.tsx** (+78, -8)
@@ -37,8 +37,8 @@
 - **BottomBar.tsx** (+48, -8)
 - **BudgetField.tsx** (+43, -6)
 - **PresearchResults.tsx** (+90, -0)
-- **PlaceCard.tsx** (+147, -0)
-- **PlaceCardImage.tsx** (+79, -0)
+- **PlaceCard.tsx** (+147, -1)
+- **PlaceCardImage.tsx** (+79, -1)
 - **place-list.ts** (+36, -0)
 
 ## Visualizations
@@ -48,8 +48,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1800
-".ts" : 679
+".tsx" : 1802
+".ts" : 681
 ".json" : 63
 ".local" : 6
 ```
@@ -69,8 +69,8 @@ title Coding activity by hour (count of changes)
 "12h" : 12
 "13h" : 23
 "14h" : 2
-"15h" : 6
+"15h" : 10
 ```
 
 
-> **Last Updated:** 10/21/2025, 3:51:40 PM
+> **Last Updated:** 10/21/2025, 3:56:40 PM
