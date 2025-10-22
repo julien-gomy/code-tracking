@@ -1,0 +1,47 @@
+{
+  "date": "2025-10-23",
+  "projects": {
+    "frontend-cms": {
+      "totalLinesAdded": 38,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\next.config.ts": [
+          {
+            "timestamp": "2025-10-22T21:58:20.562Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 4
+      },
+      "changeFrequency": {
+        "23": 4
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\next.config.ts"
+      ],
+      "averageChangeSize": 38
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
