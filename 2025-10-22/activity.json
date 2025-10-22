@@ -3,8 +3,8 @@
   "projects": {
     "eventscop-api-guide (Workspace)": {
       "totalLinesAdded": 591,
-      "totalLinesRemoved": 40,
-      "totalActiveTime": 57,
+      "totalLinesRemoved": 119,
+      "totalActiveTime": 59,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\rse_labels\\schemas.py": [
           {
@@ -401,6 +401,48 @@
             "fileType": ".py",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-22T08:32:59.386Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-22T08:33:26.406Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 70,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-22T08:33:40.921Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 6,
             "projectName": "eventscop-api-guide (Workspace)",
             "content": {
               "added": [],
