@@ -736,8 +736,8 @@
       "averageChangeSize": 34.75
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 214,
-      "totalLinesRemoved": 43,
+      "totalLinesAdded": 394,
+      "totalLinesRemoved": 86,
       "totalActiveTime": 42,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\supplier.ts": [
@@ -982,6 +982,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-22T14:34:57.019Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\[category_slug]\\[[...url_path]]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 43,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\rse.ts": [
@@ -1158,6 +1172,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx": [
+          {
+            "timestamp": "2025-10-22T14:34:57.024Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\places-congres-seminars\\[district_slug]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 180,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
