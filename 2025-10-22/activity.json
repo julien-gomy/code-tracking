@@ -1495,6 +1495,53 @@
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\etab\\functions.asp"
       ],
       "averageChangeSize": 333
+    },
+    "frontend-cms": {
+      "totalLinesAdded": 46,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\Dockerfile": [
+          {
+            "timestamp": "2025-10-22T21:10:55.331Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-10-22T21:12:13.028Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 2
+      },
+      "changeFrequency": {
+        "23": 2
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\Dockerfile"
+      ],
+      "averageChangeSize": 23
     }
   },
   "totalActiveTime": 6,
