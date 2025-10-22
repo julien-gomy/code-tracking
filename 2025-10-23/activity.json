@@ -2,9 +2,9 @@
   "date": "2025-10-23",
   "projects": {
     "frontend-cms": {
-      "totalLinesAdded": 136,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 8,
+      "totalLinesAdded": 226,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Mes Projets\\EventScop\\frontend-cms\\next.config.ts": [
           {
@@ -52,6 +52,48 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-10-22T22:16:02.552Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-22T22:17:16.580Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-22T22:17:20.946Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\api-es\\client.ts": [
@@ -68,6 +110,36 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local": [
+          {
+            "timestamp": "2025-10-22T22:15:30.747Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-10-22T22:15:53.821Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "local"
           }
         ]
       },
