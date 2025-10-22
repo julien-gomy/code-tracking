@@ -1,0 +1,97 @@
+{
+  "date": "2025-10-22",
+  "projects": {
+    "eventscop-api-guide (Workspace)": {
+      "totalLinesAdded": 139,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\rse_labels\\schemas.py": [
+          {
+            "timestamp": "2025-10-22T06:55:48.288Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\rse_labels\\schemas.py",
+            "fileType": ".py",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-22T06:57:42.407Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\rse_labels\\schemas.py",
+            "fileType": ".py",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\rse_labels\\routes.py": [
+          {
+            "timestamp": "2025-10-22T06:59:43.007Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\rse_labels\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 111,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\RseLabel.py": [
+          {
+            "timestamp": "2025-10-22T07:00:32.740Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\RseLabel.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 6
+      },
+      "changeFrequency": {
+        "8": 5,
+        "9": 1
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\rse_labels\\schemas.py",
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\rse_labels\\routes.py",
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\RseLabel.py"
+      ],
+      "averageChangeSize": 34.75
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    8,
+    9
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
