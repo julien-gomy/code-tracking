@@ -2,7 +2,7 @@
   "date": "2025-10-23",
   "projects": {
     "frontend-cms": {
-      "totalLinesAdded": 53,
+      "totalLinesAdded": 136,
       "totalLinesRemoved": 0,
       "totalActiveTime": 8,
       "files": {
@@ -52,6 +52,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\api-es\\client.ts": [
+          {
+            "timestamp": "2025-10-22T22:14:23.368Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\api-es\\client.ts",
+            "fileType": ".ts",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
