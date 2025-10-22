@@ -241,6 +241,39 @@
         "c:\\Mes Projets\\EventScop\\frontend-cms\\next.config.ts"
       ],
       "averageChangeSize": 38
+    },
+    "eventscop-frontend-guide (Workspace)": {
+      "totalLinesAdded": 295,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\pages.ts": [
+          {
+            "timestamp": "2025-10-22T23:00:29.048Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\pages.ts",
+            "fileType": ".ts",
+            "linesAdded": 295,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "1": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\pages.ts"
+      ],
+      "averageChangeSize": 295
     }
   },
   "totalActiveTime": 4,
