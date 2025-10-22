@@ -3,7 +3,7 @@
   "projects": {
     "eventscop-api-guide (Workspace)": {
       "totalLinesAdded": 547,
-      "totalLinesRemoved": 32,
+      "totalLinesRemoved": 39,
       "totalActiveTime": 51,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\rse_labels\\schemas.py": [
@@ -481,6 +481,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-22T08:23:42.214Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\SupplierChainRseLabel.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
