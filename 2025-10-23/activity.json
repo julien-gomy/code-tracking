@@ -2,9 +2,9 @@
   "date": "2025-10-23",
   "projects": {
     "frontend-cms": {
-      "totalLinesAdded": 38,
+      "totalLinesAdded": 53,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Mes Projets\\EventScop\\frontend-cms\\next.config.ts": [
           {
@@ -20,6 +20,38 @@
             },
             "duration": 4,
             "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\.vscode\\settings.json": [
+          {
+            "timestamp": "2025-10-22T22:01:08.785Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\.vscode\\tasks.json": [
+          {
+            "timestamp": "2025-10-22T22:01:54.942Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
