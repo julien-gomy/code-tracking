@@ -2,9 +2,9 @@
   "date": "2025-10-23",
   "projects": {
     "frontend-cms": {
-      "totalLinesAdded": 1181,
+      "totalLinesAdded": 1182,
       "totalLinesRemoved": 4,
-      "totalActiveTime": 23,
+      "totalActiveTime": 26,
       "files": {
         "c:\\Mes Projets\\EventScop\\frontend-cms\\next.config.ts": [
           {
@@ -153,6 +153,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-10-22T22:26:04.323Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "local"
           }
         ],
