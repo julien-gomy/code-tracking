@@ -690,6 +690,56 @@
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\RseLabel.py"
       ],
       "averageChangeSize": 34.75
+    },
+    "eventscop-frontend-guide (Workspace)": {
+      "totalLinesAdded": 10,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\supplier.ts": [
+          {
+            "timestamp": "2025-10-22T08:58:38.908Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\supplier.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\suppliers.ts": [
+          {
+            "timestamp": "2025-10-22T08:58:53.760Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\suppliers.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 1
+      },
+      "changeFrequency": {
+        "10": 1
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\supplier.ts",
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\suppliers.ts"
+      ],
+      "averageChangeSize": 5
     }
   },
   "totalActiveTime": 6,
