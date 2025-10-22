@@ -1497,9 +1497,9 @@
       "averageChangeSize": 333
     },
     "frontend-cms": {
-      "totalLinesAdded": 46,
+      "totalLinesAdded": 106,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 4,
       "files": {
         "c:\\Mes Projets\\EventScop\\frontend-cms\\Dockerfile": [
           {
@@ -1528,6 +1528,50 @@
               "removed": []
             },
             "duration": 2,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\.dockerignore": [
+          {
+            "timestamp": "2025-10-22T21:53:57.176Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.dockerignore",
+            "fileType": "unknown",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-10-22T21:54:06.975Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.dockerignore",
+            "fileType": "unknown",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-10-22T21:54:32.844Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.dockerignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "unknown"
           }
         ]
