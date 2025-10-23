@@ -632,9 +632,9 @@
       "averageChangeSize": 295
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1962,
+      "totalLinesAdded": 1963,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 23,
+      "totalActiveTime": 26,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\continents\\countries\\departments\\routes.py": [
           {
@@ -863,6 +863,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-23T08:52:58.344Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\cities\\services\\supplier_counter.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ]
