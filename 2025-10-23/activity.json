@@ -259,7 +259,7 @@
       "averageChangeSize": 38
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 2267,
+      "totalLinesAdded": 2502,
       "totalLinesRemoved": 25,
       "totalActiveTime": 31,
       "files": {
@@ -623,6 +623,22 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\pages\\list\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 95,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\recherche-destination-seminaire\\page.tsx": [
+          {
+            "timestamp": "2025-10-23T10:56:48.176Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\recherche-destination-seminaire\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 235,
             "linesRemoved": 0,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
