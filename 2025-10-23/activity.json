@@ -260,8 +260,8 @@
     },
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 7781,
-      "totalLinesRemoved": 278,
-      "totalActiveTime": 114,
+      "totalLinesRemoved": 280,
+      "totalActiveTime": 118,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\pages.ts": [
           {
@@ -1428,6 +1428,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-23T20:41:52.528Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\venue-location-search\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ],
