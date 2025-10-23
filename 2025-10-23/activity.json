@@ -259,9 +259,9 @@
       "averageChangeSize": 38
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 7875,
+      "totalLinesAdded": 7878,
       "totalLinesRemoved": 291,
-      "totalActiveTime": 139,
+      "totalActiveTime": 143,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\pages.ts": [
           {
@@ -1808,6 +1808,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-23T21:13:31.346Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\cities-for-venue-organization\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-23T21:14:32.530Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\cities-for-venue-organization\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
