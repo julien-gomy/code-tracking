@@ -3,8 +3,8 @@
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 5315,
-      "totalLinesRemoved": 1453,
-      "totalActiveTime": 121,
+      "totalLinesRemoved": 1459,
+      "totalActiveTime": 129,
       "files": {
         "c:\\Users\\Julien\\.claude\\settings.json": [
           {
@@ -1322,6 +1322,20 @@
             },
             "duration": 1,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-10-24T11:09:11.410Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\static\\Discover.tsx": [
@@ -1461,6 +1475,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-24T11:06:28.140Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\who-we-are\\VideoSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ]
