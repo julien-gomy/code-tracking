@@ -2,7 +2,7 @@
   "date": "2025-10-24",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 5184,
+      "totalLinesAdded": 5193,
       "totalLinesRemoved": 1453,
       "totalActiveTime": 115,
       "files": {
@@ -1386,6 +1386,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.git\\COMMIT_EDITMSG": [
+          {
+            "timestamp": "2025-10-24T10:49:46.759Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.git\\COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
