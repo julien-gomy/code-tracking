@@ -1647,9 +1647,9 @@
       "averageChangeSize": 44
     },
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 1969,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 1972,
+      "totalLinesRemoved": 10,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande.asp": [
           {
@@ -1686,6 +1686,48 @@
             "fileType": ".asp",
             "linesAdded": 0,
             "linesRemoved": 9,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-24T11:44:35.329Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande.asp",
+            "fileType": ".asp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-24T11:44:45.227Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-24T11:45:32.966Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande.asp",
+            "fileType": ".asp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "usr.aleoudev.fr (Workspace)",
             "content": {
               "added": [],
