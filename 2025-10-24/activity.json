@@ -2,7 +2,7 @@
   "date": "2025-10-24",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3751,
+      "totalLinesAdded": 4306,
       "totalLinesRemoved": 917,
       "totalActiveTime": 75,
       "files": {
@@ -375,6 +375,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 504,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-24T09:04:43.118Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\xg\\venue-finder-corporate\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 555,
+            "linesRemoved": 0,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
               "added": [],
