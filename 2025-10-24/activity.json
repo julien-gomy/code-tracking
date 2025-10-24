@@ -1645,6 +1645,67 @@
         "c:\\Users\\Julien\\.claude\\settings.json"
       ],
       "averageChangeSize": 44
+    },
+    "usr.aleoudev.fr (Workspace)": {
+      "totalLinesAdded": 1969,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande.asp": [
+          {
+            "timestamp": "2025-10-24T11:39:42.112Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande.asp",
+            "fileType": ".asp",
+            "linesAdded": 1968,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-24T11:43:25.554Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande.asp",
+            "fileType": ".asp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-24T11:43:37.164Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          }
+        ]
+      },
+      "languageStats": {
+        "asp": 5
+      },
+      "changeFrequency": {
+        "13": 5
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande.asp"
+      ],
+      "averageChangeSize": 659.3333333333334
     }
   },
   "totalActiveTime": 0,
