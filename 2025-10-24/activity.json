@@ -2,9 +2,9 @@
   "date": "2025-10-24",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 5031,
+      "totalLinesAdded": 5184,
       "totalLinesRemoved": 1453,
-      "totalActiveTime": 112,
+      "totalActiveTime": 115,
       "files": {
         "c:\\Users\\Julien\\.claude\\settings.json": [
           {
@@ -1330,6 +1330,54 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\static\\Discover.tsx",
             "fileType": ".tsx",
             "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\who-we-are\\HistorySection.tsx": [
+          {
+            "timestamp": "2025-10-24T10:30:06.666Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\who-we-are\\HistorySection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\who-we-are\\OfficesSection.tsx": [
+          {
+            "timestamp": "2025-10-24T10:30:15.834Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\who-we-are\\OfficesSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\who-we-are\\SolutionsSection.tsx": [
+          {
+            "timestamp": "2025-10-24T10:30:24.179Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\who-we-are\\SolutionsSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 65,
             "linesRemoved": 0,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
