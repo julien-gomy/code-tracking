@@ -1647,7 +1647,7 @@
       "averageChangeSize": 44
     },
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 2416,
+      "totalLinesAdded": 2423,
       "totalLinesRemoved": 10,
       "totalActiveTime": 16,
       "files": {
@@ -1748,6 +1748,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-24T11:57:41.089Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande.asp",
+            "fileType": ".asp",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "asp"
           }
         ],
