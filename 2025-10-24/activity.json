@@ -2,9 +2,9 @@
   "date": "2025-10-24",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 4306,
+      "totalLinesAdded": 4648,
       "totalLinesRemoved": 1425,
-      "totalActiveTime": 77,
+      "totalActiveTime": 81,
       "files": {
         "c:\\Users\\Julien\\.claude\\settings.json": [
           {
@@ -1045,6 +1045,38 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\search\\filters\\PlaceFilterContent.tsx": [
+          {
+            "timestamp": "2025-10-24T09:46:16.779Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\search\\filters\\PlaceFilterContent.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 297,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\venue-finder-corporate\\SecurityIndicatorsSection.tsx": [
+          {
+            "timestamp": "2025-10-24T09:49:27.014Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\venue-finder-corporate\\SecurityIndicatorsSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ]
