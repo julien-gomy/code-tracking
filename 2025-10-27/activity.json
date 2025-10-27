@@ -331,8 +331,8 @@
     },
     "cdp.aleoudev.fr (Workspace)": {
       "totalLinesAdded": 12340,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 33,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 38,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\session.asp": [
           {
@@ -651,6 +651,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T12:54:24.830Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\class\\EmpreinteCoo.class.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "asp"
           }
         ]
