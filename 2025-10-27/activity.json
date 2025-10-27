@@ -1414,7 +1414,7 @@
     },
     "usr.aleoudev.fr (Workspace)": {
       "totalLinesAdded": 9970,
-      "totalLinesRemoved": 47,
+      "totalLinesRemoved": 57,
       "totalActiveTime": 62,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\log.asp": [
@@ -1528,6 +1528,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T22:08:58.615Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\log.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "asp"
           }
         ],
