@@ -268,9 +268,9 @@
       "averageChangeSize": 225
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 5012,
+      "totalLinesAdded": 5013,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 10,
+      "totalActiveTime": 12,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\session.asp": [
           {
@@ -379,6 +379,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-10-27T10:35:27.382Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "unknown"
           }
         ]
