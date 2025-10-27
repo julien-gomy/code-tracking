@@ -2,7 +2,7 @@
   "date": "2025-10-27",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 1618,
+      "totalLinesAdded": 1716,
       "totalLinesRemoved": 445,
       "totalActiveTime": 25,
       "files": {
@@ -423,6 +423,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-27T16:16:57.170Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\test-cookies\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 98,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
