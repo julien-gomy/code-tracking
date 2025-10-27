@@ -1413,9 +1413,9 @@
       "averageChangeSize": 66.2
     },
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 9956,
+      "totalLinesAdded": 9970,
       "totalLinesRemoved": 47,
-      "totalActiveTime": 60,
+      "totalActiveTime": 62,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\log.asp": [
           {
@@ -1508,6 +1508,20 @@
             "fileType": ".asp",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T21:59:20.085Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\log.asp",
+            "fileType": ".asp",
+            "linesAdded": 7,
+            "linesRemoved": 0,
             "projectName": "usr.aleoudev.fr (Workspace)",
             "content": {
               "added": [],
@@ -2098,6 +2112,34 @@
             "fileType": ".asp",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T21:58:21.795Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\scripts\\outils.asp",
+            "fileType": ".asp",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T21:58:39.479Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\scripts\\outils.asp",
+            "fileType": ".asp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "usr.aleoudev.fr (Workspace)",
             "content": {
               "added": [],
