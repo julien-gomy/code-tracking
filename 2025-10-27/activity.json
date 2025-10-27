@@ -1414,8 +1414,8 @@
     },
     "usr.aleoudev.fr (Workspace)": {
       "totalLinesAdded": 9947,
-      "totalLinesRemoved": 35,
-      "totalActiveTime": 36,
+      "totalLinesRemoved": 40,
+      "totalActiveTime": 44,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\log.asp": [
           {
@@ -1444,6 +1444,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T21:41:15.588Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\log.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "asp"
           }
         ],
@@ -1650,6 +1664,34 @@
             "fileType": ".asp",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T21:38:16.991Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\session.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T21:41:34.749Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\session.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "usr.aleoudev.fr (Workspace)",
             "content": {
               "added": [],
