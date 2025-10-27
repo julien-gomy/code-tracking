@@ -2,9 +2,9 @@
   "date": "2025-10-28",
   "projects": {
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 149,
-      "totalLinesRemoved": 54,
-      "totalActiveTime": 8,
+      "totalLinesAdded": 299,
+      "totalLinesRemoved": 55,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\session.asp": [
           {
@@ -85,6 +85,64 @@
             "fileType": ".asp",
             "linesAdded": 0,
             "linesRemoved": 53,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T23:25:06.252Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\scripts\\helper\\crypto-vigenere.asp",
+            "fileType": ".asp",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T23:25:46.582Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\scripts\\helper\\crypto-vigenere.asp",
+            "fileType": ".asp",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\test-vigenere-final.asp": [
+          {
+            "timestamp": "2025-10-27T23:26:07.716Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\test-vigenere-final.asp",
+            "fileType": ".asp",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T23:26:08.584Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\test-vigenere-final.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "usr.aleoudev.fr (Workspace)",
             "content": {
               "added": [],
