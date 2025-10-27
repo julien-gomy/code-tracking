@@ -2,9 +2,9 @@
   "date": "2025-10-28",
   "projects": {
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 503,
-      "totalLinesRemoved": 249,
-      "totalActiveTime": 36,
+      "totalLinesAdded": 507,
+      "totalLinesRemoved": 275,
+      "totalActiveTime": 39,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\session.asp": [
           {
@@ -61,6 +61,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T23:44:45.813Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\session.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "asp"
           }
         ],
@@ -339,6 +353,34 @@
             "fileType": ".asp",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T23:46:18.327Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\test-vigenere-final.asp",
+            "fileType": ".asp",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T23:46:48.858Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\test-vigenere-final.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "usr.aleoudev.fr (Workspace)",
             "content": {
               "added": [],
