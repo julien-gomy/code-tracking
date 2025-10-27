@@ -1273,9 +1273,9 @@
       "averageChangeSize": 66.2
     },
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 5939,
+      "totalLinesAdded": 5951,
       "totalLinesRemoved": 23,
-      "totalActiveTime": 31,
+      "totalActiveTime": 35,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\log.asp": [
           {
@@ -1724,6 +1724,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-27T18:08:51.715Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\scripts\\helper\\crypto.asp",
+            "fileType": ".asp",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "asp"
           }
         ]
