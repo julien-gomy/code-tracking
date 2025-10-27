@@ -4,15 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1391                                          |
+| **Lines Added** (➕)   | 5012                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1391                |
-| **Active Time** (⌚)   | 1 minute |
+| **Net Change** (↕)    | 5012                |
+| **Active Time** (⌚)   | 10 minutes |
 
 
 ## Modified Files
 - **session.asp** (+195, -0)
 - **form.asp** (+1196, -0)
+- **TriggerSynchronisationEventscop.class.asp** (+104, -0)
+- **sync_helper.asp** (+834, -0)
+- **stats_seminaire.asp** (+2664, -0)
+- **.gitignore** (+19, -0)
 
 ## Visualizations
 
@@ -21,7 +25,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".asp" : 1391
+".asp" : 4993
+"unknown" : 19
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +34,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"11h" : 2
+"11h" : 7
 ```
 
 
-> **Last Updated:** 10/27/2025, 11:28:47 AM
+> **Last Updated:** 10/27/2025, 11:33:47 AM
