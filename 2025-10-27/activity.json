@@ -2,9 +2,9 @@
   "date": "2025-10-27",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 2056,
-      "totalLinesRemoved": 450,
-      "totalActiveTime": 49,
+      "totalLinesAdded": 2073,
+      "totalLinesRemoved": 465,
+      "totalActiveTime": 57,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json": [
           {
@@ -598,6 +598,34 @@
             },
             "duration": 4,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-27T16:43:39.991Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\header\\AuthenticationButtons.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-27T16:46:10.714Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\header\\AuthenticationButtons.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\header\\HeaderTopBar.tsx": [
@@ -628,6 +656,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-27T16:43:47.611Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\header\\HeaderTopBar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\header\\Header.tsx": [
@@ -651,6 +693,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-27T16:43:44.713Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\header\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
               "added": [],
