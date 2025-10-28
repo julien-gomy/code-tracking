@@ -1055,9 +1055,9 @@
       "averageChangeSize": 3
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 1450,
+      "totalLinesAdded": 1462,
       "totalLinesRemoved": 39,
-      "totalActiveTime": 41,
+      "totalActiveTime": 47,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\crypto-final.ts": [
           {
@@ -1567,6 +1567,50 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-28T11:32:43.214Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\admin\\generate-usr-cookie\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-28T11:32:53.225Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\admin\\generate-usr-cookie\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local": [
+          {
+            "timestamp": "2025-10-28T11:34:54.741Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "local"
           }
         ]
       },
