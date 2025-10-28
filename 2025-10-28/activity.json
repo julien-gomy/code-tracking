@@ -1143,7 +1143,7 @@
       "averageChangeSize": 3
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 9302,
+      "totalLinesAdded": 9348,
       "totalLinesRemoved": 564,
       "totalActiveTime": 157,
       "files": {
@@ -2784,6 +2784,22 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\constants.ts": [
+          {
+            "timestamp": "2025-10-28T21:08:22.675Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\constants.ts",
+            "fileType": ".ts",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
