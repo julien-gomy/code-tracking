@@ -1011,7 +1011,7 @@
       "averageChangeSize": 3
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 94,
+      "totalLinesAdded": 126,
       "totalLinesRemoved": 8,
       "totalActiveTime": 6,
       "files": {
@@ -1102,6 +1102,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\api\\test-decrypt\\route.ts": [
+          {
+            "timestamp": "2025-10-28T08:22:07.893Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\api\\test-decrypt\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
