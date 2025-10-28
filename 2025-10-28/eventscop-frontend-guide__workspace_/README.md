@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11952                                          |
-| **Lines Removed** (➖) | 697                                        |
-| **Net Change** (↕)    | 11255                |
-| **Active Time** (⌚)   | 217 minutes |
+| **Lines Added** (➕)   | 12252                                          |
+| **Lines Removed** (➖) | 710                                        |
+| **Net Change** (↕)    | 11542                |
+| **Active Time** (⌚)   | 223 minutes |
 
 
 ## Modified Files
 - **crypto-final.ts** (+4, -0)
 - **layout.tsx** (+174, -8)
-- **crypto-vigenere.ts** (+92, -15)
+- **crypto-vigenere.ts** (+261, -28)
 - **route.ts** (+32, -5)
 - **auth.ts** (+135, -18)
 - **AuthenticationButtons.tsx** (+4, -16)
@@ -58,6 +58,8 @@
 - **city.ts** (+188, -0)
 - **page.tsx** (+150, -14)
 - **page.tsx** (+340, -23)
+- **HeaderTopBar.tsx** (+26, -0)
+- **auth.ts** (+105, -0)
 
 ## Visualizations
 
@@ -66,8 +68,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 2647
-".tsx" : 6301
+".ts" : 2934
+".tsx" : 6327
 ".local" : 2
 ".json" : 3476
 ".css" : 221
@@ -92,8 +94,8 @@ title Coding activity by hour (count of changes)
 "20h" : 8
 "21h" : 18
 "22h" : 20
-"23h" : 29
+"23h" : 35
 ```
 
 
-> **Last Updated:** 10/28/2025, 11:52:30 PM
+> **Last Updated:** 10/28/2025, 11:57:30 PM
