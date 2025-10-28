@@ -3,8 +3,8 @@
   "projects": {
     "usr.aleoudev.fr (Workspace)": {
       "totalLinesAdded": 873,
-      "totalLinesRemoved": 339,
-      "totalActiveTime": 105,
+      "totalLinesRemoved": 381,
+      "totalActiveTime": 110,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\session.asp": [
           {
@@ -405,6 +405,34 @@
             "fileType": ".asp",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-28T03:38:07.288Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\session.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 39,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-10-28T03:39:46.289Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\session.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "usr.aleoudev.fr (Workspace)",
             "content": {
               "added": [],
