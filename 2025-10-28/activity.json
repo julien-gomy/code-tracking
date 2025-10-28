@@ -1143,9 +1143,9 @@
       "averageChangeSize": 3
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 8076,
+      "totalLinesAdded": 8377,
       "totalLinesRemoved": 403,
-      "totalActiveTime": 114,
+      "totalActiveTime": 118,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\crypto-final.ts": [
           {
@@ -2493,6 +2493,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\hooks\\useSearchSync.ts": [
+          {
+            "timestamp": "2025-10-28T19:51:02.250Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\hooks\\useSearchSync.ts",
+            "fileType": ".ts",
+            "linesAdded": 301,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
           }
         ]
       },
