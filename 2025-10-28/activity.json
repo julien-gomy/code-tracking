@@ -1143,9 +1143,9 @@
       "averageChangeSize": 3
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 9914,
-      "totalLinesRemoved": 649,
-      "totalActiveTime": 181,
+      "totalLinesAdded": 9916,
+      "totalLinesRemoved": 657,
+      "totalActiveTime": 184,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\crypto-final.ts": [
           {
@@ -2901,6 +2901,20 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-28T22:22:44.899Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\hooks\\useSearchSync.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils-client.ts": [
@@ -3085,6 +3099,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.git\\COMMIT_EDITMSG": [
+          {
+            "timestamp": "2025-10-28T22:24:35.714Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.git\\COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
           }
         ]
       },
