@@ -2,7 +2,7 @@
   "date": "2025-10-28",
   "projects": {
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 873,
+      "totalLinesAdded": 887,
       "totalLinesRemoved": 391,
       "totalActiveTime": 110,
       "files": {
@@ -1024,6 +1024,22 @@
             },
             "duration": 1,
             "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\.gitignore": [
+          {
+            "timestamp": "2025-10-28T11:16:19.041Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
