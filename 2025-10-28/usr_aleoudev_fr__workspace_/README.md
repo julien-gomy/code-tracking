@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 539                                          |
-| **Lines Removed** (➖) | 275                                        |
-| **Net Change** (↕)    | 264                |
-| **Active Time** (⌚)   | 50 minutes |
+| **Lines Added** (➕)   | 546                                          |
+| **Lines Removed** (➖) | 278                                        |
+| **Net Change** (↕)    | 268                |
+| **Active Time** (⌚)   | 58 minutes |
 
 
 ## Modified Files
-- **session.asp** (+33, -24)
+- **session.asp** (+36, -27)
 - **crypto-vigenere.asp** (+462, -247)
-- **test-vigenere-final.asp** (+40, -4)
+- **test-vigenere-final.asp** (+44, -4)
 - **outils.asp** (+4, -0)
 
 ## Visualizations
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".asp" : 814
+".asp" : 824
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 31
-"01h" : 1
+"01h" : 6
 ```
 
 
-> **Last Updated:** 10/28/2025, 1:17:56 AM
+> **Last Updated:** 10/28/2025, 1:22:56 AM
