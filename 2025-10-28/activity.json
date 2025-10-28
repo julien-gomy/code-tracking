@@ -1025,9 +1025,9 @@
       "averageChangeSize": 3
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 336,
-      "totalLinesRemoved": 37,
-      "totalActiveTime": 25,
+      "totalLinesAdded": 337,
+      "totalLinesRemoved": 38,
+      "totalActiveTime": 29,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\crypto-final.ts": [
           {
@@ -1138,6 +1138,34 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 6,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-28T10:43:57.099Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\crypto-vigenere.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-28T10:44:07.787Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\crypto-vigenere.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
               "added": [],
