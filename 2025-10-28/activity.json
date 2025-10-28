@@ -1056,8 +1056,8 @@
     },
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 1462,
-      "totalLinesRemoved": 39,
-      "totalActiveTime": 47,
+      "totalLinesRemoved": 40,
+      "totalActiveTime": 51,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\crypto-final.ts": [
           {
@@ -1610,6 +1610,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-10-28T11:38:41.025Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "local"
           }
         ]
