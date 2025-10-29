@@ -722,7 +722,7 @@
       "averageChangeSize": 17.25
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1067,
+      "totalLinesAdded": 1097,
       "totalLinesRemoved": 1,
       "totalActiveTime": 6,
       "files": {
@@ -781,6 +781,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\SupplierCategory.py": [
+          {
+            "timestamp": "2025-10-29T10:34:19.866Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\SupplierCategory.py",
+            "fileType": ".py",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
