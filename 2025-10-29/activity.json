@@ -2,9 +2,9 @@
   "date": "2025-10-29",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 285,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 33,
+      "totalLinesAdded": 286,
+      "totalLinesRemoved": 10,
+      "totalActiveTime": 34,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\fr.json": [
           {
@@ -307,6 +307,34 @@
           },
           {
             "timestamp": "2025-10-29T00:47:45.671Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-10-29T08:38:28.985Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-10-29T08:38:59.119Z",
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitignore",
             "fileType": "unknown",
             "linesAdded": 0,
