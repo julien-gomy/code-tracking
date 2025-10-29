@@ -1735,7 +1735,7 @@
       "averageChangeSize": 1065
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 938,
+      "totalLinesAdded": 1146,
       "totalLinesRemoved": 35,
       "totalActiveTime": 9,
       "files": {
@@ -1841,6 +1841,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\common\\json_utils.asp": [
+          {
+            "timestamp": "2025-10-29T19:46:04.412Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\common\\json_utils.asp",
+            "fileType": ".asp",
+            "linesAdded": 208,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
           }
         ]
       },
