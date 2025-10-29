@@ -1735,9 +1735,9 @@
       "averageChangeSize": 1065
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 897,
+      "totalLinesAdded": 938,
       "totalLinesRemoved": 35,
-      "totalActiveTime": 5,
+      "totalActiveTime": 9,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\ai-mail-response\\entry.asp": [
           {
@@ -1811,6 +1811,36 @@
             },
             "duration": 1,
             "language": "asp"
+          }
+        ],
+        "c:\\Users\\Julien\\.claude\\settings.json": [
+          {
+            "timestamp": "2025-10-29T19:31:40.575Z",
+            "fileName": "c:\\Users\\Julien\\.claude\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-29T19:31:55.636Z",
+            "fileName": "c:\\Users\\Julien\\.claude\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
