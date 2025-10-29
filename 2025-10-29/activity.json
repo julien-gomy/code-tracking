@@ -722,9 +722,9 @@
       "averageChangeSize": 17.25
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1104,
+      "totalLinesAdded": 1344,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 6,
+      "totalActiveTime": 13,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\search\\services\\search_engine.py": [
           {
@@ -811,6 +811,66 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_categories\\schemas.py": [
+          {
+            "timestamp": "2025-10-29T10:43:19.373Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_categories\\schemas.py",
+            "fileType": ".py",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-29T10:43:27.038Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_categories\\schemas.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_categories\\routes.py": [
+          {
+            "timestamp": "2025-10-29T10:44:03.360Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_categories\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 200,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-29T10:44:15.160Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\supplier_categories\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
