@@ -2,9 +2,9 @@
   "date": "2025-10-29",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3726,
-      "totalLinesRemoved": 231,
-      "totalActiveTime": 125,
+      "totalLinesAdded": 4009,
+      "totalLinesRemoved": 264,
+      "totalActiveTime": 127,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\fr.json": [
           {
@@ -1386,6 +1386,50 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\Brief.tsx": [
+          {
+            "timestamp": "2025-10-29T16:38:24.124Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\Brief.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 269,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-29T16:38:33.009Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\Brief.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-29T16:38:42.545Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\Brief.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 33,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
