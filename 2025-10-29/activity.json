@@ -2,9 +2,9 @@
   "date": "2025-10-29",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 4304,
-      "totalLinesRemoved": 264,
-      "totalActiveTime": 127,
+      "totalLinesAdded": 4437,
+      "totalLinesRemoved": 266,
+      "totalActiveTime": 130,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\fr.json": [
           {
@@ -1446,6 +1446,52 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json": [
+          {
+            "timestamp": "2025-10-29T17:20:53.296Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-29T17:21:12.906Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\pagination\\ResultsPagination.tsx": [
+          {
+            "timestamp": "2025-10-29T17:22:44.785Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\pagination\\ResultsPagination.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 130,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ]
       },
