@@ -704,9 +704,9 @@
       "averageChangeSize": 2
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3170,
-      "totalLinesRemoved": 275,
-      "totalActiveTime": 109,
+      "totalLinesAdded": 3379,
+      "totalLinesRemoved": 277,
+      "totalActiveTime": 117,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\summary\\SummaryAccommodation.tsx": [
           {
@@ -925,6 +925,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-30T12:31:51.299Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\summary\\SummaryLocation.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -1661,6 +1675,36 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-30T12:30:05.755Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\BriefSummaryItems.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\StepLocation.tsx": [
+          {
+            "timestamp": "2025-10-30T12:33:08.287Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\StepLocation.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 208,
+            "linesRemoved": 0,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
               "added": [],
