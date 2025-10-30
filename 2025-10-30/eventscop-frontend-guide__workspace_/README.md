@@ -4,21 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2423                                          |
-| **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 2421                |
+| **Lines Added** (➕)   | 2447                                          |
+| **Lines Removed** (➖) | 76                                        |
+| **Net Change** (↕)    | 2371                |
 | **Active Time** (⌚)   | 25 minutes |
 
 
 ## Modified Files
-- **SummaryAccommodation.tsx** (+44, -0)
-- **fr.json** (+1746, -0)
-- **NightItem.tsx** (+119, -2)
+- **SummaryAccommodation.tsx** (+44, -1)
+- **fr.json** (+1746, -1)
+- **NightItem.tsx** (+143, -2)
 - **TimeRangeField.tsx** (+53, -0)
 - **SummaryLocation.tsx** (+55, -0)
 - **CartSummaryBrief.tsx** (+70, -0)
 - **useCartSummarySync.ts** (+92, -0)
-- **search-to-brief.ts** (+207, -0)
+- **search-to-brief.ts** (+207, -72)
 - **Brief.tsx** (+37, -0)
 
 ## Visualizations
@@ -28,9 +28,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 380
-".json" : 1746
-".ts" : 299
+".tsx" : 405
+".json" : 1747
+".ts" : 371
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -40,7 +40,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "03h" : 9
 "04h" : 6
+"10h" : 4
 ```
 
 
-> **Last Updated:** 10/30/2025, 4:49:45 AM
+> **Last Updated:** 10/30/2025, 10:59:46 AM
