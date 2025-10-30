@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3412                                          |
-| **Lines Removed** (➖) | 400                                        |
-| **Net Change** (↕)    | 3012                |
-| **Active Time** (⌚)   | 137 minutes |
+| **Lines Added** (➕)   | 3413                                          |
+| **Lines Removed** (➖) | 427                                        |
+| **Net Change** (↕)    | 2986                |
+| **Active Time** (⌚)   | 142 minutes |
 
 
 ## Modified Files
 - **SummaryAccommodation.tsx** (+44, -1)
 - **fr.json** (+1746, -1)
-- **NightItem.tsx** (+158, -2)
+- **NightItem.tsx** (+159, -29)
 - **TimeRangeField.tsx** (+53, -0)
 - **SummaryLocation.tsx** (+61, -7)
 - **CartSummaryBrief.tsx** (+70, -0)
@@ -34,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1668
+".tsx" : 1696
 ".json" : 1748
 ".ts" : 396
 ```
@@ -51,8 +51,8 @@ title Coding activity by hour (count of changes)
 "12h" : 11
 "13h" : 29
 "14h" : 6
-"16h" : 1
+"16h" : 3
 ```
 
 
-> **Last Updated:** 10/30/2025, 4:44:46 PM
+> **Last Updated:** 10/30/2025, 4:49:46 PM
