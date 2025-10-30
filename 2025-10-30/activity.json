@@ -705,7 +705,7 @@
     },
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 2994,
-      "totalLinesRemoved": 224,
+      "totalLinesRemoved": 261,
       "totalActiveTime": 74,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\summary\\SummaryAccommodation.tsx": [
@@ -1227,6 +1227,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-30T11:51:29.331Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\Brief.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 37,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
