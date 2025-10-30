@@ -704,7 +704,7 @@
       "averageChangeSize": 2
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3789,
+      "totalLinesAdded": 3906,
       "totalLinesRemoved": 442,
       "totalActiveTime": 158,
       "files": {
@@ -2216,6 +2216,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitlab-ci.yml": [
+          {
+            "timestamp": "2025-10-30T17:02:04.656Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitlab-ci.yml",
+            "fileType": ".yml",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yml"
           }
         ]
       },
