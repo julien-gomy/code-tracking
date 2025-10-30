@@ -704,9 +704,9 @@
       "averageChangeSize": 2
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3784,
-      "totalLinesRemoved": 437,
-      "totalActiveTime": 152,
+      "totalLinesAdded": 3789,
+      "totalLinesRemoved": 442,
+      "totalActiveTime": 158,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\summary\\SummaryAccommodation.tsx": [
           {
@@ -939,6 +939,34 @@
           },
           {
             "timestamp": "2025-10-30T16:02:56.977Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\step-accommodation-details\\NightItem.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-30T16:48:15.778Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\step-accommodation-details\\NightItem.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-30T16:48:31.683Z",
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\step-accommodation-details\\NightItem.tsx",
             "fileType": ".tsx",
             "linesAdded": 0,
