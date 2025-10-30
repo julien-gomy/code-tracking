@@ -704,7 +704,7 @@
       "averageChangeSize": 2
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3397,
+      "totalLinesAdded": 3412,
       "totalLinesRemoved": 400,
       "totalActiveTime": 137,
       "files": {
@@ -872,6 +872,20 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\step-accommodation-details\\NightItem.tsx",
             "fileType": ".tsx",
             "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-30T15:43:00.725Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\step-accommodation-details\\NightItem.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
             "linesRemoved": 0,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
