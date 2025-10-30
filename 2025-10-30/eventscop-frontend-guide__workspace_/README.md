@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3396                                          |
-| **Lines Removed** (➖) | 290                                        |
-| **Net Change** (↕)    | 3106                |
-| **Active Time** (⌚)   | 136 minutes |
+| **Lines Added** (➕)   | 3397                                          |
+| **Lines Removed** (➖) | 400                                        |
+| **Net Change** (↕)    | 2997                |
+| **Active Time** (⌚)   | 137 minutes |
 
 
 ## Modified Files
@@ -15,15 +15,17 @@
 - **fr.json** (+1746, -1)
 - **NightItem.tsx** (+143, -2)
 - **TimeRangeField.tsx** (+53, -0)
-- **SummaryLocation.tsx** (+61, -1)
+- **SummaryLocation.tsx** (+61, -7)
 - **CartSummaryBrief.tsx** (+70, -0)
 - **useCartSummarySync.ts** (+92, -0)
 - **search-to-brief.ts** (+232, -72)
-- **Brief.tsx** (+205, -180)
-- **ResultsPagination.tsx** (+4, -3)
-- **SearchPageForm.tsx** (+350, -2)
+- **Brief.tsx** (+205, -256)
+- **ResultsPagination.tsx** (+4, -4)
+- **SearchPageForm.tsx** (+350, -3)
 - **BriefSummaryItems.tsx** (+176, -16)
 - **StepLocation.tsx** (+220, -12)
+- **SupplierSearchClient.tsx** (+0, -26)
+- **settings.json** (+1, -0)
 
 ## Visualizations
 
@@ -32,8 +34,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1543
-".json" : 1747
+".tsx" : 1653
+".json" : 1748
 ".ts" : 396
 ```
 
@@ -48,7 +50,8 @@ title Coding activity by hour (count of changes)
 "11h" : 23
 "12h" : 11
 "13h" : 29
+"14h" : 6
 ```
 
 
-> **Last Updated:** 10/30/2025, 1:54:46 PM
+> **Last Updated:** 10/30/2025, 2:04:46 PM
