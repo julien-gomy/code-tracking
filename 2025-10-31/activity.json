@@ -2313,8 +2313,8 @@
     },
     "temp_mr_252": {
       "totalLinesAdded": 227,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 9,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 10,
       "files": {
         "c:\\Mes Projets\\New\\temp_mr_252\\next.config.ts": [
           {
@@ -2390,6 +2390,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-31T19:14:00.091Z",
+            "fileName": "c:\\Mes Projets\\New\\temp_mr_252\\src\\services\\api\\plateforms.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "temp_mr_252",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "c:\\Mes Projets\\New\\temp_mr_252\\src\\lib\\api-fetch.ts": [
@@ -2413,6 +2427,20 @@
             "fileType": ".ts",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "temp_mr_252",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-31T19:14:05.223Z",
+            "fileName": "c:\\Mes Projets\\New\\temp_mr_252\\src\\lib\\api-fetch.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "temp_mr_252",
             "content": {
               "added": [],
