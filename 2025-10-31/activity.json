@@ -2310,6 +2310,102 @@
         "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\settings.json"
       ],
       "averageChangeSize": 296
+    },
+    "temp_mr_252": {
+      "totalLinesAdded": 116,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Mes Projets\\New\\temp_mr_252\\next.config.ts": [
+          {
+            "timestamp": "2025-10-31T19:04:54.318Z",
+            "fileName": "c:\\Mes Projets\\New\\temp_mr_252\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "temp_mr_252",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\New\\temp_mr_252\\.next\\package.json": [
+          {
+            "timestamp": "2025-10-31T19:05:15.525Z",
+            "fileName": "c:\\Mes Projets\\New\\temp_mr_252\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "temp_mr_252",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-31T19:05:17.648Z",
+            "fileName": "c:\\Mes Projets\\New\\temp_mr_252\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "temp_mr_252",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\New\\temp_mr_252\\src\\services\\api\\plateforms.ts": [
+          {
+            "timestamp": "2025-10-31T19:06:06.297Z",
+            "fileName": "c:\\Mes Projets\\New\\temp_mr_252\\src\\services\\api\\plateforms.ts",
+            "fileType": ".ts",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "temp_mr_252",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-31T19:06:12.400Z",
+            "fileName": "c:\\Mes Projets\\New\\temp_mr_252\\src\\services\\api\\plateforms.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "temp_mr_252",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 2,
+        "json": 2
+      },
+      "changeFrequency": {
+        "20": 4
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\New\\temp_mr_252\\.next\\package.json",
+        "c:\\Mes Projets\\New\\temp_mr_252\\src\\services\\api\\plateforms.ts",
+        "c:\\Mes Projets\\New\\temp_mr_252\\next.config.ts"
+      ],
+      "averageChangeSize": 23.6
     }
   },
   "totalActiveTime": 14,
