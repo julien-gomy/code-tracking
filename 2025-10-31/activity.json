@@ -2312,9 +2312,9 @@
       "averageChangeSize": 296
     },
     "temp_mr_252": {
-      "totalLinesAdded": 227,
+      "totalLinesAdded": 298,
       "totalLinesRemoved": 23,
-      "totalActiveTime": 15,
+      "totalActiveTime": 17,
       "files": {
         "c:\\Mes Projets\\New\\temp_mr_252\\next.config.ts": [
           {
@@ -2492,6 +2492,36 @@
             },
             "duration": 5,
             "language": "local"
+          }
+        ],
+        "c:\\Mes Projets\\New\\temp_mr_252\\src\\components\\search\\map\\MapView.tsx": [
+          {
+            "timestamp": "2025-10-31T19:39:06.716Z",
+            "fileName": "c:\\Mes Projets\\New\\temp_mr_252\\src\\components\\search\\map\\MapView.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "temp_mr_252",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-31T19:40:51.592Z",
+            "fileName": "c:\\Mes Projets\\New\\temp_mr_252\\src\\components\\search\\map\\MapView.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "temp_mr_252",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ]
       },

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 227                                          |
+| **Lines Added** (➕)   | 298                                          |
 | **Lines Removed** (➖) | 23                                        |
-| **Net Change** (↕)    | 204                |
-| **Active Time** (⌚)   | 15 minutes |
+| **Net Change** (↕)    | 275                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,7 @@
 - **plateforms.ts** (+44, -1)
 - **api-fetch.ts** (+77, -1)
 - **.env.local** (+34, -19)
+- **MapView.tsx** (+71, -0)
 
 ## Visualizations
 
@@ -27,6 +28,7 @@ title Lines changed by file type
 ".ts" : 192
 ".json" : 5
 ".local" : 53
+".tsx" : 71
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +36,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"20h" : 12
+"20h" : 14
 ```
 
 
-> **Last Updated:** 10/31/2025, 8:21:17 PM
+> **Last Updated:** 10/31/2025, 8:41:17 PM
