@@ -2313,8 +2313,8 @@
     },
     "temp_mr_252": {
       "totalLinesAdded": 227,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 10,
+      "totalLinesRemoved": 23,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Mes Projets\\New\\temp_mr_252\\next.config.ts": [
           {
@@ -2477,6 +2477,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-10-31T19:18:44.341Z",
+            "fileName": "c:\\Mes Projets\\New\\temp_mr_252\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "temp_mr_252",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "local"
           }
         ]
