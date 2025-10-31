@@ -2312,9 +2312,9 @@
       "averageChangeSize": 296
     },
     "temp_mr_252": {
-      "totalLinesAdded": 116,
+      "totalLinesAdded": 227,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 4,
+      "totalActiveTime": 9,
       "files": {
         "c:\\Mes Projets\\New\\temp_mr_252\\next.config.ts": [
           {
@@ -2390,6 +2390,66 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\New\\temp_mr_252\\src\\lib\\api-fetch.ts": [
+          {
+            "timestamp": "2025-10-31T19:06:55.501Z",
+            "fileName": "c:\\Mes Projets\\New\\temp_mr_252\\src\\lib\\api-fetch.ts",
+            "fileType": ".ts",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "temp_mr_252",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-31T19:06:57.089Z",
+            "fileName": "c:\\Mes Projets\\New\\temp_mr_252\\src\\lib\\api-fetch.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "temp_mr_252",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\New\\temp_mr_252\\.env.local": [
+          {
+            "timestamp": "2025-10-31T19:08:31.023Z",
+            "fileName": "c:\\Mes Projets\\New\\temp_mr_252\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "temp_mr_252",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-10-31T19:08:32.006Z",
+            "fileName": "c:\\Mes Projets\\New\\temp_mr_252\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "temp_mr_252",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "local"
           }
         ]
       },
