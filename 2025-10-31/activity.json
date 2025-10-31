@@ -2,9 +2,9 @@
   "date": "2025-10-31",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3036,
-      "totalLinesRemoved": 18,
-      "totalActiveTime": 76,
+      "totalLinesAdded": 3046,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 81,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\search\\EditorialSection.tsx": [
           {
@@ -324,6 +324,20 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-31T00:41:55.611Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\city\\[[...url_path]]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\seo\\parser\\city.ts": [
@@ -592,6 +606,48 @@
             },
             "duration": 3,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-31T00:41:55.762Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\seo\\parser\\city.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-31T00:42:59.367Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\seo\\parser\\city.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-31T00:43:04.507Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\seo\\parser\\city.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\fr.json": [
@@ -649,6 +705,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-31T00:41:55.793Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\fr.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ]
