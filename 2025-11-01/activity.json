@@ -2,9 +2,9 @@
   "date": "2025-11-01",
   "projects": {
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 19474,
+      "totalLinesAdded": 22880,
       "totalLinesRemoved": 29,
-      "totalActiveTime": 98,
+      "totalActiveTime": 104,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\virtuatab.asp": [
           {
@@ -890,6 +890,50 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_5.asp": [
+          {
+            "timestamp": "2025-11-01T12:01:20.655Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_5.asp",
+            "fileType": ".asp",
+            "linesAdded": 3400,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-01T12:02:14.518Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_5.asp",
+            "fileType": ".asp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-01T12:03:26.698Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_5.asp",
+            "fileType": ".asp",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "asp"
           }
         ]
       },
