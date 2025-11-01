@@ -2,7 +2,7 @@
   "date": "2025-11-01",
   "projects": {
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 19093,
+      "totalLinesAdded": 19389,
       "totalLinesRemoved": 26,
       "totalActiveTime": 76,
       "files": {
@@ -662,6 +662,22 @@
             },
             "duration": 0,
             "language": "asp"
+          }
+        ],
+        "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-11-01T10:40:23.488Z",
+            "fileName": "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 296,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
