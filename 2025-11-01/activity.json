@@ -2,9 +2,9 @@
   "date": "2025-11-01",
   "projects": {
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 29402,
-      "totalLinesRemoved": 134,
-      "totalActiveTime": 227,
+      "totalLinesAdded": 29403,
+      "totalLinesRemoved": 137,
+      "totalActiveTime": 234,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\virtuatab.asp": [
           {
@@ -989,6 +989,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-01T17:40:08.620Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_0.asp",
+            "fileType": ".asp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "asp"
           }
         ],
@@ -2111,6 +2125,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-11-01T17:35:57.323Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\js\\tagsinput\\amsify.suggestags.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-11-01T17:36:53.534Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\js\\tagsinput\\amsify.suggestags.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "css"
           }
         ]
