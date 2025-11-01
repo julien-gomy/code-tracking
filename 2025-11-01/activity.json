@@ -3,8 +3,8 @@
   "projects": {
     "cdp.aleoudev.fr (Workspace)": {
       "totalLinesAdded": 29402,
-      "totalLinesRemoved": 127,
-      "totalActiveTime": 223,
+      "totalLinesRemoved": 133,
+      "totalActiveTime": 227,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\virtuatab.asp": [
           {
@@ -2069,6 +2069,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-11-01T17:25:35.830Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\js\\tagsinput\\amsify.suggestags.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-11-01T17:27:26.435Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\js\\tagsinput\\amsify.suggestags.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "css"
           }
         ]
