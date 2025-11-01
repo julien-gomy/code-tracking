@@ -2,9 +2,9 @@
   "date": "2025-11-01",
   "projects": {
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 29412,
-      "totalLinesRemoved": 138,
-      "totalActiveTime": 240,
+      "totalLinesAdded": 30341,
+      "totalLinesRemoved": 140,
+      "totalActiveTime": 246,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\virtuatab.asp": [
           {
@@ -2224,6 +2224,50 @@
             },
             "duration": 2,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-11-01T20:35:34.677Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\js\\tagsinput\\amsify.suggestags.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-11-01T20:39:40.279Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\js\\tagsinput\\amsify.suggestags.css",
+            "fileType": ".css",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\js\\tagsinput\\jquery.amsify.suggestags.js": [
+          {
+            "timestamp": "2025-11-01T20:38:22.370Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\js\\tagsinput\\jquery.amsify.suggestags.js",
+            "fileType": ".js",
+            "linesAdded": 926,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
           }
         ]
       },
