@@ -2,7 +2,7 @@
   "date": "2025-11-01",
   "projects": {
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 30529,
+      "totalLinesAdded": 30530,
       "totalLinesRemoved": 182,
       "totalActiveTime": 283,
       "files": {
@@ -1129,6 +1129,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-01T21:51:11.742Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_0.asp",
+            "fileType": ".asp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "asp"
           }
         ],
