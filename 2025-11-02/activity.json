@@ -2,9 +2,9 @@
   "date": "2025-11-02",
   "projects": {
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 6130,
+      "totalLinesAdded": 7790,
       "totalLinesRemoved": 71,
-      "totalActiveTime": 129,
+      "totalActiveTime": 134,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_0.asp": [
           {
@@ -1220,6 +1220,36 @@
             },
             "duration": 1,
             "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\js\\bs-tokenfield\\docs-assets\\js\\typeahead.bundle.js": [
+          {
+            "timestamp": "2025-11-02T14:00:23.471Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\js\\bs-tokenfield\\docs-assets\\js\\typeahead.bundle.js",
+            "fileType": ".js",
+            "linesAdded": 1658,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-02T14:00:45.471Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\js\\bs-tokenfield\\docs-assets\\js\\typeahead.bundle.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
