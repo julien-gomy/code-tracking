@@ -35,9 +35,9 @@
       "averageChangeSize": 266
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 722,
+      "totalLinesAdded": 797,
       "totalLinesRemoved": 139,
-      "totalActiveTime": 15,
+      "totalActiveTime": 16,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\seo\\title-generator.ts": [
           {
@@ -253,6 +253,36 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-03T10:58:41.090Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\search-components.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\search\\SupplierSearchClient.tsx": [
+          {
+            "timestamp": "2025-11-03T10:59:01.070Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\search\\SupplierSearchClient.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
