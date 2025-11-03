@@ -33,6 +33,39 @@
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_0.asp"
       ],
       "averageChangeSize": 266
+    },
+    "eventscop-frontend-guide (Workspace)": {
+      "totalLinesAdded": 390,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\seo\\title-generator.ts": [
+          {
+            "timestamp": "2025-11-03T09:41:12.590Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\seo\\title-generator.ts",
+            "fileType": ".ts",
+            "linesAdded": 390,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\seo\\title-generator.ts"
+      ],
+      "averageChangeSize": 390
     }
   },
   "totalActiveTime": 0,
