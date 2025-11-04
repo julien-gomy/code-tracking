@@ -545,9 +545,9 @@
       "averageChangeSize": 394
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 429,
-      "totalLinesRemoved": 143,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 508,
+      "totalLinesRemoved": 222,
+      "totalActiveTime": 19,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\search\\SupplierSearchClient.tsx": [
           {
@@ -727,6 +727,34 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-04T13:01:19.607Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\step-team-building-details\\parts\\TeamBuildingObjectives.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-04T13:05:11.360Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\step-team-building-details\\parts\\TeamBuildingObjectives.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\step-team-building-details\\parts\\TeamBuildingTheme.tsx": [
@@ -756,6 +784,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-04T13:01:19.614Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\step-team-building-details\\parts\\TeamBuildingTheme.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-04T13:05:11.364Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\step-team-building-details\\parts\\TeamBuildingTheme.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 44,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ]
