@@ -1,0 +1,75 @@
+{
+  "date": "2025-11-04",
+  "projects": {
+    "cdp.aleoudev.fr (Workspace)": {
+      "totalLinesAdded": 1116,
+      "totalLinesRemoved": 66,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_0_view.asp": [
+          {
+            "timestamp": "2025-11-04T07:21:26.246Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_0_view.asp",
+            "fileType": ".asp",
+            "linesAdded": 1068,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-04T07:21:50.944Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_0_view.asp",
+            "fileType": ".asp",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-04T07:22:07.927Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_0_view.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 66,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          }
+        ]
+      },
+      "languageStats": {
+        "asp": 2
+      },
+      "changeFrequency": {
+        "8": 2
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_0_view.asp"
+      ],
+      "averageChangeSize": 394
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "asp"
+  ]
+}
