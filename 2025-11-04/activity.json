@@ -715,9 +715,9 @@
       "averageChangeSize": 36.25
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 947,
+      "totalLinesAdded": 950,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 10,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\brief_schemas.py": [
           {
@@ -832,6 +832,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-04T11:14:49.691Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
