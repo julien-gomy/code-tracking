@@ -259,6 +259,53 @@
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\search-components.ts"
       ],
       "averageChangeSize": 36.25
+    },
+    "eventscop-api-guide (Workspace)": {
+      "totalLinesAdded": 342,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\brief_schemas.py": [
+          {
+            "timestamp": "2025-11-04T08:57:39.844Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\brief_schemas.py",
+            "fileType": ".py",
+            "linesAdded": 340,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-04T08:58:56.370Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\brief_schemas.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "9": 2
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\brief_schemas.py"
+      ],
+      "averageChangeSize": 171
     }
   },
   "totalActiveTime": 2,
