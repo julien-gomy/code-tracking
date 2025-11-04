@@ -429,9 +429,9 @@
       "averageChangeSize": 394
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 133,
-      "totalLinesRemoved": 96,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 285,
+      "totalLinesRemoved": 143,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\search\\SupplierSearchClient.tsx": [
           {
@@ -461,6 +461,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-04T10:29:25.723Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\search\\SupplierSearchClient.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\search\\SupplierSearchContainer.tsx": [
@@ -476,6 +490,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-04T10:29:25.714Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\search\\SupplierSearchContainer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 44,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -493,6 +521,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-04T10:29:25.731Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\search-components.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\next.config.ts": [
@@ -508,6 +550,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-04T10:29:31.248Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
