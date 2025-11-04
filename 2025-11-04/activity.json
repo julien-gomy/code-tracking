@@ -532,6 +532,39 @@
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\brief_schemas.py"
       ],
       "averageChangeSize": 171
+    },
+    "usr.aleoudev.fr (Workspace)": {
+      "totalLinesAdded": 2138,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\frs_demande.asp": [
+          {
+            "timestamp": "2025-11-04T10:09:02.201Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\frs_demande.asp",
+            "fileType": ".asp",
+            "linesAdded": 2138,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          }
+        ]
+      },
+      "languageStats": {
+        "asp": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\frs_demande.asp"
+      ],
+      "averageChangeSize": 2138
     }
   },
   "totalActiveTime": 2,
