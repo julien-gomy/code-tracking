@@ -2,9 +2,9 @@
   "date": "2025-11-05",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 5937,
-      "totalLinesRemoved": 389,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 6899,
+      "totalLinesRemoved": 1367,
+      "totalActiveTime": 23,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json": [
           {
@@ -108,6 +108,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-05T15:23:04.970Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\step-team-building-details\\parts\\TeamBuildingTheme.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-05T15:23:19.210Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\step-team-building-details\\parts\\TeamBuildingTheme.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 44,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\package.json": [
@@ -166,6 +194,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-11-05T15:25:05.274Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\package.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitlab-ci.yml": [
@@ -185,6 +227,34 @@
           },
           {
             "timestamp": "2025-11-05T14:41:11.844Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitlab-ci.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 117,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-11-05T15:23:23.651Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitlab-ci.yml",
+            "fileType": ".yml",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-11-05T15:23:28.153Z",
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitlab-ci.yml",
             "fileType": ".yml",
             "linesAdded": 0,
@@ -261,6 +331,48 @@
             "fileType": ".yaml",
             "linesAdded": 26,
             "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-11-05T15:23:04.975Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\pnpm-lock.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 687,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-11-05T15:23:19.216Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\pnpm-lock.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 791,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-11-05T15:23:37.447Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\pnpm-lock.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 130,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
               "added": [],
