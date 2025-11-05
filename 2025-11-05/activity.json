@@ -2,9 +2,9 @@
   "date": "2025-11-05",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 6899,
-      "totalLinesRemoved": 1367,
-      "totalActiveTime": 23,
+      "totalLinesAdded": 6925,
+      "totalLinesRemoved": 1383,
+      "totalActiveTime": 30,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json": [
           {
@@ -208,6 +208,20 @@
             },
             "duration": 2,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-11-05T15:26:33.661Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.gitlab-ci.yml": [
@@ -373,6 +387,48 @@
             "fileType": ".yaml",
             "linesAdded": 0,
             "linesRemoved": 130,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-11-05T15:27:03.641Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\pnpm-lock.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-11-05T15:29:48.437Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\pnpm-lock.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-11-05T15:29:54.842Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\pnpm-lock.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
               "added": [],
