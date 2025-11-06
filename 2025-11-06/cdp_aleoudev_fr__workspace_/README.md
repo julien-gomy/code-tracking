@@ -4,16 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 430                                          |
+| **Lines Added** (➕)   | 1025                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 429                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Net Change** (↕)    | 1024                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **demande_step_0_view.asp** (+3, -1)
 - **global.asa** (+20, -0)
 - **societe_search.asp** (+407, -0)
+- **facture_export.asp** (+122, -0)
+- **facture_acompte_export.asp** (+473, -0)
 
 ## Visualizations
 
@@ -22,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".asp" : 411
+".asp" : 1006
 ".asa" : 20
 ```
 
@@ -32,8 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 4
-"09h" : 2
+"09h" : 5
 ```
 
 
-> **Last Updated:** 11/6/2025, 9:19:22 AM
+> **Last Updated:** 11/6/2025, 9:29:22 AM
