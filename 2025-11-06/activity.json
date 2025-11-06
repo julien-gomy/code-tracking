@@ -79,9 +79,9 @@
       "averageChangeSize": 1
     },
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 7466,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 37,
+      "totalLinesAdded": 7470,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 46,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\global.asa": [
           {
@@ -338,6 +338,62 @@
               "removed": []
             },
             "duration": 3,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-06T00:52:26.673Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_cdc.asp",
+            "fileType": ".asp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-06T00:53:18.671Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_cdc.asp",
+            "fileType": ".asp",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-06T00:53:45.610Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_cdc.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-06T00:55:04.121Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_cdc.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "asp"
           }
         ],
