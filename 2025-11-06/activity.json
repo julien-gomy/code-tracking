@@ -2,7 +2,7 @@
   "date": "2025-11-06",
   "projects": {
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 1432,
+      "totalLinesAdded": 1433,
       "totalLinesRemoved": 1,
       "totalActiveTime": 7,
       "files": {
@@ -56,6 +56,20 @@
             "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\global.asa",
             "fileType": ".asa",
             "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asa"
+          },
+          {
+            "timestamp": "2025-11-06T11:58:40.575Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\global.asa",
+            "fileType": ".asa",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "cdp.aleoudev.fr (Workspace)",
             "content": {
