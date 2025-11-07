@@ -2,7 +2,7 @@
   "date": "2025-11-07",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 8524,
+      "totalLinesAdded": 8595,
       "totalLinesRemoved": 161,
       "totalActiveTime": 59,
       "files": {
@@ -744,6 +744,22 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\common\\CivilityField.tsx",
             "fileType": ".tsx",
             "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\ProviderQuoteForm.tsx": [
+          {
+            "timestamp": "2025-11-07T11:20:40.805Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\ProviderQuoteForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 71,
             "linesRemoved": 0,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
