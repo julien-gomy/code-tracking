@@ -2,9 +2,9 @@
   "date": "2025-11-07",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 8595,
-      "totalLinesRemoved": 161,
-      "totalActiveTime": 59,
+      "totalLinesAdded": 8637,
+      "totalLinesRemoved": 163,
+      "totalActiveTime": 60,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\reviews\\ReviewsCategoryRatings.tsx": [
           {
@@ -767,6 +767,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\search\\shared\\ParticipantsField.tsx": [
+          {
+            "timestamp": "2025-11-07T12:10:09.633Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\search\\shared\\ParticipantsField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-07T12:10:35.919Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\search\\shared\\ParticipantsField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]

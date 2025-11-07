@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8595                                          |
-| **Lines Removed** (➖) | 161                                        |
-| **Net Change** (↕)    | 8434                |
-| **Active Time** (⌚)   | 59 minutes |
+| **Lines Added** (➕)   | 8637                                          |
+| **Lines Removed** (➖) | 163                                        |
+| **Net Change** (↕)    | 8474                |
+| **Active Time** (⌚)   | 60 minutes |
 
 
 ## Modified Files
@@ -29,6 +29,7 @@
 - **settings.json** (+41, -5)
 - **CivilityField.tsx** (+49, -0)
 - **ProviderQuoteForm.tsx** (+71, -0)
+- **ParticipantsField.tsx** (+42, -2)
 
 ## Visualizations
 
@@ -37,7 +38,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 954
+".tsx" : 998
 ".yaml" : 5315
 ".json" : 2306
 ".ts" : 181
@@ -53,7 +54,8 @@ title Coding activity by hour (count of changes)
 "10h" : 22
 "11h" : 2
 "12h" : 1
+"13h" : 2
 ```
 
 
-> **Last Updated:** 11/7/2025, 12:24:57 PM
+> **Last Updated:** 11/7/2025, 1:14:57 PM
