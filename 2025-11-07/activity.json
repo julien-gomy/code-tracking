@@ -3,8 +3,8 @@
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 8469,
-      "totalLinesRemoved": 157,
-      "totalActiveTime": 58,
+      "totalLinesRemoved": 161,
+      "totalActiveTime": 59,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\reviews\\ReviewsCategoryRatings.tsx": [
           {
@@ -701,6 +701,20 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-07T09:45:08.096Z",
+            "fileName": "c:\\Users\\Julien\\.claude\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
               "added": [],
