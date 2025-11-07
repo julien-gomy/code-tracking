@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 389                                          |
+| **Lines Added** (➕)   | 435                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 386                |
-| **Active Time** (⌚)   | 4 minutes |
+| **Net Change** (↕)    | 432                |
+| **Active Time** (⌚)   | 9 minutes |
 
 
 ## Modified Files
-- **routes.py** (+130, -3)
+- **routes.py** (+133, -3)
 - **main.py** (+259, -0)
+- **schemas.py** (+43, -0)
 
 ## Visualizations
 
@@ -21,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 392
+".py" : 438
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"18h" : 5
+"18h" : 8
 ```
 
 
-> **Last Updated:** 11/7/2025, 6:11:06 PM
+> **Last Updated:** 11/7/2025, 6:26:06 PM
