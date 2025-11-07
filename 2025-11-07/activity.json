@@ -391,9 +391,9 @@
       "averageChangeSize": 258.0833333333333
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 1688,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 1690,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\checkiphack.txt": [
           {
@@ -425,6 +425,20 @@
             },
             "duration": 0,
             "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-07T08:44:30.790Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\includes\\functions.asp",
+            "fileType": ".asp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "asp"
           }
         ],
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\etab_rse_responses\\functions.asp": [
@@ -454,6 +468,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-07T08:45:50.088Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\etab_rse_responses\\functions.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "asp"
           }
         ]
