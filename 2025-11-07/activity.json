@@ -2,7 +2,7 @@
   "date": "2025-11-07",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 8469,
+      "totalLinesAdded": 8475,
       "totalLinesRemoved": 161,
       "totalActiveTime": 59,
       "files": {
@@ -677,6 +677,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-07T10:40:31.727Z",
+            "fileName": "c:\\Users\\Julien\\.claude.json",
+            "fileType": ".json",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
