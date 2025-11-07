@@ -2,7 +2,7 @@
   "date": "2025-11-07",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 11013,
+      "totalLinesAdded": 11234,
       "totalLinesRemoved": 324,
       "totalActiveTime": 105,
       "files": {
@@ -1468,6 +1468,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\searchHelpers.ts": [
+          {
+            "timestamp": "2025-11-07T21:27:29.703Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\searchHelpers.ts",
+            "fileType": ".ts",
+            "linesAdded": 221,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
