@@ -375,6 +375,39 @@
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\biome.json"
       ],
       "averageChangeSize": 258.0833333333333
+    },
+    "cdp.aleoudev.fr (Workspace)": {
+      "totalLinesAdded": 189,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\checkiphack.txt": [
+          {
+            "timestamp": "2025-11-07T08:06:57.646Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\checkiphack.txt",
+            "fileType": ".txt",
+            "linesAdded": 189,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\checkiphack.txt"
+      ],
+      "averageChangeSize": 189
     }
   },
   "totalActiveTime": 23,
