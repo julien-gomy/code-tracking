@@ -1551,9 +1551,9 @@
       "averageChangeSize": 258.0833333333333
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 5621,
+      "totalLinesAdded": 5630,
       "totalLinesRemoved": 12,
-      "totalActiveTime": 28,
+      "totalActiveTime": 29,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\checkiphack.txt": [
           {
@@ -1801,6 +1801,20 @@
             "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\ajax_utils.asp",
             "fileType": ".asp",
             "linesAdded": 503,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-07T22:28:05.862Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\ajax_utils.asp",
+            "fileType": ".asp",
+            "linesAdded": 9,
             "linesRemoved": 0,
             "projectName": "cdp.aleoudev.fr (Workspace)",
             "content": {
