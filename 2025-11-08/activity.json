@@ -107,9 +107,9 @@
       "averageChangeSize": 76
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 546,
+      "totalLinesAdded": 580,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 3,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py": [
           {
@@ -157,6 +157,36 @@
           {
             "timestamp": "2025-11-07T23:28:45.345Z",
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\c29adaccc9bd_update_supplier_cat.py": [
+          {
+            "timestamp": "2025-11-07T23:37:25.608Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\c29adaccc9bd_update_supplier_cat.py",
+            "fileType": ".py",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-07T23:37:35.020Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\c29adaccc9bd_update_supplier_cat.py",
             "fileType": ".py",
             "linesAdded": 1,
             "linesRemoved": 0,
