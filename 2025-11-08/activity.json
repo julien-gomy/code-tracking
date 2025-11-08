@@ -2,9 +2,9 @@
   "date": "2025-11-08",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 737,
-      "totalLinesRemoved": 32,
-      "totalActiveTime": 44,
+      "totalLinesAdded": 1159,
+      "totalLinesRemoved": 42,
+      "totalActiveTime": 48,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\location\\FranceMap.tsx": [
           {
@@ -440,6 +440,34 @@
             },
             "duration": 4,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-08T01:11:36.058Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\place\\presentation\\SummarySection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-08T01:11:40.143Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\place\\presentation\\SummarySection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\place\\PresentationSection.tsx": [
@@ -448,6 +476,22 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\place\\PresentationSection.tsx",
             "fileType": ".tsx",
             "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\[category_slug]\\[[...url_path]]\\page.tsx": [
+          {
+            "timestamp": "2025-11-08T01:14:05.012Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\[category_slug]\\[[...url_path]]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 422,
             "linesRemoved": 0,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
