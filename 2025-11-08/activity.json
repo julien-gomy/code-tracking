@@ -2,9 +2,9 @@
   "date": "2025-11-08",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 4295,
+      "totalLinesAdded": 4298,
       "totalLinesRemoved": 147,
-      "totalActiveTime": 231,
+      "totalActiveTime": 234,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\location\\FranceMap.tsx": [
           {
@@ -2071,6 +2071,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-11-08T15:26:29.299Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "local"
           }
         ],
