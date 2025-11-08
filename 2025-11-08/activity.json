@@ -2,7 +2,7 @@
   "date": "2025-11-08",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3239,
+      "totalLinesAdded": 3301,
       "totalLinesRemoved": 105,
       "totalActiveTime": 149,
       "files": {
@@ -1444,6 +1444,22 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\search\\map\\MapView.tsx",
             "fileType": ".tsx",
             "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\header\\AuthenticationButtons.tsx": [
+          {
+            "timestamp": "2025-11-08T13:05:55.699Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\header\\AuthenticationButtons.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 62,
             "linesRemoved": 0,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
