@@ -3,7 +3,7 @@
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 4295,
-      "totalLinesRemoved": 144,
+      "totalLinesRemoved": 147,
       "totalActiveTime": 231,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\location\\FranceMap.tsx": [
@@ -2041,6 +2041,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-08T15:23:46.847Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\api\\auth\\login\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
