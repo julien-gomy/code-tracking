@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 508                                          |
-| **Lines Removed** (➖) | 12                                        |
+| **Lines Added** (➕)   | 527                                          |
+| **Lines Removed** (➖) | 31                                        |
 | **Net Change** (↕)    | 496                |
-| **Active Time** (⌚)   | 19 minutes |
+| **Active Time** (⌚)   | 28 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **FiltersModal.tsx** (+75, -0)
 - **filter-helpers.ts** (+65, -0)
 - **useFilterContainer.ts** (+78, -0)
-- **next.config.ts** (+130, -8)
+- **next.config.ts** (+149, -27)
 
 ## Visualizations
 
@@ -26,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 239
-".ts" : 281
+".ts" : 319
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 6
-"01h" : 11
+"01h" : 19
 ```
 
 
-> **Last Updated:** 11/8/2025, 1:39:58 AM
+> **Last Updated:** 11/8/2025, 1:44:58 AM
