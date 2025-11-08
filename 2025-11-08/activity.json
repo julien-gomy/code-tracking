@@ -2106,6 +2106,39 @@
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py"
       ],
       "averageChangeSize": 269
+    },
+    "usr.aleoudev.fr (Workspace)": {
+      "totalLinesAdded": 265,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\session.asp": [
+          {
+            "timestamp": "2025-11-08T14:13:47.818Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\session.asp",
+            "fileType": ".asp",
+            "linesAdded": 265,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          }
+        ]
+      },
+      "languageStats": {
+        "asp": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\session.asp"
+      ],
+      "averageChangeSize": 265
     }
   },
   "totalActiveTime": 1,
