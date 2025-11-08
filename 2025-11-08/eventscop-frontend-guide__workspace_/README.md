@@ -4,17 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 296                                          |
+| **Lines Added** (➕)   | 378                                          |
 | **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 292                |
-| **Active Time** (⌚)   | 8 minutes |
+| **Net Change** (↕)    | 374                |
+| **Active Time** (⌚)   | 15 minutes |
 
 
 ## Modified Files
 - **FranceMap.tsx** (+158, -3)
 - **page.tsx** (+2, -1)
 - **FiltersModal.tsx** (+75, -0)
-- **filter-helpers.ts** (+61, -0)
+- **filter-helpers.ts** (+65, -0)
+- **useFilterContainer.ts** (+78, -0)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 239
-".ts" : 61
+".ts" : 143
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 6
-"01h" : 3
+"01h" : 6
 ```
 
 
-> **Last Updated:** 11/8/2025, 1:24:58 AM
+> **Last Updated:** 11/8/2025, 1:29:58 AM
