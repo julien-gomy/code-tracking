@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3622                                          |
-| **Lines Removed** (➖) | 107                                        |
-| **Net Change** (↕)    | 3515                |
-| **Active Time** (⌚)   | 176 minutes |
+| **Lines Added** (➕)   | 3677                                          |
+| **Lines Removed** (➖) | 111                                        |
+| **Net Change** (↕)    | 3566                |
+| **Active Time** (⌚)   | 182 minutes |
 
 
 ## Modified Files
@@ -39,10 +39,11 @@
 - **HeaderTopBar.tsx** (+30, -0)
 - **Header.tsx** (+35, -1)
 - **layout.tsx** (+30, -1)
-- **SignupFormContainer.tsx** (+37, -0)
-- **auth.ts** (+124, -0)
+- **SignupFormContainer.tsx** (+37, -1)
+- **auth.ts** (+124, -2)
 - **SignupIllustrationSection.tsx** (+16, -0)
-- **page.tsx** (+49, -0)
+- **page.tsx** (+49, -1)
+- **TermsAcceptance.tsx** (+55, -0)
 
 ## Visualizations
 
@@ -51,8 +52,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2885
-".ts" : 733
+".tsx" : 2942
+".ts" : 735
 ".json" : 111
 ```
 
@@ -67,8 +68,8 @@ title Coding activity by hour (count of changes)
 "10h" : 13
 "11h" : 41
 "12h" : 1
-"14h" : 16
+"14h" : 20
 ```
 
 
-> **Last Updated:** 11/8/2025, 2:25:01 PM
+> **Last Updated:** 11/8/2025, 2:30:01 PM
