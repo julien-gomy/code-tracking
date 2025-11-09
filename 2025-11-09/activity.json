@@ -1,0 +1,97 @@
+{
+  "date": "2025-11-09",
+  "projects": {
+    "eventscop-frontend-guide (Workspace)": {
+      "totalLinesAdded": 10,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\api\\auth\\login\\route.ts": [
+          {
+            "timestamp": "2025-11-09T09:14:52.887Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\api\\auth\\login\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-09T09:15:05.028Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\api\\auth\\login\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\next.config.ts": [
+          {
+            "timestamp": "2025-11-09T09:15:04.887Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\auth\\LoginForm.tsx": [
+          {
+            "timestamp": "2025-11-09T09:15:05.010Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\auth\\LoginForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 2,
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "10": 3
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\api\\auth\\login\\route.ts",
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\next.config.ts",
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\auth\\LoginForm.tsx"
+      ],
+      "averageChangeSize": 2.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "ts",
+    "tsx"
+  ]
+}
