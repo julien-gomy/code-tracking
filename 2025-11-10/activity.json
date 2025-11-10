@@ -1,0 +1,64 @@
+{
+  "date": "2025-11-10",
+  "projects": {
+    "eventscop-frontend-guide (Workspace)": {
+      "totalLinesAdded": 220,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\auth.ts": [
+          {
+            "timestamp": "2025-11-10T08:39:43.035Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\next.config.ts": [
+          {
+            "timestamp": "2025-11-10T08:39:43.043Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\auth.ts",
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\next.config.ts"
+      ],
+      "averageChangeSize": 110
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
