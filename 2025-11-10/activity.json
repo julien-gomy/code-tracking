@@ -52,9 +52,9 @@
       "averageChangeSize": 110
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 4770,
+      "totalLinesAdded": 4777,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 15,
+      "totalActiveTime": 22,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\etab_photos\\functions.asp": [
           {
@@ -331,6 +331,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-10T09:43:47.029Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\class\\gc_export.asp",
+            "fileType": ".asp",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-10T09:45:05.444Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\class\\gc_export.asp",
+            "fileType": ".asp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-10T09:47:50.862Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\class\\gc_export.asp",
+            "fileType": ".asp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "asp"
           }
         ]
