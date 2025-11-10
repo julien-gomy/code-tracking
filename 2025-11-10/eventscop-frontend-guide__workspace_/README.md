@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 668                                          |
-| **Lines Removed** (➖) | 55                                        |
-| **Net Change** (↕)    | 613                |
-| **Active Time** (⌚)   | 4 minutes |
+| **Lines Added** (➕)   | 781                                          |
+| **Lines Removed** (➖) | 59                                        |
+| **Net Change** (↕)    | 722                |
+| **Active Time** (⌚)   | 12 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,7 @@
 - **page.tsx** (+329, -51)
 - **package.json** (+111, -0)
 - **package.json** (+6, -2)
+- **ReviewsModal.tsx** (+113, -4)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 224
-".tsx" : 380
+".tsx" : 497
 ".json" : 119
 ```
 
@@ -37,8 +38,8 @@ title Coding activity by hour (count of changes)
 "09h" : 2
 "11h" : 3
 "13h" : 3
-"14h" : 7
+"14h" : 11
 ```
 
 
-> **Last Updated:** 11/10/2025, 2:25:13 PM
+> **Last Updated:** 11/10/2025, 2:30:13 PM
