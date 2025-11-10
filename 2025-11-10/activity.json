@@ -2,9 +2,9 @@
   "date": "2025-11-10",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 4629,
-      "totalLinesRemoved": 73,
-      "totalActiveTime": 75,
+      "totalLinesAdded": 4768,
+      "totalLinesRemoved": 91,
+      "totalActiveTime": 76,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\auth.ts": [
           {
@@ -1051,6 +1051,36 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 14,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\data\\footer.ts": [
+          {
+            "timestamp": "2025-11-10T15:10:08.318Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\data\\footer.ts",
+            "fileType": ".ts",
+            "linesAdded": 139,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-10T15:10:08.803Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\data\\footer.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 18,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
               "added": [],
