@@ -1,0 +1,47 @@
+{
+  "date": "2025-11-11",
+  "projects": {
+    "eventscop-api-guide (Workspace)": {
+      "totalLinesAdded": 121,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\Supplier.py": [
+          {
+            "timestamp": "2025-11-11T07:31:52.901Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\Supplier.py",
+            "fileType": ".py",
+            "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\Supplier.py"
+      ],
+      "averageChangeSize": 121
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
