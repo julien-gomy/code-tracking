@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 382                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 382                |
-| **Active Time** (⌚)   | 4 minutes |
+| **Lines Added** (➕)   | 398                                          |
+| **Lines Removed** (➖) | 4                                        |
+| **Net Change** (↕)    | 394                |
+| **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
 - **functions.asp** (+3, -0)
-- **demande_step_6.asp** (+235, -0)
-- **demande_step_6_form.asp** (+144, -0)
+- **demande_step_6.asp** (+251, -0)
+- **demande_step_6_form.asp** (+144, -4)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".asp" : 382
+".asp" : 402
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 1
-"16h" : 3
+"16h" : 5
 ```
 
 
-> **Last Updated:** 11/12/2025, 4:38:57 PM
+> **Last Updated:** 11/12/2025, 4:43:57 PM
