@@ -380,9 +380,9 @@
       "averageChangeSize": 20.333333333333332
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 4,
+      "totalLinesAdded": 124,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\Supplier.py": [
           {
@@ -425,6 +425,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\schemas_base.py": [
+          {
+            "timestamp": "2025-11-12T09:31:23.842Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\schemas_base.py",
+            "fileType": ".py",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-12T09:32:10.275Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\schemas_base.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
