@@ -876,6 +876,39 @@
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\etab\\functions.asp"
       ],
       "averageChangeSize": 3
+    },
+    "usr.aleoudev.fr (Workspace)": {
+      "totalLinesAdded": 328,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\avis_aleou.asp": [
+          {
+            "timestamp": "2025-11-12T15:31:07.468Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\avis_aleou.asp",
+            "fileType": ".asp",
+            "linesAdded": 328,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          }
+        ]
+      },
+      "languageStats": {
+        "asp": 0
+      },
+      "changeFrequency": {
+        "16": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\avis_aleou.asp"
+      ],
+      "averageChangeSize": 328
     }
   },
   "totalActiveTime": 7,
