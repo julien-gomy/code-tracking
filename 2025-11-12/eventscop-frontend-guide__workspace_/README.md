@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3202                                          |
+| **Lines Added** (➕)   | 3232                                          |
 | **Lines Removed** (➖) | 453                                        |
-| **Net Change** (↕)    | 2749                |
-| **Active Time** (⌚)   | 112 minutes |
+| **Net Change** (↕)    | 2779                |
+| **Active Time** (⌚)   | 116 minutes |
 
 
 ## Modified Files
@@ -32,6 +32,7 @@
 - **page.tsx** (+125, -0)
 - **page.tsx** (+71, -0)
 - **page.tsx** (+396, -0)
+- **HeaderTopBar.tsx** (+30, -0)
 
 ## Visualizations
 
@@ -42,7 +43,7 @@ pie showData
 title Lines changed by file type
 ".json" : 127
 ".ts" : 1101
-".tsx" : 2427
+".tsx" : 2457
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,8 +55,8 @@ title Coding activity by hour (count of changes)
 "12h" : 2
 "14h" : 4
 "15h" : 19
-"17h" : 28
+"17h" : 29
 ```
 
 
-> **Last Updated:** 11/12/2025, 5:24:26 PM
+> **Last Updated:** 11/12/2025, 5:29:26 PM
