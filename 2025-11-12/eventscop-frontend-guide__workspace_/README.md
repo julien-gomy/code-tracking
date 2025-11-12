@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 819                                          |
-| **Lines Removed** (➖) | 8                                        |
-| **Net Change** (↕)    | 811                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Lines Added** (➕)   | 921                                          |
+| **Lines Removed** (➖) | 91                                        |
+| **Net Change** (↕)    | 830                |
+| **Active Time** (⌚)   | 31 minutes |
 
 
 ## Modified Files
-- **package.json** (+5, -4)
-- **package.json** (+113, -1)
+- **package.json** (+7, -4)
+- **package.json** (+114, -2)
 - **referenced-entities.ts** (+115, -0)
-- **page.tsx** (+343, -0)
-- **searchHelpers.ts** (+243, -3)
+- **page.tsx** (+408, -65)
+- **searchHelpers.ts** (+277, -20)
 
 ## Visualizations
 
@@ -24,9 +24,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 123
-".ts" : 361
-".tsx" : 343
+".json" : 127
+".ts" : 412
+".tsx" : 473
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +34,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 11
+"09h" : 20
 ```
 
 
-> **Last Updated:** 11/12/2025, 9:34:26 AM
+> **Last Updated:** 11/12/2025, 9:39:26 AM
