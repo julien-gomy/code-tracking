@@ -92,9 +92,9 @@
       "averageChangeSize": 41
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 2630,
-      "totalLinesRemoved": 60,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 5430,
+      "totalLinesRemoved": 271,
+      "totalActiveTime": 24,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\api-auth.ts": [
           {
@@ -344,6 +344,20 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-11-13T16:53:58.967Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\en.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 211,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ],
         "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\settings.json": [
@@ -359,6 +373,38 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\translations_fr.csv": [
+          {
+            "timestamp": "2025-11-13T16:52:42.710Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\translations_fr.csv",
+            "fileType": ".csv",
+            "linesAdded": 1201,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\it.json": [
+          {
+            "timestamp": "2025-11-13T16:53:59.045Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\it.json",
+            "fileType": ".json",
+            "linesAdded": 1599,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ]
