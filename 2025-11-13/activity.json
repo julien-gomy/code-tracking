@@ -93,8 +93,8 @@
     },
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 167,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\api-auth.ts": [
           {
@@ -123,6 +123,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-13T08:31:05.199Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\api-auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "ts"
           }
         ],
