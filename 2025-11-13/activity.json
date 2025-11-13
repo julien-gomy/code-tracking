@@ -393,6 +393,53 @@
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\amex-cdp.asp"
       ],
       "averageChangeSize": 622
+    },
+    "eventscop-guide": {
+      "totalLinesAdded": 33,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Mes Projets\\New\\eventscop-guide\\.env.local": [
+          {
+            "timestamp": "2025-11-13T10:27:28.372Z",
+            "fileName": "c:\\Mes Projets\\New\\eventscop-guide\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-guide",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-11-13T10:27:28.809Z",
+            "fileName": "c:\\Mes Projets\\New\\eventscop-guide\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "eventscop-guide",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "local"
+          }
+        ]
+      },
+      "languageStats": {
+        "local": 1
+      },
+      "changeFrequency": {
+        "11": 1
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\New\\eventscop-guide\\.env.local"
+      ],
+      "averageChangeSize": 16.5
     }
   },
   "totalActiveTime": 4,
