@@ -169,9 +169,9 @@
       "averageChangeSize": 30
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 57,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 110,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 4,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\hybrid_auth.py": [
           {
@@ -201,6 +201,50 @@
             },
             "duration": 2,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-11-13T08:48:46.760Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\hybrid_auth.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-13T08:48:54.920Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\hybrid_auth.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.env": [
+          {
+            "timestamp": "2025-11-13T08:48:08.728Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.env",
+            "fileType": "unknown",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
