@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 5718                                          |
-| **Lines Removed** (➖) | 271                                        |
-| **Net Change** (↕)    | 5447                |
-| **Active Time** (⌚)   | 25 minutes |
+| **Lines Removed** (➖) | 2880                                        |
+| **Net Change** (↕)    | 2838                |
+| **Active Time** (⌚)   | 29 minutes |
 
 
 ## Modified Files
@@ -16,10 +16,10 @@
 - **next.config.ts** (+5, -5)
 - **robots.ts** (+14, -0)
 - **page.tsx** (+284, -3)
-- **en.json** (+1954, -211)
+- **en.json** (+1954, -1349)
 - **settings.json** (+299, -0)
 - **translations_fr.csv** (+1201, -0)
-- **it.json** (+1743, -0)
+- **it.json** (+1743, -1471)
 
 ## Visualizations
 
@@ -30,7 +30,7 @@ pie showData
 title Lines changed by file type
 ".ts" : 294
 ".tsx" : 287
-".json" : 4207
+".json" : 6816
 ".csv" : 1201
 ```
 
@@ -43,8 +43,8 @@ title Coding activity by hour (count of changes)
 "10h" : 1
 "12h" : 3
 "17h" : 7
-"18h" : 2
+"18h" : 4
 ```
 
 
-> **Last Updated:** 11/13/2025, 6:04:31 PM
+> **Last Updated:** 11/13/2025, 6:09:31 PM

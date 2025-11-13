@@ -93,8 +93,8 @@
     },
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 5718,
-      "totalLinesRemoved": 271,
-      "totalActiveTime": 25,
+      "totalLinesRemoved": 2880,
+      "totalActiveTime": 29,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\api-auth.ts": [
           {
@@ -372,6 +372,20 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-11-13T17:05:59.484Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\en.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1138,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\settings.json": [
@@ -433,6 +447,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-13T17:05:52.540Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\it.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1471,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ]
