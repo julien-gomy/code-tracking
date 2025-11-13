@@ -271,9 +271,9 @@
       "averageChangeSize": 30
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1044,
+      "totalLinesAdded": 1045,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 4,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\hybrid_auth.py": [
           {
@@ -362,6 +362,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-13T11:10:21.091Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
