@@ -167,6 +167,53 @@
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\api-auth.ts"
       ],
       "averageChangeSize": 30
+    },
+    "eventscop-api-guide (Workspace)": {
+      "totalLinesAdded": 57,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\hybrid_auth.py": [
+          {
+            "timestamp": "2025-11-13T08:38:36.180Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\hybrid_auth.py",
+            "fileType": ".py",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-13T08:39:59.379Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\hybrid_auth.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "9": 2
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\hybrid_auth.py"
+      ],
+      "averageChangeSize": 28.5
     }
   },
   "totalActiveTime": 4,
