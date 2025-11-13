@@ -360,6 +360,39 @@
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\hybrid_auth.py"
       ],
       "averageChangeSize": 28.5
+    },
+    "usr.aleoudev.fr (Workspace)": {
+      "totalLinesAdded": 622,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\amex-cdp.asp": [
+          {
+            "timestamp": "2025-11-13T10:21:29.500Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\amex-cdp.asp",
+            "fileType": ".asp",
+            "linesAdded": 622,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          }
+        ]
+      },
+      "languageStats": {
+        "asp": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\amex-cdp.asp"
+      ],
+      "averageChangeSize": 622
     }
   },
   "totalActiveTime": 4,
