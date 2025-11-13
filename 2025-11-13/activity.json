@@ -92,7 +92,7 @@
       "averageChangeSize": 41
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 15267,
+      "totalLinesAdded": 17014,
       "totalLinesRemoved": 5497,
       "totalActiveTime": 43,
       "files": {
@@ -546,6 +546,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-11-13T22:27:45.388Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\it.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\translations_es.csv": [
@@ -600,6 +614,22 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\de.json",
             "fileType": ".json",
             "linesAdded": 1743,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\es.json": [
+          {
+            "timestamp": "2025-11-13T22:27:45.421Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\es.json",
+            "fileType": ".json",
+            "linesAdded": 1745,
             "linesRemoved": 0,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
