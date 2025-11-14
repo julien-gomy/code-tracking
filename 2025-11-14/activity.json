@@ -2,7 +2,7 @@
   "date": "2025-11-14",
   "projects": {
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 359,
+      "totalLinesAdded": 412,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -44,6 +44,22 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\148fac062149_example_i18n_migration.py",
             "fileType": ".py",
             "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\148fac062148_add_i18n_locales_and_i18n_locale_.py": [
+          {
+            "timestamp": "2025-11-14T02:57:47.558Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\148fac062148_add_i18n_locales_and_i18n_locale_.py",
+            "fileType": ".py",
+            "linesAdded": 53,
             "linesRemoved": 0,
             "projectName": "eventscop-api-guide (Workspace)",
             "content": {
