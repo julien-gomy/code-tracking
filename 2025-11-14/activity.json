@@ -646,9 +646,9 @@
       "averageChangeSize": 654.875
     },
     "eventscop-guide": {
-      "totalLinesAdded": 56,
+      "totalLinesAdded": 89,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "c:\\Mes Projets\\New\\eventscop-guide\\src\\app\\sitemap-regions.xml\\route.ts": [
           {
@@ -664,6 +664,36 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\New\\eventscop-guide\\.env.local": [
+          {
+            "timestamp": "2025-11-14T12:08:15.651Z",
+            "fileName": "c:\\Mes Projets\\New\\eventscop-guide\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-guide",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-11-14T12:08:16.016Z",
+            "fileName": "c:\\Mes Projets\\New\\eventscop-guide\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "eventscop-guide",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "local"
           }
         ]
       },
