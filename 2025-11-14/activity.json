@@ -3,7 +3,7 @@
   "projects": {
     "eventscop-api-guide (Workspace)": {
       "totalLinesAdded": 24113,
-      "totalLinesRemoved": 7629,
+      "totalLinesRemoved": 7634,
       "totalActiveTime": 38,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\__init__.py": [
@@ -355,6 +355,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-14T04:25:16.169Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\i18n\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
