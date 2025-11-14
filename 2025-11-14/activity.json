@@ -709,7 +709,7 @@
       "averageChangeSize": 56
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 15158,
+      "totalLinesAdded": 15244,
       "totalLinesRemoved": 16,
       "totalActiveTime": 20,
       "files": {
@@ -976,6 +976,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\tags\\group_search.asp": [
+          {
+            "timestamp": "2025-11-14T17:49:49.561Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\tags\\group_search.asp",
+            "fileType": ".asp",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "asp"
           }
         ]
