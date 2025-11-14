@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 16784                                          |
+| **Lines Added** (➕)   | 16860                                          |
 | **Lines Removed** (➖) | 19                                        |
-| **Net Change** (↕)    | 16765                |
-| **Active Time** (⌚)   | 56 minutes |
+| **Net Change** (↕)    | 16841                |
+| **Active Time** (⌚)   | 61 minutes |
 
 
 ## Modified Files
@@ -25,7 +25,9 @@
 - **list-label.asp** (+34, -0)
 - **sbar.asp** (+526, -0)
 - **left.asp** (+402, -0)
-- **smart_tag_search.asp** (+165, -1)
+- **smart_tag_search.asp** (+173, -1)
+- **smart-tags.asp** (+34, -0)
+- **smart-tag-groups.asp** (+34, -0)
 
 ## Visualizations
 
@@ -34,7 +36,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".asp" : 16803
+".asp" : 16879
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -50,8 +52,8 @@ title Coding activity by hour (count of changes)
 "19h" : 9
 "20h" : 11
 "21h" : 6
-"22h" : 2
+"22h" : 5
 ```
 
 
-> **Last Updated:** 11/14/2025, 10:20:02 PM
+> **Last Updated:** 11/14/2025, 10:30:02 PM
