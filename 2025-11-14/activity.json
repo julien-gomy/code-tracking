@@ -709,7 +709,7 @@
       "averageChangeSize": 56
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 23714,
+      "totalLinesAdded": 23715,
       "totalLinesRemoved": 26,
       "totalActiveTime": 103,
       "files": {
@@ -1770,6 +1770,22 @@
               "removed": []
             },
             "duration": 3,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\class\\SmartTag.asp": [
+          {
+            "timestamp": "2025-11-14T22:43:39.260Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\class\\SmartTag.asp",
+            "fileType": ".asp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "asp"
           }
         ]
