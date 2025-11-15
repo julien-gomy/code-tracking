@@ -1,0 +1,83 @@
+{
+  "date": "2025-11-16",
+  "projects": {
+    "cdp.aleoudev.fr (Workspace)": {
+      "totalLinesAdded": 404,
+      "totalLinesRemoved": 83,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\css\\main.css": [
+          {
+            "timestamp": "2025-11-15T23:01:54.588Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\css\\main.css",
+            "fileType": ".css",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\ajax_etab_list.asp": [
+          {
+            "timestamp": "2025-11-15T23:02:03.543Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\ajax_etab_list.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 83,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\ajax_presta_list.asp": [
+          {
+            "timestamp": "2025-11-15T23:04:33.649Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\ajax_presta_list.asp",
+            "fileType": ".asp",
+            "linesAdded": 322,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "asp"
+          }
+        ]
+      },
+      "languageStats": {
+        "css": 0,
+        "asp": 4
+      },
+      "changeFrequency": {
+        "0": 4
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\css\\main.css",
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\ajax_etab_list.asp",
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\ajax_presta_list.asp"
+      ],
+      "averageChangeSize": 162.33333333333334
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "asp",
+    "css"
+  ]
+}
