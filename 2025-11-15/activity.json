@@ -721,9 +721,9 @@
       "averageChangeSize": 2
     },
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 10651,
-      "totalLinesRemoved": 14,
-      "totalActiveTime": 29,
+      "totalLinesAdded": 10672,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 39,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\gc\\data-load.asp": [
           {
@@ -975,6 +975,34 @@
             },
             "duration": 3,
             "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-15T14:04:35.119Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_cdc.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-15T14:08:44.712Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_cdc.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "asp"
           }
         ],
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\scripts\\virtuatab.asp": [
@@ -1020,6 +1048,48 @@
               "removed": []
             },
             "duration": 5,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-15T14:04:18.104Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\frs_demande.asp",
+            "fileType": ".asp",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-15T14:05:07.222Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\frs_demande.asp",
+            "fileType": ".asp",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-15T14:08:47.468Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\frs_demande.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "asp"
           }
         ]
