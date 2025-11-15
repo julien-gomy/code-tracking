@@ -1641,6 +1641,85 @@
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\schemas_base.py"
       ],
       "averageChangeSize": 61.75
+    },
+    "eventscop-frontend-guide (Workspace)": {
+      "totalLinesAdded": 167,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\package.json": [
+          {
+            "timestamp": "2025-11-15T17:24:35.167Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\package.json",
+            "fileType": ".json",
+            "linesAdded": 114,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local": [
+          {
+            "timestamp": "2025-11-15T17:25:33.205Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-11-15T17:28:14.241Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-11-15T17:28:15.723Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "local"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "local": 5
+      },
+      "changeFrequency": {
+        "18": 5
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local",
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\package.json"
+      ],
+      "averageChangeSize": 42
     }
   },
   "totalActiveTime": 3,
