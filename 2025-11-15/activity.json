@@ -722,7 +722,7 @@
     },
     "usr.aleoudev.fr (Workspace)": {
       "totalLinesAdded": 7289,
-      "totalLinesRemoved": 3,
+      "totalLinesRemoved": 4,
       "totalActiveTime": 19,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\gc\\data-load.asp": [
@@ -918,6 +918,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-15T13:41:54.429Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_cdc.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "asp"
           }
         ]
