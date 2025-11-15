@@ -4,14 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3239                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 3239                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 5133                                          |
+| **Lines Removed** (➖) | 3                                        |
+| **Net Change** (↕)    | 5130                |
+| **Active Time** (⌚)   | 8 minutes |
 
 
 ## Modified Files
-- **data-load.asp** (+3239, -0)
+- **data-load.asp** (+3252, -3)
+- **facture_presta_pdf.asp** (+1259, -0)
+- **amex-cdp.asp** (+622, -0)
 
 ## Visualizations
 
@@ -20,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".asp" : 3239
+".asp" : 5136
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"11h" : 1
+"11h" : 6
 ```
 
 
-> **Last Updated:** 11/15/2025, 11:24:03 AM
+> **Last Updated:** 11/15/2025, 11:29:03 AM
