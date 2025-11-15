@@ -577,9 +577,9 @@
       "averageChangeSize": 2
     },
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 5133,
+      "totalLinesAdded": 6035,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 8,
+      "totalActiveTime": 14,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\supplr\\gc\\data-load.asp": [
           {
@@ -669,6 +669,54 @@
             },
             "duration": 1,
             "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\avis_aleou.asp": [
+          {
+            "timestamp": "2025-11-15T10:30:24.800Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\avis_aleou.asp",
+            "fileType": ".asp",
+            "linesAdded": 328,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\scripts\\helper\\crypto-vigenere.asp": [
+          {
+            "timestamp": "2025-11-15T10:32:40.152Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\scripts\\helper\\crypto-vigenere.asp",
+            "fileType": ".asp",
+            "linesAdded": 275,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "asp"
+          }
+        ],
+        "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-11-15T10:33:30.607Z",
+            "fileName": "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 299,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
