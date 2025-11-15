@@ -2,9 +2,9 @@
   "date": "2025-11-15",
   "projects": {
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 7869,
+      "totalLinesAdded": 7892,
       "totalLinesRemoved": 129,
-      "totalActiveTime": 121,
+      "totalActiveTime": 126,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\class\\SmartTag.asp": [
           {
@@ -1065,6 +1065,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-15T21:36:50.770Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\ajax_etab_list.asp",
+            "fileType": ".asp",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "asp"
           }
         ]
