@@ -5,14 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 5348                                          |
-| **Lines Removed** (➖) | 73                                        |
-| **Net Change** (↕)    | 5275                |
+| **Lines Removed** (➖) | 80                                        |
+| **Net Change** (↕)    | 5268                |
 | **Active Time** (⌚)   | 92 minutes |
 
 
 ## Modified Files
 - **SmartTag.asp** (+4, -0)
-- **demande_step_1.asp** (+27, -2)
+- **demande_step_1.asp** (+27, -9)
 - **parametre.asp** (+218, -0)
 - **smart_tag_form.asp** (+120, -31)
 - **group_form.asp** (+0, -25)
@@ -28,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".asp" : 5421
+".asp" : 5428
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +43,9 @@ title Coding activity by hour (count of changes)
 "16h" : 1
 "17h" : 3
 "20h" : 1
+"21h" : 1
 "23h" : 2
 ```
 
 
-> **Last Updated:** 11/15/2025, 8:50:06 PM
+> **Last Updated:** 11/15/2025, 9:20:06 PM
