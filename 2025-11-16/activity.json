@@ -395,9 +395,9 @@
       "averageChangeSize": 641
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 907,
-      "totalLinesRemoved": 11,
-      "totalActiveTime": 51,
+      "totalLinesAdded": 908,
+      "totalLinesRemoved": 12,
+      "totalActiveTime": 53,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.example": [
           {
@@ -412,6 +412,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "example"
+          },
+          {
+            "timestamp": "2025-11-16T13:23:12.653Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.example",
+            "fileType": ".example",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "example"
+          },
+          {
+            "timestamp": "2025-11-16T13:24:24.038Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.example",
+            "fileType": ".example",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "example"
           }
         ],
