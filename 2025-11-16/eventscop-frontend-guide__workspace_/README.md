@@ -4,15 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 330                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 330                |
-| **Active Time** (⌚)   | 4 minutes |
+| **Lines Added** (➕)   | 567                                          |
+| **Lines Removed** (➖) | 2                                        |
+| **Net Change** (↕)    | 565                |
+| **Active Time** (⌚)   | 16 minutes |
 
 
 ## Modified Files
 - **.env.example** (+27, -0)
-- **SearchPageForm.tsx** (+303, -0)
+- **SearchPageForm.tsx** (+306, -2)
+- **ProviderFiltersContainer.tsx** (+99, -0)
+- **search-filters.ts** (+87, -0)
+- **ProviderFilterContent.tsx** (+48, -0)
 
 ## Visualizations
 
@@ -22,7 +25,8 @@
 pie showData
 title Lines changed by file type
 ".example" : 27
-".tsx" : 303
+".tsx" : 455
+".ts" : 87
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +34,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"01h" : 2
+"01h" : 12
 ```
 
 
-> **Last Updated:** 11/16/2025, 1:54:30 AM
+> **Last Updated:** 11/16/2025, 1:59:30 AM
