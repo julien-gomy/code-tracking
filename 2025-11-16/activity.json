@@ -2,9 +2,9 @@
   "date": "2025-11-16",
   "projects": {
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 10291,
+      "totalLinesAdded": 12519,
       "totalLinesRemoved": 110,
-      "totalActiveTime": 85,
+      "totalActiveTime": 90,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\css\\main.css": [
           {
@@ -747,6 +747,38 @@
               "removed": []
             },
             "duration": 1,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\paiements_com_cdp\\search.asp": [
+          {
+            "timestamp": "2025-11-16T21:51:42.043Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\paiements_com_cdp\\search.asp",
+            "fileType": ".asp",
+            "linesAdded": 1202,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\helper\\form_helper.asp": [
+          {
+            "timestamp": "2025-11-16T21:53:59.249Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\helper\\form_helper.asp",
+            "fileType": ".asp",
+            "linesAdded": 1026,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "asp"
           }
         ]
