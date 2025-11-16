@@ -2,7 +2,7 @@
   "date": "2025-11-16",
   "projects": {
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 5398,
+      "totalLinesAdded": 5400,
       "totalLinesRemoved": 90,
       "totalActiveTime": 34,
       "files": {
@@ -183,6 +183,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-16T11:09:04.156Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\clients\\societe_form.asp",
+            "fileType": ".asp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "asp"
           }
         ],
