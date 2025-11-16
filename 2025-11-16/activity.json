@@ -142,6 +142,39 @@
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\ajax_presta_list.asp"
       ],
       "averageChangeSize": 162.33333333333334
+    },
+    "usr.aleoudev.fr (Workspace)": {
+      "totalLinesAdded": 641,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande_prestataire.asp": [
+          {
+            "timestamp": "2025-11-16T00:37:36.638Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande_prestataire.asp",
+            "fileType": ".asp",
+            "linesAdded": 641,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          }
+        ]
+      },
+      "languageStats": {
+        "asp": 0
+      },
+      "changeFrequency": {
+        "1": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande_prestataire.asp"
+      ],
+      "averageChangeSize": 641
     }
   },
   "totalActiveTime": 4,
