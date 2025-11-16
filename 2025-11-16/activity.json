@@ -396,7 +396,7 @@
     },
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 2059,
-      "totalLinesRemoved": 139,
+      "totalLinesRemoved": 140,
       "totalActiveTime": 111,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.example": [
@@ -1364,6 +1364,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-16T15:08:30.124Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\suppliers.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
