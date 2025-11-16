@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8368                                          |
+| **Lines Added** (➕)   | 9530                                          |
 | **Lines Removed** (➖) | 107                                        |
-| **Net Change** (↕)    | 8261                |
-| **Active Time** (⌚)   | 56 minutes |
+| **Net Change** (↕)    | 9423                |
+| **Active Time** (⌚)   | 58 minutes |
 
 
 ## Modified Files
@@ -23,6 +23,8 @@
 - **facture_client_pdf.asp** (+1486, -16)
 - **facture_client_brouillon_pdf.asp** (+1469, -0)
 - **data-load.asp** (+3, -0)
+- **entry.asp** (+438, -0)
+- **seminar_service.asp** (+724, -0)
 
 ## Visualizations
 
@@ -32,7 +34,7 @@
 pie showData
 title Lines changed by file type
 ".css" : 82
-".asp" : 8393
+".asp" : 9555
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -46,7 +48,8 @@ title Coding activity by hour (count of changes)
 "12h" : 4
 "14h" : 2
 "16h" : 13
+"17h" : 2
 ```
 
 
-> **Last Updated:** 11/16/2025, 4:45:10 PM
+> **Last Updated:** 11/16/2025, 5:30:10 PM
