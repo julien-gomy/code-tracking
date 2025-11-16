@@ -175,6 +175,57 @@
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande_prestataire.asp"
       ],
       "averageChangeSize": 641
+    },
+    "eventscop-frontend-guide (Workspace)": {
+      "totalLinesAdded": 330,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.example": [
+          {
+            "timestamp": "2025-11-16T00:51:17.294Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.example",
+            "fileType": ".example",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "example"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\search\\SearchPageForm.tsx": [
+          {
+            "timestamp": "2025-11-16T00:54:19.390Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\search\\SearchPageForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 303,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "example": 0,
+        "tsx": 4
+      },
+      "changeFrequency": {
+        "1": 4
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.example",
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\search\\SearchPageForm.tsx"
+      ],
+      "averageChangeSize": 165
     }
   },
   "totalActiveTime": 4,
