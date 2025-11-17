@@ -2049,9 +2049,9 @@
       "averageChangeSize": 235.66666666666666
     },
     "usr.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 13192,
+      "totalLinesAdded": 13194,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 21,
+      "totalActiveTime": 24,
       "files": {
         "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\acc\\ste\\cli_demande.asp": [
           {
@@ -2290,6 +2290,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-17T21:41:00.331Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\usr.aleoudev.fr\\xdev\\scripts\\class\\EmpreinteCOO.class.asp",
+            "fileType": ".asp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "usr.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "asp"
           }
         ]
