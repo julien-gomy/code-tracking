@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4872                                          |
-| **Lines Removed** (➖) | 326                                        |
-| **Net Change** (↕)    | 4546                |
-| **Active Time** (⌚)   | 179 minutes |
+| **Lines Added** (➕)   | 4879                                          |
+| **Lines Removed** (➖) | 377                                        |
+| **Net Change** (↕)    | 4502                |
+| **Active Time** (⌚)   | 187 minutes |
 
 
 ## Modified Files
@@ -27,7 +27,7 @@
 - **page.tsx** (+434, -12)
 - **FiltersModal.tsx** (+75, -0)
 - **useFilterContainer.ts** (+77, -0)
-- **ProviderFilterContent.tsx** (+129, -38)
+- **ProviderFilterContent.tsx** (+136, -88)
 - **property-grid.ts** (+32, -1)
 - **MobileSearchForm.tsx** (+119, -0)
 - **DatesModal.tsx** (+64, -0)
@@ -39,6 +39,7 @@
 - **criteria-builders.ts** (+90, -0)
 - **url-sync.ts** (+249, -0)
 - **filter-helpers.ts** (+70, -0)
+- **redirect-tests.js** (+0, -1)
 
 ## Visualizations
 
@@ -48,9 +49,10 @@
 pie showData
 title Lines changed by file type
 ".json" : 242
-".tsx" : 3573
+".tsx" : 3630
 ".ts" : 1340
 ".yml" : 43
+".js" : 1
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -66,8 +68,8 @@ title Coding activity by hour (count of changes)
 "14h" : 23
 "15h" : 28
 "16h" : 10
-"17h" : 1
+"17h" : 4
 ```
 
 
-> **Last Updated:** 11/17/2025, 5:04:08 PM
+> **Last Updated:** 11/17/2025, 5:09:08 PM
