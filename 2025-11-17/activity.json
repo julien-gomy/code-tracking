@@ -2290,9 +2290,9 @@
       "averageChangeSize": 989.5
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 2827,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 14,
+      "totalLinesAdded": 4840,
+      "totalLinesRemoved": 18,
+      "totalActiveTime": 23,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\js\\tags.json": [
           {
@@ -2408,6 +2408,20 @@
             },
             "duration": 1,
             "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-17T21:30:21.167Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\class\\EmpreinteCoo.class.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "asp"
           }
         ],
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\ajax_utils.asp": [
@@ -2493,6 +2507,50 @@
               "removed": []
             },
             "duration": 2,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-17T21:31:16.077Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\ajax_utils.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_action_db.asp": [
+          {
+            "timestamp": "2025-11-17T21:32:23.369Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_action_db.asp",
+            "fileType": ".asp",
+            "linesAdded": 2011,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-17T21:32:30.496Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_action_db.asp",
+            "fileType": ".asp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "asp"
           }
         ]
