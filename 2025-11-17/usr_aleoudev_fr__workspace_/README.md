@@ -4,16 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6036                                          |
+| **Lines Added** (➕)   | 11079                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 6036                |
-| **Active Time** (⌚)   | 13 minutes |
+| **Net Change** (↕)    | 11079                |
+| **Active Time** (⌚)   | 21 minutes |
 
 
 ## Modified Files
 - **cli_demande.asp** (+1979, -0)
 - **frs_demandes.css** (+1671, -0)
-- **frs_demande.asp** (+2386, -0)
+- **frs_demande.asp** (+2387, -0)
+- **cli_proposition.css** (+1103, -0)
+- **cli_demandes.css** (+1095, -0)
+- **cli_demande.css** (+2203, -0)
+- **cli_demande_prestataire.asp** (+641, -0)
 
 ## Visualizations
 
@@ -22,8 +26,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".asp" : 4365
-".css" : 1671
+".asp" : 5007
+".css" : 6072
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +37,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "16h" : 2
 "18h" : 4
-"21h" : 1
+"21h" : 9
 ```
 
 
-> **Last Updated:** 11/17/2025, 9:49:10 PM
+> **Last Updated:** 11/17/2025, 9:54:10 PM
