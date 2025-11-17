@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4421                                          |
+| **Lines Added** (➕)   | 4830                                          |
 | **Lines Removed** (➖) | 321                                        |
-| **Net Change** (↕)    | 4100                |
-| **Active Time** (⌚)   | 162 minutes |
+| **Net Change** (↕)    | 4509                |
+| **Active Time** (⌚)   | 166 minutes |
 
 
 ## Modified Files
@@ -36,6 +36,9 @@
 - **editorial.ts** (+68, -1)
 - **lefthook.yml** (+32, -11)
 - **seo.ts** (+224, -0)
+- **criteria-builders.ts** (+90, -0)
+- **url-sync.ts** (+249, -0)
+- **filter-helpers.ts** (+70, -0)
 
 ## Visualizations
 
@@ -46,7 +49,7 @@ pie showData
 title Lines changed by file type
 ".json" : 242
 ".tsx" : 3526
-".ts" : 931
+".ts" : 1340
 ".yml" : 43
 ```
 
@@ -62,7 +65,8 @@ title Coding activity by hour (count of changes)
 "13h" : 14
 "14h" : 23
 "15h" : 28
+"16h" : 4
 ```
 
 
-> **Last Updated:** 11/17/2025, 3:29:08 PM
+> **Last Updated:** 11/17/2025, 4:14:08 PM
