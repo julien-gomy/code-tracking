@@ -2320,9 +2320,9 @@
       "averageChangeSize": 989.5
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 11241,
+      "totalLinesAdded": 16894,
       "totalLinesRemoved": 20,
-      "totalActiveTime": 45,
+      "totalActiveTime": 52,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\js\\tags.json": [
           {
@@ -2839,6 +2839,52 @@
               "removed": []
             },
             "duration": 1,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\suppliers\\supplier_form.asp": [
+          {
+            "timestamp": "2025-11-17T22:51:43.090Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\suppliers\\supplier_form.asp",
+            "fileType": ".asp",
+            "linesAdded": 3942,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\clients\\client_form.asp": [
+          {
+            "timestamp": "2025-11-17T22:52:51.244Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\clients\\client_form.asp",
+            "fileType": ".asp",
+            "linesAdded": 1588,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-17T22:54:10.373Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\clients\\client_form.asp",
+            "fileType": ".asp",
+            "linesAdded": 123,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "asp"
           }
         ]
