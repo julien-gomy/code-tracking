@@ -2,7 +2,7 @@
   "date": "2025-11-17",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 2213,
+      "totalLinesAdded": 2337,
       "totalLinesRemoved": 14,
       "totalActiveTime": 39,
       "files": {
@@ -424,6 +424,22 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\place\\HeroSection.tsx",
             "fileType": ".tsx",
             "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\PhotoGalleryBase.tsx": [
+          {
+            "timestamp": "2025-11-17T10:30:10.728Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\PhotoGalleryBase.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 124,
             "linesRemoved": 0,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
