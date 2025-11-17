@@ -33,6 +33,70 @@
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\package.json"
       ],
       "averageChangeSize": 114
+    },
+    "eventscop-api-guide (Workspace)": {
+      "totalLinesAdded": 707,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\schemas_base.py": [
+          {
+            "timestamp": "2025-11-17T09:15:58.415Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\schemas_base.py",
+            "fileType": ".py",
+            "linesAdded": 120,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-17T09:16:02.849Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\schemas_base.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\search\\routes.py": [
+          {
+            "timestamp": "2025-11-17T09:16:02.841Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\search\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 586,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "10": 2
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\schemas_base.py",
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\search\\routes.py"
+      ],
+      "averageChangeSize": 235.66666666666666
     }
   },
   "totalActiveTime": 0,
