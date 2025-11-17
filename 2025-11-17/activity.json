@@ -2,9 +2,9 @@
   "date": "2025-11-17",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 5209,
-      "totalLinesRemoved": 437,
-      "totalActiveTime": 201,
+      "totalLinesAdded": 5511,
+      "totalLinesRemoved": 438,
+      "totalActiveTime": 205,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\package.json": [
           {
@@ -1856,6 +1856,64 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-11-17T18:10:34.785Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\test\\content-tests.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-17T18:11:15.307Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\test\\content-tests.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-11-17T18:12:31.795Z",
+            "fileName": "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 300,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-17T18:12:31.864Z",
+            "fileName": "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
