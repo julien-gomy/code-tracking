@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2168                                          |
+| **Lines Added** (➕)   | 2213                                          |
 | **Lines Removed** (➖) | 14                                        |
-| **Net Change** (↕)    | 2154                |
+| **Net Change** (↕)    | 2199                |
 | **Active Time** (⌚)   | 39 minutes |
 
 
@@ -21,6 +21,7 @@
 - **biome.json** (+125, -1)
 - **page.tsx** (+170, -6)
 - **page.tsx** (+183, -4)
+- **HeroSection.tsx** (+45, -0)
 
 ## Visualizations
 
@@ -30,7 +31,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 240
-".tsx" : 1501
+".tsx" : 1546
 ".ts" : 441
 ```
 
@@ -41,8 +42,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 1
 "10h" : 25
-"11h" : 2
+"11h" : 3
 ```
 
 
-> **Last Updated:** 11/17/2025, 11:19:07 AM
+> **Last Updated:** 11/17/2025, 11:24:07 AM
