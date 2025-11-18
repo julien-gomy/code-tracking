@@ -701,7 +701,7 @@
       "averageChangeSize": 335
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 10146,
+      "totalLinesAdded": 10232,
       "totalLinesRemoved": 776,
       "totalActiveTime": 315,
       "files": {
@@ -4275,6 +4275,22 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\StepParticipants.tsx": [
+          {
+            "timestamp": "2025-11-18T21:55:04.518Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\StepParticipants.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
