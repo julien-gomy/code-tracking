@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10288                                          |
-| **Lines Removed** (➖) | 796                                        |
-| **Net Change** (↕)    | 9492                |
-| **Active Time** (⌚)   | 318 minutes |
+| **Lines Added** (➕)   | 10628                                          |
+| **Lines Removed** (➖) | 823                                        |
+| **Net Change** (↕)    | 9805                |
+| **Active Time** (⌚)   | 328 minutes |
 
 
 ## Modified Files
@@ -56,20 +56,22 @@
 - **instrumentation-client.ts** (+22, -4)
 - **locations.ts** (+5, -4)
 - **footer.ts** (+125, -4)
-- **fr.json** (+1845, -59)
+- **fr.json** (+1877, -59)
 - **de.json** (+1772, -27)
 - **OrganizeSection.tsx** (+63, -1)
 - **ExpertCard.tsx** (+279, -145)
 - **globals.css** (+255, -1)
 - **layout.tsx** (+179, -0)
 - **common.ts** (+291, -8)
-- **participantsSchema.ts** (+23, -5)
+- **participantsSchema.ts** (+24, -6)
 - **meetingHallSchema.ts** (+57, -0)
 - **BudgetSchema.ts** (+14, -0)
 - **accommodationSchema.ts** (+37, -0)
 - **package.json** (+3, -2)
-- **StepParticipants.tsx** (+93, -20)
+- **StepParticipants.tsx** (+93, -22)
 - **NumberInputField.tsx** (+49, -0)
+- **NumericInput.tsx** (+84, -23)
+- **ui-components.ts** (+223, -1)
 
 ## Visualizations
 
@@ -78,11 +80,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5951
-".ts" : 1096
+".tsx" : 6060
+".ts" : 1322
 ".yml" : 19
 ".local" : 54
-".json" : 3708
+".json" : 3740
 ".css" : 256
 ```
 
@@ -103,8 +105,8 @@ title Coding activity by hour (count of changes)
 "17h" : 19
 "19h" : 2
 "22h" : 9
-"23h" : 4
+"23h" : 15
 ```
 
 
-> **Last Updated:** 11/18/2025, 11:19:16 PM
+> **Last Updated:** 11/18/2025, 11:29:16 PM
