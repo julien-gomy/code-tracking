@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9540                                          |
-| **Lines Removed** (➖) | 726                                        |
-| **Net Change** (↕)    | 8814                |
-| **Active Time** (⌚)   | 296 minutes |
+| **Lines Added** (➕)   | 10010                                          |
+| **Lines Removed** (➖) | 761                                        |
+| **Net Change** (↕)    | 9249                |
+| **Active Time** (⌚)   | 307 minutes |
 
 
 ## Modified Files
@@ -59,8 +59,10 @@
 - **fr.json** (+1845, -59)
 - **de.json** (+1772, -27)
 - **OrganizeSection.tsx** (+61, -1)
-- **ExpertCard.tsx** (+279, -110)
+- **ExpertCard.tsx** (+279, -145)
 - **globals.css** (+255, -1)
+- **layout.tsx** (+179, -0)
+- **common.ts** (+291, -0)
 
 ## Visualizations
 
@@ -69,8 +71,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5573
-".ts" : 661
+".tsx" : 5787
+".ts" : 952
 ".yml" : 19
 ".local" : 54
 ".json" : 3703
@@ -91,8 +93,8 @@ title Coding activity by hour (count of changes)
 "14h" : 16
 "15h" : 4
 "16h" : 20
-"17h" : 13
+"17h" : 19
 ```
 
 
-> **Last Updated:** 11/18/2025, 5:54:15 PM
+> **Last Updated:** 11/18/2025, 5:59:15 PM
