@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3952                                          |
-| **Lines Removed** (➖) | 307                                        |
-| **Net Change** (↕)    | 3645                |
-| **Active Time** (⌚)   | 203 minutes |
+| **Lines Added** (➕)   | 4441                                          |
+| **Lines Removed** (➖) | 311                                        |
+| **Net Change** (↕)    | 4130                |
+| **Active Time** (⌚)   | 216 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **page.tsx** (+382, -0)
 - **page.tsx** (+297, -0)
 - **page.tsx** (+831, -0)
-- **captcha.tsx** (+128, -2)
+- **captcha.tsx** (+128, -3)
 - **ActivitySuggestionsSkeleton.tsx** (+30, -0)
 - **ActivityReviewsSkeleton.tsx** (+45, -0)
 - **ActivityPresentationSection.tsx** (+32, -0)
@@ -43,6 +43,9 @@
 - **carbon-footprint-calculator.tsx** (+216, -4)
 - **CompareDrawer.tsx** (+109, -0)
 - **StickyNavClientBase.tsx** (+64, -1)
+- **MapMarker.tsx** (+78, -1)
+- **LocationTabsContent.tsx** (+321, -1)
+- **useDateChangeReset.ts** (+90, -1)
 
 ## Visualizations
 
@@ -51,8 +54,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4198
-".ts" : 61
+".tsx" : 4600
+".ts" : 152
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -63,8 +66,8 @@ title Coding activity by hour (count of changes)
 "00h" : 9
 "01h" : 46
 "02h" : 79
-"03h" : 11
+"03h" : 19
 ```
 
 
-> **Last Updated:** 11/18/2025, 3:14:09 AM
+> **Last Updated:** 11/18/2025, 3:19:09 AM
