@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7036                                          |
-| **Lines Removed** (➖) | 385                                        |
-| **Net Change** (↕)    | 6651                |
-| **Active Time** (⌚)   | 271 minutes |
+| **Lines Added** (➕)   | 8945                                          |
+| **Lines Removed** (➖) | 614                                        |
+| **Net Change** (↕)    | 8331                |
+| **Active Time** (⌚)   | 282 minutes |
 
 
 ## Modified Files
-- **page.tsx** (+199, -247)
+- **page.tsx** (+259, -259)
 - **DepartmentList.tsx** (+44, -10)
-- **PhotoGalleryBase.tsx** (+4, -0)
+- **PhotoGalleryBase.tsx** (+4, -4)
 - **page.tsx** (+142, -0)
 - **CategoryList.tsx** (+43, -0)
 - **page.tsx** (+0, -11)
@@ -22,8 +22,8 @@
 - **page.tsx** (+233, -0)
 - **page.tsx** (+382, -0)
 - **page.tsx** (+297, -0)
-- **page.tsx** (+848, -0)
-- **captcha.tsx** (+129, -3)
+- **page.tsx** (+848, -63)
+- **captcha.tsx** (+129, -6)
 - **ActivitySuggestionsSkeleton.tsx** (+30, -0)
 - **ActivityReviewsSkeleton.tsx** (+45, -0)
 - **ActivityPresentationSection.tsx** (+32, -0)
@@ -40,7 +40,7 @@
 - **ImageWithOverlay.tsx** (+60, -0)
 - **Card.tsx** (+26, -0)
 - **ReviewRatingsFields.tsx** (+94, -0)
-- **carbon-footprint-calculator.tsx** (+216, -4)
+- **carbon-footprint-calculator.tsx** (+217, -4)
 - **CompareDrawer.tsx** (+109, -0)
 - **StickyNavClientBase.tsx** (+65, -1)
 - **MapMarker.tsx** (+79, -1)
@@ -49,14 +49,15 @@
 - **CapacitySection.tsx** (+32, -0)
 - **lefthook.yml** (+10, -9)
 - **field.tsx** (+233, -0)
-- **next.config.ts** (+175, -7)
-- **instrumentation.ts** (+35, -0)
-- **posthog-server.ts** (+28, -2)
+- **next.config.ts** (+222, -54)
+- **instrumentation.ts** (+35, -1)
+- **posthog-server.ts** (+28, -5)
 - **.env.local** (+53, -1)
-- **instrumentation-client.ts** (+22, -2)
-- **locations.ts** (+5, -0)
-- **footer.ts** (+125, -0)
-- **fr.json** (+1816, -0)
+- **instrumentation-client.ts** (+22, -4)
+- **locations.ts** (+5, -4)
+- **footer.ts** (+125, -4)
+- **fr.json** (+1845, -59)
+- **de.json** (+1772, -27)
 
 ## Visualizations
 
@@ -65,11 +66,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4979
-".ts" : 553
+".tsx" : 5122
+".ts" : 661
 ".yml" : 19
 ".local" : 54
-".json" : 1816
+".json" : 3703
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -85,7 +86,8 @@ title Coding activity by hour (count of changes)
 "13h" : 11
 "14h" : 16
 "15h" : 4
+"16h" : 20
 ```
 
 
-> **Last Updated:** 11/18/2025, 3:29:15 PM
+> **Last Updated:** 11/18/2025, 4:24:15 PM
