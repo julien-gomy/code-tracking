@@ -4140,7 +4140,7 @@
       "averageChangeSize": 12
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 144,
+      "totalLinesAdded": 148,
       "totalLinesRemoved": 2,
       "totalActiveTime": 10,
       "files": {
@@ -4231,6 +4231,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-18T17:03:30.167Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\b19d3f7a0ed3_add_trad_venue_finder_laura.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
