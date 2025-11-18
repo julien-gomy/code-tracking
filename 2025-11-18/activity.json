@@ -559,7 +559,7 @@
       "averageChangeSize": 335
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 5012,
+      "totalLinesAdded": 5030,
       "totalLinesRemoved": 329,
       "totalActiveTime": 241,
       "files": {
@@ -3067,6 +3067,22 @@
             },
             "duration": 1,
             "language": "local"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\instrumentation-client.ts": [
+          {
+            "timestamp": "2025-11-18T12:32:46.514Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\instrumentation-client.ts",
+            "fileType": ".ts",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
