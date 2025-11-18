@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3177                                          |
-| **Lines Removed** (➖) | 262                                        |
-| **Net Change** (↕)    | 2915                |
-| **Active Time** (⌚)   | 162 minutes |
+| **Lines Added** (➕)   | 3304                                          |
+| **Lines Removed** (➖) | 298                                        |
+| **Net Change** (↕)    | 3006                |
+| **Active Time** (⌚)   | 170 minutes |
 
 
 ## Modified Files
@@ -34,7 +34,8 @@
 - **GeneralEntityTextBlock.tsx** (+49, -0)
 - **CardCartButton.tsx** (+47, -11)
 - **ActivityCard.tsx** (+148, -0)
-- **PlaceCardCartButton.tsx** (+98, -33)
+- **PlaceCardCartButton.tsx** (+110, -68)
+- **ResultsPagination.tsx** (+115, -1)
 
 ## Visualizations
 
@@ -43,7 +44,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3378
+".tsx" : 3541
 ".ts" : 61
 ```
 
@@ -54,8 +55,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 9
 "01h" : 46
-"02h" : 64
+"02h" : 70
 ```
 
 
-> **Last Updated:** 11/18/2025, 2:44:09 AM
+> **Last Updated:** 11/18/2025, 2:49:09 AM
