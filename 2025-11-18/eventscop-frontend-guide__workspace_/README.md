@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4721                                          |
-| **Lines Removed** (➖) | 320                                        |
-| **Net Change** (↕)    | 4401                |
-| **Active Time** (⌚)   | 226 minutes |
+| **Lines Added** (➕)   | 4953                                          |
+| **Lines Removed** (➖) | 327                                        |
+| **Net Change** (↕)    | 4626                |
+| **Active Time** (⌚)   | 230 minutes |
 
 
 ## Modified Files
@@ -49,6 +49,9 @@
 - **CapacitySection.tsx** (+32, -0)
 - **lefthook.yml** (+10, -9)
 - **field.tsx** (+233, -0)
+- **next.config.ts** (+175, -7)
+- **instrumentation.ts** (+34, -0)
+- **posthog-server.ts** (+23, -0)
 
 ## Visualizations
 
@@ -58,7 +61,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 4870
-".ts" : 152
+".ts" : 391
 ".yml" : 19
 ```
 
@@ -71,7 +74,8 @@ title Coding activity by hour (count of changes)
 "01h" : 46
 "02h" : 79
 "03h" : 29
+"12h" : 4
 ```
 
 
-> **Last Updated:** 11/18/2025, 3:54:09 AM
+> **Last Updated:** 11/18/2025, 12:54:15 PM
