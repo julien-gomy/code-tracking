@@ -313,9 +313,9 @@
       "averageChangeSize": 335
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3132,
-      "totalLinesRemoved": 251,
-      "totalActiveTime": 156,
+      "totalLinesAdded": 3177,
+      "totalLinesRemoved": 262,
+      "totalActiveTime": 162,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\[category_slug]\\[[...url_path]]\\page.tsx": [
           {
@@ -1986,6 +1986,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-18T01:40:03.860Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\place-card\\PlaceCardCartButton.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-18T01:40:22.402Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\place-card\\PlaceCardCartButton.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-18T01:43:20.509Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\place-card\\PlaceCardCartButton.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]
