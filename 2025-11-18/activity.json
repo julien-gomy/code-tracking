@@ -313,7 +313,7 @@
       "averageChangeSize": 335
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 4488,
+      "totalLinesAdded": 4721,
       "totalLinesRemoved": 320,
       "totalActiveTime": 226,
       "files": {
@@ -2657,6 +2657,22 @@
             },
             "duration": 1,
             "language": "yml"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\components\\ui\\field.tsx": [
+          {
+            "timestamp": "2025-11-18T02:51:32.244Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\components\\ui\\field.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 233,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
