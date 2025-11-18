@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 87                                          |
+| **Lines Added** (➕)   | 120                                          |
 | **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 85                |
+| **Net Change** (↕)    | 118                |
 | **Active Time** (⌚)   | 6 minutes |
 
 
 ## Modified Files
 - **dbf1307c270f_add_trad_seminar_location.py** (+60, -0)
 - **routes.py** (+27, -2)
+- **b19d3f7a0ed3_add_trad_venue_finder_laura.py** (+33, -0)
 
 ## Visualizations
 
@@ -21,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 89
+".py" : 122
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,7 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "15h" : 4
+"17h" : 1
 ```
 
 
-> **Last Updated:** 11/18/2025, 3:45:53 PM
+> **Last Updated:** 11/18/2025, 5:40:53 PM
