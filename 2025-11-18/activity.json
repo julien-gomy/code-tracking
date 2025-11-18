@@ -3580,6 +3580,39 @@
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\[category_slug]\\[[...url_path]]\\page.tsx"
       ],
       "averageChangeSize": 12
+    },
+    "eventscop-api-guide (Workspace)": {
+      "totalLinesAdded": 39,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\dbf1307c270f_add_trad_seminar_location.py": [
+          {
+            "timestamp": "2025-11-18T14:31:24.455Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\dbf1307c270f_add_trad_seminar_location.py",
+            "fileType": ".py",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\dbf1307c270f_add_trad_seminar_location.py"
+      ],
+      "averageChangeSize": 39
     }
   },
   "totalActiveTime": 12,
