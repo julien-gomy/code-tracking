@@ -559,9 +559,9 @@
       "averageChangeSize": 335
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 5030,
-      "totalLinesRemoved": 329,
-      "totalActiveTime": 241,
+      "totalLinesAdded": 5035,
+      "totalLinesRemoved": 331,
+      "totalActiveTime": 247,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\[category_slug]\\[[...url_path]]\\page.tsx": [
           {
@@ -3067,6 +3067,20 @@
             },
             "duration": 1,
             "language": "local"
+          },
+          {
+            "timestamp": "2025-11-18T12:35:59.691Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "local"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\instrumentation-client.ts": [
@@ -3082,6 +3096,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-18T12:34:22.868Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\instrumentation-client.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-18T12:34:38.027Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\instrumentation-client.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-18T12:36:02.121Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\instrumentation-client.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
