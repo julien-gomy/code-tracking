@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14620                                          |
+| **Lines Added** (➕)   | 19490                                          |
 | **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 14615                |
-| **Active Time** (⌚)   | 55 minutes |
+| **Net Change** (↕)    | 19485                |
+| **Active Time** (⌚)   | 59 minutes |
 
 
 ## Modified Files
@@ -24,6 +24,10 @@
 - **detail-facture.asp** (+1145, -0)
 - **devis_pdf.asp** (+1359, -0)
 - **facture_acompte.asp** (+1437, -0)
+- **facture_client_brouillon_pdf.asp** (+1469, -0)
+- **facture_client_pdf.asp** (+1473, -0)
+- **facture_commission.asp** (+748, -0)
+- **facture_presta_pdf.asp** (+1180, -0)
 
 ## Visualizations
 
@@ -32,7 +36,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".asp" : 14625
+".asp" : 19495
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,9 +49,9 @@ title Coding activity by hour (count of changes)
 "04h" : 1
 "09h" : 8
 "12h" : 6
-"14h" : 3
+"14h" : 7
 "23h" : 8
 ```
 
 
-> **Last Updated:** 11/18/2025, 2:35:20 PM
+> **Last Updated:** 11/18/2025, 2:40:20 PM
