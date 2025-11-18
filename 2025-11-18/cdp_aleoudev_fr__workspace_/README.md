@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10679                                          |
+| **Lines Added** (➕)   | 14620                                          |
 | **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 10674                |
-| **Active Time** (⌚)   | 53 minutes |
+| **Net Change** (↕)    | 14615                |
+| **Active Time** (⌚)   | 55 minutes |
 
 
 ## Modified Files
@@ -21,6 +21,9 @@
 - **demande_form.asp** (+1190, -1)
 - **demande_step_5_tab_presta.asp** (+1711, -0)
 - **demande_step_5.asp** (+3412, -0)
+- **detail-facture.asp** (+1145, -0)
+- **devis_pdf.asp** (+1359, -0)
+- **facture_acompte.asp** (+1437, -0)
 
 ## Visualizations
 
@@ -29,7 +32,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".asp" : 10684
+".asp" : 14625
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +45,9 @@ title Coding activity by hour (count of changes)
 "04h" : 1
 "09h" : 8
 "12h" : 6
+"14h" : 3
 "23h" : 8
 ```
 
 
-> **Last Updated:** 11/18/2025, 12:20:20 PM
+> **Last Updated:** 11/18/2025, 2:35:20 PM
