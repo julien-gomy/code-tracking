@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4441                                          |
+| **Lines Added** (➕)   | 4478                                          |
 | **Lines Removed** (➖) | 311                                        |
-| **Net Change** (↕)    | 4130                |
-| **Active Time** (⌚)   | 216 minutes |
+| **Net Change** (↕)    | 4167                |
+| **Active Time** (⌚)   | 224 minutes |
 
 
 ## Modified Files
@@ -32,7 +32,7 @@
 - **SuggestionCarousel.tsx** (+57, -0)
 - **ImageWithOverlay.tsx** (+63, -2)
 - **GeneralEntityTextBlock.tsx** (+49, -0)
-- **CardCartButton.tsx** (+53, -11)
+- **CardCartButton.tsx** (+54, -11)
 - **ActivityCard.tsx** (+148, -0)
 - **PlaceCardCartButton.tsx** (+110, -68)
 - **ResultsPagination.tsx** (+115, -3)
@@ -42,10 +42,11 @@
 - **ReviewRatingsFields.tsx** (+94, -0)
 - **carbon-footprint-calculator.tsx** (+216, -4)
 - **CompareDrawer.tsx** (+109, -0)
-- **StickyNavClientBase.tsx** (+64, -1)
-- **MapMarker.tsx** (+78, -1)
-- **LocationTabsContent.tsx** (+321, -1)
+- **StickyNavClientBase.tsx** (+65, -1)
+- **MapMarker.tsx** (+79, -1)
+- **LocationTabsContent.tsx** (+323, -1)
 - **useDateChangeReset.ts** (+90, -1)
+- **CapacitySection.tsx** (+32, -0)
 
 ## Visualizations
 
@@ -54,7 +55,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4600
+".tsx" : 4637
 ".ts" : 152
 ```
 
@@ -66,8 +67,8 @@ title Coding activity by hour (count of changes)
 "00h" : 9
 "01h" : 46
 "02h" : 79
-"03h" : 19
+"03h" : 25
 ```
 
 
-> **Last Updated:** 11/18/2025, 3:19:09 AM
+> **Last Updated:** 11/18/2025, 3:24:09 AM
