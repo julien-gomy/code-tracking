@@ -701,8 +701,8 @@
       "averageChangeSize": 335
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 10010,
-      "totalLinesRemoved": 761,
+      "totalLinesAdded": 10012,
+      "totalLinesRemoved": 769,
       "totalActiveTime": 307,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\[category_slug]\\[[...url_path]]\\page.tsx": [
@@ -3879,6 +3879,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-18T18:10:27.751Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\venue-finder-corporate\\OrganizeSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\ExpertCard.tsx": [
@@ -4124,6 +4138,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-18T18:10:27.787Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\common.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
