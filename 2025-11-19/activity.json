@@ -170,6 +170,53 @@
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\71cc700a5867_add_trad.py"
       ],
       "averageChangeSize": 96.33333333333333
+    },
+    "cdp.aleoudev.fr (Workspace)": {
+      "totalLinesAdded": 364,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\Julien\\Desktop\\Type_de_lieu.txt": [
+          {
+            "timestamp": "2025-11-18T23:41:32.588Z",
+            "fileName": "c:\\Users\\Julien\\Desktop\\Type_de_lieu.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-11-18T23:41:32.705Z",
+            "fileName": "c:\\Users\\Julien\\Desktop\\Type_de_lieu.txt",
+            "fileType": ".txt",
+            "linesAdded": 363,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 0
+      },
+      "changeFrequency": {
+        "0": 0
+      },
+      "topFiles": [
+        "c:\\Users\\Julien\\Desktop\\Type_de_lieu.txt"
+      ],
+      "averageChangeSize": 182
     }
   },
   "totalActiveTime": 0,
