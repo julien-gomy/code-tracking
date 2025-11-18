@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 10288                                          |
-| **Lines Removed** (➖) | 783                                        |
-| **Net Change** (↕)    | 9505                |
-| **Active Time** (⌚)   | 316 minutes |
+| **Lines Removed** (➖) | 796                                        |
+| **Net Change** (↕)    | 9492                |
+| **Active Time** (⌚)   | 318 minutes |
 
 
 ## Modified Files
@@ -68,7 +68,7 @@
 - **BudgetSchema.ts** (+14, -0)
 - **accommodationSchema.ts** (+37, -0)
 - **package.json** (+3, -2)
-- **StepParticipants.tsx** (+93, -7)
+- **StepParticipants.tsx** (+93, -20)
 - **NumberInputField.tsx** (+49, -0)
 
 ## Visualizations
@@ -78,7 +78,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5938
+".tsx" : 5951
 ".ts" : 1096
 ".yml" : 19
 ".local" : 54
@@ -103,8 +103,8 @@ title Coding activity by hour (count of changes)
 "17h" : 19
 "19h" : 2
 "22h" : 9
-"23h" : 3
+"23h" : 4
 ```
 
 
-> **Last Updated:** 11/18/2025, 11:14:16 PM
+> **Last Updated:** 11/18/2025, 11:19:16 PM
