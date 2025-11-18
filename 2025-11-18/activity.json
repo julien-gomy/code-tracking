@@ -4550,9 +4550,9 @@
       "averageChangeSize": 12
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 148,
+      "totalLinesAdded": 568,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 10,
+      "totalActiveTime": 12,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\dbf1307c270f_add_trad_seminar_location.py": [
           {
@@ -4655,6 +4655,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\i18n_utils.py": [
+          {
+            "timestamp": "2025-11-18T22:43:06.549Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\i18n_utils.py",
+            "fileType": ".py",
+            "linesAdded": 400,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-18T22:43:14.469Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\i18n_utils.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-18T22:44:00.892Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\i18n_utils.py",
+            "fileType": ".py",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
