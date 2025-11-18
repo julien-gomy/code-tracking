@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3557                                          |
-| **Lines Removed** (➖) | 300                                        |
-| **Net Change** (↕)    | 3257                |
-| **Active Time** (⌚)   | 185 minutes |
+| **Lines Added** (➕)   | 3774                                          |
+| **Lines Removed** (➖) | 301                                        |
+| **Net Change** (↕)    | 3473                |
+| **Active Time** (⌚)   | 190 minutes |
 
 
 ## Modified Files
@@ -39,7 +39,8 @@
 - **PlaceCardImage.tsx** (+68, -0)
 - **ImageWithOverlay.tsx** (+60, -0)
 - **Card.tsx** (+26, -0)
-- **ReviewRatingsFields.tsx** (+93, -0)
+- **ReviewRatingsFields.tsx** (+94, -0)
+- **carbon-footprint-calculator.tsx** (+216, -1)
 
 ## Visualizations
 
@@ -48,7 +49,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3796
+".tsx" : 4014
 ".ts" : 61
 ```
 
@@ -59,8 +60,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 9
 "01h" : 46
-"02h" : 78
+"02h" : 79
+"03h" : 3
 ```
 
 
-> **Last Updated:** 11/18/2025, 2:59:09 AM
+> **Last Updated:** 11/18/2025, 3:04:09 AM
