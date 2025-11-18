@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4478                                          |
-| **Lines Removed** (➖) | 311                                        |
-| **Net Change** (↕)    | 4167                |
-| **Active Time** (⌚)   | 224 minutes |
+| **Lines Added** (➕)   | 4488                                          |
+| **Lines Removed** (➖) | 320                                        |
+| **Net Change** (↕)    | 4168                |
+| **Active Time** (⌚)   | 226 minutes |
 
 
 ## Modified Files
@@ -47,6 +47,7 @@
 - **LocationTabsContent.tsx** (+323, -1)
 - **useDateChangeReset.ts** (+90, -1)
 - **CapacitySection.tsx** (+32, -0)
+- **lefthook.yml** (+10, -9)
 
 ## Visualizations
 
@@ -57,6 +58,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 4637
 ".ts" : 152
+".yml" : 19
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -67,8 +69,8 @@ title Coding activity by hour (count of changes)
 "00h" : 9
 "01h" : 46
 "02h" : 79
-"03h" : 25
+"03h" : 28
 ```
 
 
-> **Last Updated:** 11/18/2025, 3:24:09 AM
+> **Last Updated:** 11/18/2025, 3:39:09 AM
