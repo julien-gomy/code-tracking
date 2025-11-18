@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10030                                          |
-| **Lines Removed** (➖) | 769                                        |
-| **Net Change** (↕)    | 9261                |
-| **Active Time** (⌚)   | 307 minutes |
+| **Lines Added** (➕)   | 10141                                          |
+| **Lines Removed** (➖) | 771                                        |
+| **Net Change** (↕)    | 9370                |
+| **Active Time** (⌚)   | 315 minutes |
 
 
 ## Modified Files
@@ -64,6 +64,10 @@
 - **layout.tsx** (+179, -0)
 - **common.ts** (+291, -8)
 - **participantsSchema.ts** (+18, -0)
+- **meetingHallSchema.ts** (+57, -0)
+- **BudgetSchema.ts** (+14, -0)
+- **accommodationSchema.ts** (+37, -0)
+- **package.json** (+3, -2)
 
 ## Visualizations
 
@@ -73,10 +77,10 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 5789
-".ts" : 978
+".ts" : 1086
 ".yml" : 19
 ".local" : 54
-".json" : 3703
+".json" : 3708
 ".css" : 256
 ```
 
@@ -96,8 +100,8 @@ title Coding activity by hour (count of changes)
 "16h" : 20
 "17h" : 19
 "19h" : 2
-"22h" : 1
+"22h" : 6
 ```
 
 
-> **Last Updated:** 11/18/2025, 10:19:16 PM
+> **Last Updated:** 11/18/2025, 10:24:16 PM
