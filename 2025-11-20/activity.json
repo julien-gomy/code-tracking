@@ -1,0 +1,80 @@
+{
+  "date": "2025-11-20",
+  "projects": {
+    "eventscop-frontend-guide (Workspace)": {
+      "totalLinesAdded": 175,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local": [
+          {
+            "timestamp": "2025-11-19T23:03:17.550Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-11-19T23:07:04.237Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "local"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\layout.tsx": [
+          {
+            "timestamp": "2025-11-19T23:07:14.139Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 172,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "local": 4,
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "0": 5
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local",
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\layout.tsx"
+      ],
+      "averageChangeSize": 58.333333333333336
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "local",
+    "tsx"
+  ]
+}
