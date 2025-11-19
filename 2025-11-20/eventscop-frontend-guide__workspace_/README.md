@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 412                                          |
-| **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 409                |
-| **Active Time** (⌚)   | 28 minutes |
+| **Lines Added** (➕)   | 534                                          |
+| **Lines Removed** (➖) | 30                                        |
+| **Net Change** (↕)    | 504                |
+| **Active Time** (⌚)   | 34 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,8 @@
 - **google.ts** (+48, -0)
 - **actions.ts** (+40, -0)
 - **LazyAnalytics.tsx** (+61, -1)
+- **useAnalytics.ts** (+62, -12)
+- **DelayedAnalytics.tsx** (+60, -15)
 
 ## Visualizations
 
@@ -26,8 +28,8 @@
 pie showData
 title Lines changed by file type
 ".local" : 3
-".tsx" : 241
-".ts" : 171
+".tsx" : 316
+".ts" : 245
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +37,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 17
+"00h" : 22
 ```
 
 
-> **Last Updated:** 11/20/2025, 12:37:18 AM
+> **Last Updated:** 11/20/2025, 12:47:18 AM
