@@ -2324,7 +2324,7 @@
       "averageChangeSize": 96.33333333333333
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 364,
+      "totalLinesAdded": 554,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -2348,6 +2348,22 @@
             "fileName": "c:\\Users\\Julien\\Desktop\\Type_de_lieu.txt",
             "fileType": ".txt",
             "linesAdded": 363,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\checkiphack.txt": [
+          {
+            "timestamp": "2025-11-19T19:00:03.703Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\checkiphack.txt",
+            "fileType": ".txt",
+            "linesAdded": 190,
             "linesRemoved": 0,
             "projectName": "cdp.aleoudev.fr (Workspace)",
             "content": {
