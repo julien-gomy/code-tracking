@@ -2463,9 +2463,9 @@
       "averageChangeSize": 182
     },
     "EventScop (Workspace)": {
-      "totalLinesAdded": 3226,
+      "totalLinesAdded": 3234,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 19,
+      "totalActiveTime": 20,
       "files": {
         "c:\\Mes Projets\\EventScop\\EventScop.code-workspace": [
           {
@@ -2530,6 +2530,34 @@
           },
           {
             "timestamp": "2025-11-19T20:02:26.753Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\ui\\html-editor.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-19T22:04:48.278Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\ui\\html-editor.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-19T22:05:17.443Z",
             "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\ui\\html-editor.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
