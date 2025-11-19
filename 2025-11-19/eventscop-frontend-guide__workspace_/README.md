@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2490                                          |
-| **Lines Removed** (➖) | 131                                        |
-| **Net Change** (↕)    | 2359                |
-| **Active Time** (⌚)   | 38 minutes |
+| **Lines Added** (➕)   | 2583                                          |
+| **Lines Removed** (➖) | 141                                        |
+| **Net Change** (↕)    | 2442                |
+| **Active Time** (⌚)   | 49 minutes |
 
 
 ## Modified Files
@@ -23,9 +23,12 @@
 - **ExpertCard.tsx** (+9, -37)
 - **layout.tsx** (+0, -9)
 - **supplier.ts** (+515, -0)
-- **ProviderQuoteSidebar.tsx** (+41, -0)
-- **SidebarWrapper.tsx** (+26, -0)
-- **PlaceQuoteSidebar.tsx** (+65, -0)
+- **ProviderQuoteSidebar.tsx** (+41, -2)
+- **SidebarWrapper.tsx** (+26, -6)
+- **PlaceQuoteSidebar.tsx** (+65, -2)
+- **QuoteDrawer.tsx** (+58, -0)
+- **ActivityQuoteSidebar.tsx** (+31, -0)
+- **page.tsx** (+4, -0)
 
 ## Visualizations
 
@@ -35,7 +38,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 1808
-".tsx" : 246
+".tsx" : 349
 ".ts" : 567
 ```
 
@@ -47,8 +50,8 @@ title Coding activity by hour (count of changes)
 "00h" : 5
 "09h" : 19
 "10h" : 3
-"11h" : 14
+"11h" : 24
 ```
 
 
-> **Last Updated:** 11/19/2025, 11:29:19 AM
+> **Last Updated:** 11/19/2025, 11:34:19 AM
