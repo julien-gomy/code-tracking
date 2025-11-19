@@ -1675,9 +1675,9 @@
       "averageChangeSize": 1771
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 2633,
+      "totalLinesAdded": 3023,
       "totalLinesRemoved": 267,
-      "totalActiveTime": 39,
+      "totalActiveTime": 41,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\71cc700a5867_add_trad.py": [
           {
@@ -2078,6 +2078,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\utils\\geo.py": [
+          {
+            "timestamp": "2025-11-19T17:24:16.703Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\utils\\geo.py",
+            "fileType": ".py",
+            "linesAdded": 390,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
