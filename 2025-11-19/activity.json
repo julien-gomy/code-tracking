@@ -2417,9 +2417,9 @@
       "averageChangeSize": 182
     },
     "EventScop (Workspace)": {
-      "totalLinesAdded": 35,
+      "totalLinesAdded": 866,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 3,
       "files": {
         "c:\\Mes Projets\\EventScop\\EventScop.code-workspace": [
           {
@@ -2435,6 +2435,66 @@
             },
             "duration": 0,
             "language": "code-workspace"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\editor\\editor.css": [
+          {
+            "timestamp": "2025-11-19T20:02:08.871Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\editor\\editor.css",
+            "fileType": ".css",
+            "linesAdded": 105,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-11-19T20:02:10.231Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\editor\\editor.css",
+            "fileType": ".css",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\ui\\html-editor.tsx": [
+          {
+            "timestamp": "2025-11-19T20:02:25.354Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\ui\\html-editor.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 670,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-19T20:02:26.753Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\ui\\html-editor.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
