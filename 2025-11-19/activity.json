@@ -1335,7 +1335,7 @@
       "averageChangeSize": 1771
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 729,
+      "totalLinesAdded": 837,
       "totalLinesRemoved": 0,
       "totalActiveTime": 7,
       "files": {
@@ -1454,6 +1454,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-19T12:20:36.694Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\1be3934126ca_add_trad.py",
+            "fileType": ".py",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
