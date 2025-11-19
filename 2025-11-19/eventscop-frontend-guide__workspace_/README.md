@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2585                                          |
-| **Lines Removed** (➖) | 141                                        |
-| **Net Change** (↕)    | 2444                |
-| **Active Time** (⌚)   | 51 minutes |
+| **Lines Added** (➕)   | 2728                                          |
+| **Lines Removed** (➖) | 172                                        |
+| **Net Change** (↕)    | 2556                |
+| **Active Time** (⌚)   | 57 minutes |
 
 
 ## Modified Files
 - **en.json** (+1771, -18)
-- **NumericInput.tsx** (+0, -12)
+- **NumericInput.tsx** (+0, -16)
 - **participantsSchema.ts** (+2, -4)
 - **BriefBudgetField.tsx** (+35, -1)
 - **OrganizeSection.tsx** (+1, -2)
@@ -22,14 +22,16 @@
 - **fr.json** (+0, -19)
 - **ExpertCard.tsx** (+9, -37)
 - **layout.tsx** (+0, -9)
-- **supplier.ts** (+515, -0)
-- **ProviderQuoteSidebar.tsx** (+41, -2)
-- **SidebarWrapper.tsx** (+26, -6)
-- **PlaceQuoteSidebar.tsx** (+65, -2)
-- **QuoteDrawer.tsx** (+58, -0)
-- **ActivityQuoteSidebar.tsx** (+31, -0)
-- **page.tsx** (+4, -0)
+- **supplier.ts** (+515, -1)
+- **ProviderQuoteSidebar.tsx** (+41, -5)
+- **SidebarWrapper.tsx** (+26, -13)
+- **PlaceQuoteSidebar.tsx** (+65, -3)
+- **QuoteDrawer.tsx** (+58, -7)
+- **ActivityQuoteSidebar.tsx** (+31, -4)
+- **page.tsx** (+4, -4)
 - **COMMIT_EDITMSG** (+2, -0)
+- **cateringSchema.ts** (+78, -0)
+- **teamBuildingSchema.ts** (+65, -0)
 
 ## Visualizations
 
@@ -39,8 +41,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 1808
-".tsx" : 349
-".ts" : 567
+".tsx" : 379
+".ts" : 711
 "unknown" : 2
 ```
 
@@ -53,7 +55,8 @@ title Coding activity by hour (count of changes)
 "09h" : 19
 "10h" : 3
 "11h" : 25
+"12h" : 12
 ```
 
 
-> **Last Updated:** 11/19/2025, 11:39:19 AM
+> **Last Updated:** 11/19/2025, 12:09:19 PM
