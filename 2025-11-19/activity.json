@@ -2385,6 +2385,39 @@
         "c:\\Users\\Julien\\Desktop\\Type_de_lieu.txt"
       ],
       "averageChangeSize": 182
+    },
+    "EventScop (Workspace)": {
+      "totalLinesAdded": 35,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\EventScop.code-workspace": [
+          {
+            "timestamp": "2025-11-19T19:05:27.392Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\EventScop.code-workspace",
+            "fileType": ".code-workspace",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "code-workspace"
+          }
+        ]
+      },
+      "languageStats": {
+        "code-workspace": 0
+      },
+      "changeFrequency": {
+        "20": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\EventScop.code-workspace"
+      ],
+      "averageChangeSize": 35
     }
   },
   "totalActiveTime": 0,
