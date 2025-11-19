@@ -2463,9 +2463,9 @@
       "averageChangeSize": 182
     },
     "EventScop (Workspace)": {
-      "totalLinesAdded": 900,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 3226,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 19,
       "files": {
         "c:\\Mes Projets\\EventScop\\EventScop.code-workspace": [
           {
@@ -2571,6 +2571,242 @@
             },
             "duration": 1,
             "language": "local"
+          },
+          {
+            "timestamp": "2025-11-19T21:51:57.313Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-11-19T21:53:23.596Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "local"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\.vscode\\tasks.json": [
+          {
+            "timestamp": "2025-11-19T21:54:04.697Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\api\\client.ts": [
+          {
+            "timestamp": "2025-11-19T21:54:04.682Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\api\\client.ts",
+            "fileType": ".ts",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\cart\\actions.ts": [
+          {
+            "timestamp": "2025-11-19T21:54:04.640Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\cart\\actions.ts",
+            "fileType": ".ts",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\[category_slug]\\[[...url_path]]\\actions.ts": [
+          {
+            "timestamp": "2025-11-19T21:54:04.635Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\[category_slug]\\[[...url_path]]\\actions.ts",
+            "fileType": ".ts",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\api-es\\client.ts": [
+          {
+            "timestamp": "2025-11-19T21:54:04.657Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\api-es\\client.ts",
+            "fileType": ".ts",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\stored-files.ts": [
+          {
+            "timestamp": "2025-11-19T21:54:04.619Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\stored-files.ts",
+            "fileType": ".ts",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\app\\api-test\\page.tsx": [
+          {
+            "timestamp": "2025-11-19T21:54:04.838Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\app\\api-test\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 172,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\app\\auth-test\\page.tsx": [
+          {
+            "timestamp": "2025-11-19T21:54:04.834Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\app\\auth-test\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 211,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\app\\locations\\page.tsx": [
+          {
+            "timestamp": "2025-11-19T21:54:04.805Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\app\\locations\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 952,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\app\\debug-api\\page.tsx": [
+          {
+            "timestamp": "2025-11-19T21:54:04.798Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\app\\debug-api\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 145,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\app\\pages\\[id]\\page.tsx": [
+          {
+            "timestamp": "2025-11-19T21:54:04.781Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\app\\pages\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 251,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\api\\auth.ts": [
+          {
+            "timestamp": "2025-11-19T21:54:04.765Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\api\\auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 193,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\docker-compose.yml": [
+          {
+            "timestamp": "2025-11-19T21:54:04.596Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
           }
         ]
       },
