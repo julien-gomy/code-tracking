@@ -992,7 +992,7 @@
       "averageChangeSize": 44.5
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1121,
+      "totalLinesAdded": 1123,
       "totalLinesRemoved": 11,
       "totalActiveTime": 28,
       "files": {
@@ -1318,6 +1318,22 @@
             },
             "duration": 0,
             "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.git\\COMMIT_EDITMSG": [
+          {
+            "timestamp": "2025-11-20T12:29:07.011Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.git\\COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
