@@ -2325,9 +2325,9 @@
       "averageChangeSize": 393
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 4119,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 17,
+      "totalLinesAdded": 4129,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 22,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\etab_activities\\functions.asp": [
           {
@@ -2578,6 +2578,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-20T22:04:21.737Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\includes\\functions.asp",
+            "fileType": ".asp",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-20T22:04:26.932Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\includes\\functions.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "asp"
           }
         ],
