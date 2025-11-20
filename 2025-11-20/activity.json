@@ -846,9 +846,9 @@
       "averageChangeSize": 44.5
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1045,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 17,
+      "totalLinesAdded": 1078,
+      "totalLinesRemoved": 10,
+      "totalActiveTime": 22,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\routes.py": [
           {
@@ -1026,6 +1026,20 @@
             },
             "duration": 0,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-11-20T11:32:08.477Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\ReferencedSearch.py": [
@@ -1056,6 +1070,36 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\pyproject.toml": [
+          {
+            "timestamp": "2025-11-20T11:29:04.433Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\pyproject.toml",
+            "fileType": ".toml",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "toml"
+          },
+          {
+            "timestamp": "2025-11-20T11:29:04.850Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\pyproject.toml",
+            "fileType": ".toml",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "toml"
           }
         ]
       },
