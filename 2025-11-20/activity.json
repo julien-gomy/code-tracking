@@ -2325,9 +2325,9 @@
       "averageChangeSize": 393
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 1170,
+      "totalLinesAdded": 2282,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 10,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\etab_activities\\functions.asp": [
           {
@@ -2516,6 +2516,38 @@
               "removed": []
             },
             "duration": 0,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\helper\\sync_helper.asp": [
+          {
+            "timestamp": "2025-11-20T21:49:51.082Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\helper\\sync_helper.asp",
+            "fileType": ".asp",
+            "linesAdded": 834,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\chaine_hotel\\functions.asp": [
+          {
+            "timestamp": "2025-11-20T21:50:37.443Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\chaine_hotel\\functions.asp",
+            "fileType": ".asp",
+            "linesAdded": 278,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "asp"
           }
         ]
