@@ -577,9 +577,9 @@
       "averageChangeSize": 58.333333333333336
     },
     "EventScop (Workspace)": {
-      "totalLinesAdded": 89,
+      "totalLinesAdded": 214,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\auth-options.ts": [
           {
@@ -611,6 +611,52 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\biome.json": [
+          {
+            "timestamp": "2025-11-20T01:10:03.984Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\biome.json",
+            "fileType": ".json",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-20T01:10:25.229Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\biome.json",
+            "fileType": ".json",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\logger.ts": [
+          {
+            "timestamp": "2025-11-20T01:12:17.003Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\logger.ts",
+            "fileType": ".ts",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ]
       },
