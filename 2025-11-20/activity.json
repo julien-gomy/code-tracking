@@ -1262,9 +1262,9 @@
       "averageChangeSize": 44.5
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1663,
-      "totalLinesRemoved": 11,
-      "totalActiveTime": 29,
+      "totalLinesAdded": 1719,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 34,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\routes.py": [
           {
@@ -1641,6 +1641,94 @@
             "fileType": ".py",
             "linesAdded": 506,
             "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.env": [
+          {
+            "timestamp": "2025-11-20T14:53:49.455Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.env",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\HMAC.py": [
+          {
+            "timestamp": "2025-11-20T14:54:08.190Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\HMAC.py",
+            "fileType": ".py",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-20T14:54:45.897Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\HMAC.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-20T14:55:17.328Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\HMAC.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-20T14:56:12.082Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\HMAC.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-20T14:56:34.312Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\middlewares\\HMAC.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "eventscop-api-guide (Workspace)",
             "content": {
               "added": [],
