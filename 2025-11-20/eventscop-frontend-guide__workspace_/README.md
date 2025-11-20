@@ -4,31 +4,32 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1011                                          |
-| **Lines Removed** (➖) | 67                                        |
-| **Net Change** (↕)    | 944                |
+| **Lines Added** (➕)   | 1063                                          |
+| **Lines Removed** (➖) | 91                                        |
+| **Net Change** (↕)    | 972                |
 | **Active Time** (⌚)   | 74 minutes |
 
 
 ## Modified Files
 - **.env.local** (+3, -0)
-- **layout.tsx** (+180, -7)
-- **metadata.ts** (+84, -1)
+- **layout.tsx** (+180, -10)
+- **metadata.ts** (+84, -2)
 - **google.ts** (+48, -3)
 - **actions.ts** (+40, -0)
 - **LazyAnalytics.tsx** (+61, -1)
 - **useAnalytics.ts** (+62, -13)
 - **DelayedAnalytics.tsx** (+60, -18)
 - **DelayedAnalytics.tsx** (+42, -0)
-- **stored-files.ts** (+35, -12)
+- **stored-files.ts** (+38, -12)
 - **actions.ts** (+29, -0)
-- **.env.example** (+36, -1)
-- **route.ts** (+7, -7)
-- **editorial-variables.ts** (+3, -3)
+- **.env.example** (+36, -2)
+- **route.ts** (+7, -14)
+- **editorial-variables.ts** (+3, -6)
 - **presearch.ts** (+82, -1)
-- **PresearchSectionWrapper.tsx** (+123, -0)
-- **ClientPresearchSection.tsx** (+81, -0)
+- **PresearchSectionWrapper.tsx** (+123, -7)
+- **ClientPresearchSection.tsx** (+81, -2)
 - **page.tsx** (+35, -0)
+- **fr.json** (+49, -0)
 
 ## Visualizations
 
@@ -38,9 +39,10 @@
 pie showData
 title Lines changed by file type
 ".local" : 3
-".tsx" : 608
-".ts" : 430
-".example" : 37
+".tsx" : 620
+".ts" : 444
+".example" : 38
+".json" : 49
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,7 +56,8 @@ title Coding activity by hour (count of changes)
 "10h" : 6
 "12h" : 3
 "13h" : 8
+"14h" : 9
 ```
 
 
-> **Last Updated:** 11/20/2025, 1:37:21 PM
+> **Last Updated:** 11/20/2025, 2:32:21 PM
