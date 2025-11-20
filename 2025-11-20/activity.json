@@ -1136,9 +1136,9 @@
       "averageChangeSize": 44.5
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1124,
+      "totalLinesAdded": 1663,
       "totalLinesRemoved": 11,
-      "totalActiveTime": 28,
+      "totalActiveTime": 29,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\routes.py": [
           {
@@ -1492,6 +1492,36 @@
             },
             "duration": 0,
             "language": "unknown"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\d879f42f9b12_add_trad_cookie_banner.py": [
+          {
+            "timestamp": "2025-11-20T13:39:19.667Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\d879f42f9b12_add_trad_cookie_banner.py",
+            "fileType": ".py",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-20T13:39:35.590Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\d879f42f9b12_add_trad_cookie_banner.py",
+            "fileType": ".py",
+            "linesAdded": 506,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },
