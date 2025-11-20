@@ -575,6 +575,57 @@
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\layout.tsx"
       ],
       "averageChangeSize": 58.333333333333336
+    },
+    "EventScop (Workspace)": {
+      "totalLinesAdded": 89,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\auth-options.ts": [
+          {
+            "timestamp": "2025-11-20T01:09:01.988Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\auth-options.ts",
+            "fileType": ".ts",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\ui\\html-editor.tsx": [
+          {
+            "timestamp": "2025-11-20T01:09:02.014Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\ui\\html-editor.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "EventScop (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0,
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "2": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\auth-options.ts",
+        "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\ui\\html-editor.tsx"
+      ],
+      "averageChangeSize": 44.5
     }
   },
   "totalActiveTime": 5,
