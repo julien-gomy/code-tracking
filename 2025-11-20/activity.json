@@ -760,6 +760,39 @@
         "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\components\\ui\\html-editor.tsx"
       ],
       "averageChangeSize": 44.5
+    },
+    "eventscop-api-guide (Workspace)": {
+      "totalLinesAdded": 393,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\routes.py": [
+          {
+            "timestamp": "2025-11-20T09:11:08.951Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 393,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\routes.py"
+      ],
+      "averageChangeSize": 393
     }
   },
   "totalActiveTime": 5,
