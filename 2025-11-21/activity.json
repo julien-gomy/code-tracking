@@ -48,6 +48,67 @@
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\modules\\etab_product\\functions.asp"
       ],
       "averageChangeSize": 7
+    },
+    "eventscop-api-guide": {
+      "totalLinesAdded": 55,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\projects\\eventscop\\eventscop-api-guide\\.env": [
+          {
+            "timestamp": "2025-11-20T23:28:25.872Z",
+            "fileName": "c:\\projects\\eventscop\\eventscop-api-guide\\.env",
+            "fileType": "unknown",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-11-20T23:29:03.241Z",
+            "fileName": "c:\\projects\\eventscop\\eventscop-api-guide\\.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-11-20T23:29:08.576Z",
+            "fileName": "c:\\projects\\eventscop\\eventscop-api-guide\\.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-api-guide",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 2
+      },
+      "changeFrequency": {
+        "0": 2
+      },
+      "topFiles": [
+        "c:\\projects\\eventscop\\eventscop-api-guide\\.env"
+      ],
+      "averageChangeSize": 18.666666666666668
     }
   },
   "totalActiveTime": 3,
