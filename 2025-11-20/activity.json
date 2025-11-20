@@ -762,9 +762,9 @@
       "averageChangeSize": 44.5
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 393,
+      "totalLinesAdded": 664,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\routes.py": [
           {
@@ -779,6 +779,52 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\service.py": [
+          {
+            "timestamp": "2025-11-20T09:13:49.624Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\service.py",
+            "fileType": ".py",
+            "linesAdded": 245,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\__init__.py": [
+          {
+            "timestamp": "2025-11-20T09:16:14.191Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-20T09:16:21.461Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
