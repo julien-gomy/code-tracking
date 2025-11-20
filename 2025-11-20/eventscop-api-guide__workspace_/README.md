@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1747                                          |
-| **Lines Removed** (➖) | 20                                        |
-| **Net Change** (↕)    | 1727                |
-| **Active Time** (⌚)   | 36 minutes |
+| **Lines Added** (➕)   | 1784                                          |
+| **Lines Removed** (➖) | 25                                        |
+| **Net Change** (↕)    | 1759                |
+| **Active Time** (⌚)   | 42 minutes |
 
 
 ## Modified Files
@@ -15,14 +15,14 @@
 - **service.py** (+259, -0)
 - **__init__.py** (+26, -0)
 - **test_auth_setup.py** (+210, -6)
-- **activity_search_engine.py** (+54, -1)
+- **activity_search_engine.py** (+91, -1)
 - **ReferencedSearch.py** (+134, -0)
 - **pyproject.toml** (+32, -4)
 - **b057b146cff2_update_presearch.py** (+38, -0)
 - **COMMIT_EDITMSG** (+2, -0)
 - **d879f42f9b12_add_trad_cookie_banner.py** (+539, -0)
 - **.env** (+2, -2)
-- **HMAC.py** (+58, -7)
+- **HMAC.py** (+58, -12)
 
 ## Visualizations
 
@@ -31,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 1725
+".py" : 1767
 ".toml" : 36
 "unknown" : 6
 ```
@@ -47,8 +47,8 @@ title Coding activity by hour (count of changes)
 "13h" : 4
 "14h" : 2
 "15h" : 6
-"16h" : 5
+"16h" : 8
 ```
 
 
-> **Last Updated:** 11/20/2025, 4:33:21 PM
+> **Last Updated:** 11/20/2025, 4:38:21 PM
