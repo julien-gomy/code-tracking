@@ -992,7 +992,7 @@
       "averageChangeSize": 44.5
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1083,
+      "totalLinesAdded": 1116,
       "totalLinesRemoved": 11,
       "totalActiveTime": 28,
       "files": {
@@ -1288,6 +1288,22 @@
             },
             "duration": 1,
             "language": "toml"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\b057b146cff2_update_presearch.py": [
+          {
+            "timestamp": "2025-11-20T12:14:11.536Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\b057b146cff2_update_presearch.py",
+            "fileType": ".py",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
           }
         ]
       },
