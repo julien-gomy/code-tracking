@@ -2,7 +2,7 @@
   "date": "2025-11-20",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 2431,
+      "totalLinesAdded": 2437,
       "totalLinesRemoved": 175,
       "totalActiveTime": 103,
       "files": {
@@ -567,6 +567,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-20T21:05:10.063Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\analytics\\DelayedAnalytics.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
