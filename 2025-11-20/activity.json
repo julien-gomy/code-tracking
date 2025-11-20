@@ -763,8 +763,8 @@
     },
     "eventscop-api-guide (Workspace)": {
       "totalLinesAdded": 888,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 10,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\routes.py": [
           {
@@ -897,6 +897,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-20T09:34:50.442Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\test_auth_setup.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "py"
           }
         ]
