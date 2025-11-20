@@ -1680,9 +1680,9 @@
       "averageChangeSize": 44.5
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 3362,
+      "totalLinesAdded": 3578,
       "totalLinesRemoved": 50,
-      "totalActiveTime": 48,
+      "totalActiveTime": 49,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\routes.py": [
           {
@@ -2407,6 +2407,38 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\20251120_create_supplier_action_areas_table.py": [
+          {
+            "timestamp": "2025-11-20T22:24:34.625Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\20251120_create_supplier_action_areas_table.py",
+            "fileType": ".py",
+            "linesAdded": 111,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\20251120_populate_supplier_action_areas.py": [
+          {
+            "timestamp": "2025-11-20T22:24:44.773Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\20251120_populate_supplier_action_areas.py",
+            "fileType": ".py",
+            "linesAdded": 105,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
