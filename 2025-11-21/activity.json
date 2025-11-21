@@ -401,9 +401,9 @@
       "averageChangeSize": 30.5
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 5307,
-      "totalLinesRemoved": 164,
-      "totalActiveTime": 199,
+      "totalLinesAdded": 5313,
+      "totalLinesRemoved": 165,
+      "totalActiveTime": 202,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\WelcomeSelectSteps.tsx": [
           {
@@ -1992,6 +1992,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-21T03:33:16.515Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\xs\\[[...url_path]]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-21T03:35:42.006Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\xs\\[[...url_path]]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
