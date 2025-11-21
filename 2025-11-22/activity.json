@@ -33,6 +33,87 @@
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\modals\\DatesModal.tsx"
       ],
       "averageChangeSize": 1
+    },
+    "eventscop-api-guide (Workspace)": {
+      "totalLinesAdded": 612,
+      "totalLinesRemoved": 29,
+      "totalActiveTime": 8,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\cities\\routes.py": [
+          {
+            "timestamp": "2025-11-21T23:28:42.022Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\cities\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 612,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-21T23:33:15.288Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\cities\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\20251121abcd123_fix_missing_extensions_and_indexes.py": [
+          {
+            "timestamp": "2025-11-21T23:30:30.162Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\20251121abcd123_fix_missing_extensions_and_indexes.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\env.py": [
+          {
+            "timestamp": "2025-11-21T23:33:15.273Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\env.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 8
+      },
+      "changeFrequency": {
+        "0": 8
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\cities\\routes.py",
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\20251121abcd123_fix_missing_extensions_and_indexes.py",
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\env.py"
+      ],
+      "averageChangeSize": 160.25
     }
   },
   "totalActiveTime": 0,
