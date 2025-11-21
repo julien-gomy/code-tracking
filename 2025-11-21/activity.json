@@ -187,9 +187,9 @@
       "averageChangeSize": 18.666666666666668
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 3655,
+      "totalLinesAdded": 3660,
       "totalLinesRemoved": 332,
-      "totalActiveTime": 57,
+      "totalActiveTime": 63,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\20251120_add_trigram_indexes_action_areas.py": [
           {
@@ -818,6 +818,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-21T22:51:25.304Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\env.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-21T22:53:00.365Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\env.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ],
