@@ -187,7 +187,7 @@
       "averageChangeSize": 18.666666666666668
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 249,
+      "totalLinesAdded": 269,
       "totalLinesRemoved": 2,
       "totalActiveTime": 17,
       "files": {
@@ -301,6 +301,22 @@
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\20251120_populate_supplier_action_areas.py",
             "fileType": ".py",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\EntityVisitDay.py": [
+          {
+            "timestamp": "2025-11-21T01:13:58.064Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\EntityVisitDay.py",
+            "fileType": ".py",
+            "linesAdded": 20,
             "linesRemoved": 0,
             "projectName": "eventscop-api-guide (Workspace)",
             "content": {
