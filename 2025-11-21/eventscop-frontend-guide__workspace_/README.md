@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5390                                          |
-| **Lines Removed** (➖) | 256                                        |
-| **Net Change** (↕)    | 5134                |
+| **Lines Added** (➕)   | 5434                                          |
+| **Lines Removed** (➖) | 284                                        |
+| **Net Change** (↕)    | 5150                |
 | **Active Time** (⌚)   | 232 minutes |
 
 
 ## Modified Files
 - **WelcomeSelectSteps.tsx** (+136, -2)
 - **RseCategoryItem.tsx** (+42, -0)
-- **biome.json** (+126, -3)
+- **biome.json** (+127, -3)
 - **SuggestionsSkeleton.tsx** (+29, -0)
 - **RseSkeleton.tsx** (+30, -0)
 - **ReviewsSkeleton.tsx** (+45, -0)
@@ -30,12 +30,12 @@
 - **SearchFormAndFilters.tsx** (+48, -0)
 - **filters.ts** (+175, -0)
 - **ActivitySearchClient.tsx** (+77, -6)
-- **search-components.ts** (+56, -1)
-- **ActivityGrid.tsx** (+76, -0)
-- **page.tsx** (+225, -43)
+- **search-components.ts** (+56, -8)
+- **ActivityGrid.tsx** (+76, -2)
+- **page.tsx** (+241, -43)
 - **criteria-helpers.ts** (+65, -0)
 - **server-helpers.ts** (+50, -1)
-- **ActivitySearchContainer.tsx** (+87, -1)
+- **ActivitySearchContainer.tsx** (+87, -20)
 - **supplier-activities.ts** (+340, -5)
 - **search-actions.ts** (+117, -1)
 - **useActivitySearch.ts** (+62, -5)
@@ -47,7 +47,7 @@
 - **page.tsx** (+269, -24)
 - **page.tsx** (+174, -1)
 - **page.tsx** (+307, -5)
-- **useSearch.ts** (+363, -129)
+- **useSearch.ts** (+390, -129)
 - **SeoPageLayout.tsx** (+45, -3)
 - **seo.ts** (+233, -1)
 - **rse-heading.ts** (+22, -1)
@@ -59,12 +59,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2639
-".json" : 129
+".tsx" : 2676
+".json" : 130
 ".yml" : 22
 "unknown" : 2
 ".example" : 8
-".ts" : 2846
+".ts" : 2880
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -78,8 +78,8 @@ title Coding activity by hour (count of changes)
 "04h" : 40
 "11h" : 1
 "12h" : 5
-"13h" : 5
+"13h" : 11
 ```
 
 
-> **Last Updated:** 11/21/2025, 1:27:26 PM
+> **Last Updated:** 11/21/2025, 1:47:26 PM
