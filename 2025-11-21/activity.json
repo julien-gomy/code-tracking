@@ -50,9 +50,9 @@
       "averageChangeSize": 7
     },
     "eventscop-api-guide": {
-      "totalLinesAdded": 55,
+      "totalLinesAdded": 346,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 2,
+      "totalActiveTime": 5,
       "files": {
         "c:\\projects\\eventscop\\eventscop-api-guide\\.env": [
           {
@@ -96,6 +96,66 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "c:\\projects\\eventscop\\eventscop-api-guide\\app\\modules\\users\\schemas.py": [
+          {
+            "timestamp": "2025-11-21T00:03:30.859Z",
+            "fileName": "c:\\projects\\eventscop\\eventscop-api-guide\\app\\modules\\users\\schemas.py",
+            "fileType": ".py",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\projects\\eventscop\\eventscop-api-guide\\app\\modules\\users\\routes.py": [
+          {
+            "timestamp": "2025-11-21T00:03:38.306Z",
+            "fileName": "c:\\projects\\eventscop\\eventscop-api-guide\\app\\modules\\users\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 219,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-21T00:03:45.264Z",
+            "fileName": "c:\\projects\\eventscop\\eventscop-api-guide\\app\\modules\\users\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-21T00:03:55.250Z",
+            "fileName": "c:\\projects\\eventscop\\eventscop-api-guide\\app\\modules\\users\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },
