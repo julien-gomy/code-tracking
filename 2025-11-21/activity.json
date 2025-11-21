@@ -705,7 +705,7 @@
       "averageChangeSize": 30.5
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 5434,
+      "totalLinesAdded": 5710,
       "totalLinesRemoved": 284,
       "totalActiveTime": 232,
       "files": {
@@ -3223,6 +3223,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\ui\\DateAndTimeRangePicker.tsx": [
+          {
+            "timestamp": "2025-11-21T13:33:56.663Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\ui\\DateAndTimeRangePicker.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 276,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
