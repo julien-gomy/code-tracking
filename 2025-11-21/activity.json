@@ -1057,9 +1057,9 @@
       "averageChangeSize": 30.5
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 6413,
+      "totalLinesAdded": 6761,
       "totalLinesRemoved": 445,
-      "totalActiveTime": 298,
+      "totalActiveTime": 301,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\WelcomeSelectSteps.tsx": [
           {
@@ -4172,6 +4172,38 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\common.ts": [
+          {
+            "timestamp": "2025-11-21T22:08:22.774Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\common.ts",
+            "fileType": ".ts",
+            "linesAdded": 284,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\modals\\DatesModal.tsx": [
+          {
+            "timestamp": "2025-11-21T22:08:40.355Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\modals\\DatesModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
