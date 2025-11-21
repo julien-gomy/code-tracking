@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2601                                          |
-| **Lines Removed** (➖) | 137                                        |
-| **Net Change** (↕)    | 2464                |
-| **Active Time** (⌚)   | 38 minutes |
+| **Lines Added** (➕)   | 3104                                          |
+| **Lines Removed** (➖) | 165                                        |
+| **Net Change** (↕)    | 2939                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
@@ -24,6 +24,8 @@
 - **SupplierActivity.py** (+83, -0)
 - **search_engine.py** (+4, -4)
 - **.env** (+54, -0)
+- **env.py** (+219, -0)
+- **postgres_objects.py** (+284, -28)
 
 ## Visualizations
 
@@ -32,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 2684
+".py" : 3215
 "unknown" : 54
 ```
 
@@ -44,8 +46,8 @@ title Coding activity by hour (count of changes)
 "01h" : 8
 "02h" : 5
 "05h" : 21
-"21h" : 3
+"21h" : 9
 ```
 
 
-> **Last Updated:** 11/21/2025, 9:13:37 PM
+> **Last Updated:** 11/21/2025, 9:18:37 PM
