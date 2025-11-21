@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2145                                          |
+| **Lines Added** (➕)   | 2457                                          |
 | **Lines Removed** (➖) | 13                                        |
-| **Net Change** (↕)    | 2132                |
-| **Active Time** (⌚)   | 71 minutes |
+| **Net Change** (↕)    | 2444                |
+| **Active Time** (⌚)   | 78 minutes |
 
 
 ## Modified Files
@@ -32,6 +32,9 @@
 - **ActivitySearchClient.tsx** (+71, -0)
 - **search-components.ts** (+49, -0)
 - **ActivityGrid.tsx** (+75, -0)
+- **page.tsx** (+198, -0)
+- **criteria-helpers.ts** (+65, -0)
+- **server-helpers.ts** (+49, -0)
 
 ## Visualizations
 
@@ -40,12 +43,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 904
+".tsx" : 1102
 ".json" : 129
 ".yml" : 22
 "unknown" : 2
 ".example" : 8
-".ts" : 1093
+".ts" : 1207
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,8 +57,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "01h" : 10
-"02h" : 39
+"02h" : 43
 ```
 
 
-> **Last Updated:** 11/21/2025, 2:52:23 AM
+> **Last Updated:** 11/21/2025, 2:57:23 AM
