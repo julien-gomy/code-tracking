@@ -188,7 +188,7 @@
     },
     "eventscop-api-guide (Workspace)": {
       "totalLinesAdded": 3617,
-      "totalLinesRemoved": 184,
+      "totalLinesRemoved": 332,
       "totalActiveTime": 56,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\20251120_add_trigram_indexes_action_areas.py": [
@@ -862,6 +862,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-21T22:23:18.117Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\postgres_objects.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 148,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
