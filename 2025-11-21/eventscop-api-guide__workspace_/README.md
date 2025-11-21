@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2309                                          |
+| **Lines Added** (➕)   | 2338                                          |
 | **Lines Removed** (➖) | 132                                        |
-| **Net Change** (↕)    | 2177                |
-| **Active Time** (⌚)   | 26 minutes |
+| **Net Change** (↕)    | 2206                |
+| **Active Time** (⌚)   | 27 minutes |
 
 
 ## Modified Files
 - **20251120_add_trigram_indexes_action_areas.py** (+59, -0)
-- **activity_search_engine.py** (+31, -112)
+- **activity_search_engine.py** (+60, -112)
 - **__init__.py** (+155, -0)
 - **20251120_populate_supplier_action_areas.py** (+4, -0)
 - **EntityVisitDay.py** (+20, -0)
@@ -30,7 +30,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 2441
+".py" : 2470
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -40,8 +40,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "01h" : 8
 "02h" : 5
-"05h" : 10
+"05h" : 11
 ```
 
 
-> **Last Updated:** 11/21/2025, 5:29:17 AM
+> **Last Updated:** 11/21/2025, 5:34:17 AM
