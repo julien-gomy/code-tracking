@@ -705,9 +705,9 @@
       "averageChangeSize": 30.5
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 5840,
-      "totalLinesRemoved": 415,
-      "totalActiveTime": 274,
+      "totalLinesAdded": 6022,
+      "totalLinesRemoved": 427,
+      "totalActiveTime": 281,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\WelcomeSelectSteps.tsx": [
           {
@@ -3561,6 +3561,34 @@
             },
             "duration": 5,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-21T15:22:54.059Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\ui\\DateAndTimeRangePicker.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-21T15:24:14.535Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\ui\\DateAndTimeRangePicker.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local": [
@@ -3577,6 +3605,22 @@
             },
             "duration": 1,
             "language": "local"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\components\\ui\\calendar.tsx": [
+          {
+            "timestamp": "2025-11-21T15:25:47.196Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\components\\ui\\calendar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 178,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ]
       },
