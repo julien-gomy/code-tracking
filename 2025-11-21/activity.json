@@ -999,9 +999,9 @@
       "averageChangeSize": 30.5
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 6252,
+      "totalLinesAdded": 6328,
       "totalLinesRemoved": 430,
-      "totalActiveTime": 282,
+      "totalActiveTime": 286,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\WelcomeSelectSteps.tsx": [
           {
@@ -3945,6 +3945,36 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\ActivityQuoteForm.tsx": [
+          {
+            "timestamp": "2025-11-21T21:12:33.126Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\ActivityQuoteForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-21T21:15:54.114Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\ActivityQuoteForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
           }
         ]
       },
