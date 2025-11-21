@@ -187,7 +187,7 @@
       "averageChangeSize": 18.666666666666668
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 3531,
+      "totalLinesAdded": 3617,
       "totalLinesRemoved": 184,
       "totalActiveTime": 56,
       "files": {
@@ -1024,6 +1024,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\20251121abcd123_fix_missing_extensions_and_indexes.py": [
+          {
+            "timestamp": "2025-11-21T21:48:05.403Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\20251121abcd123_fix_missing_extensions_and_indexes.py",
+            "fileType": ".py",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
