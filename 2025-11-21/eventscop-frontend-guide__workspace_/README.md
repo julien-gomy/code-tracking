@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3006                                          |
-| **Lines Removed** (➖) | 24                                        |
-| **Net Change** (↕)    | 2982                |
-| **Active Time** (⌚)   | 117 minutes |
+| **Lines Added** (➕)   | 3175                                          |
+| **Lines Removed** (➖) | 29                                        |
+| **Net Change** (↕)    | 3146                |
+| **Active Time** (⌚)   | 130 minutes |
 
 
 ## Modified Files
@@ -34,10 +34,12 @@
 - **ActivityGrid.tsx** (+75, -0)
 - **page.tsx** (+202, -2)
 - **criteria-helpers.ts** (+65, -0)
-- **server-helpers.ts** (+49, -0)
+- **server-helpers.ts** (+50, -0)
 - **ActivitySearchContainer.tsx** (+76, -1)
 - **supplier-activities.ts** (+340, -5)
 - **search-actions.ts** (+117, -0)
+- **useActivitySearch.ts** (+59, -5)
+- **search-hooks.ts** (+109, -0)
 
 ## Visualizations
 
@@ -51,7 +53,7 @@ title Lines changed by file type
 ".yml" : 22
 "unknown" : 2
 ".example" : 8
-".ts" : 1679
+".ts" : 1853
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -61,8 +63,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "01h" : 10
 "02h" : 49
-"03h" : 21
+"03h" : 32
 ```
 
 
-> **Last Updated:** 11/21/2025, 3:32:23 AM
+> **Last Updated:** 11/21/2025, 3:37:23 AM
