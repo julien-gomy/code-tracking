@@ -50,9 +50,9 @@
       "averageChangeSize": 7
     },
     "eventscop-api-guide": {
-      "totalLinesAdded": 346,
+      "totalLinesAdded": 394,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 5,
+      "totalActiveTime": 8,
       "files": {
         "c:\\projects\\eventscop\\eventscop-api-guide\\.env": [
           {
@@ -155,6 +155,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\projects\\eventscop\\eventscop-api-guide\\eventscop_utils\\models\\User.py": [
+          {
+            "timestamp": "2025-11-21T00:06:19.345Z",
+            "fileName": "c:\\projects\\eventscop\\eventscop-api-guide\\eventscop_utils\\models\\User.py",
+            "fileType": ".py",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ]
