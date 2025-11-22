@@ -2,9 +2,9 @@
   "date": "2025-11-22",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 498,
+      "totalLinesAdded": 499,
       "totalLinesRemoved": 10,
-      "totalActiveTime": 14,
+      "totalActiveTime": 17,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\modals\\DatesModal.tsx": [
           {
@@ -155,6 +155,20 @@
           },
           {
             "timestamp": "2025-11-22T01:11:06.917Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\cart.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-22T01:23:02.071Z",
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\cart.ts",
             "fileType": ".ts",
             "linesAdded": 1,
