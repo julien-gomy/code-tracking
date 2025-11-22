@@ -847,9 +847,9 @@
       "averageChangeSize": 1
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 10489,
-      "totalLinesRemoved": 8119,
-      "totalActiveTime": 27,
+      "totalLinesAdded": 18152,
+      "totalLinesRemoved": 15673,
+      "totalActiveTime": 33,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\cities\\routes.py": [
           {
@@ -994,6 +994,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-22T20:23:58.796Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\env.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
@@ -1290,6 +1304,52 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\b6389d6b7d62_add_params_create_param_table_with_.py": [
+          {
+            "timestamp": "2025-11-22T20:24:16.317Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\b6389d6b7d62_add_params_create_param_table_with_.py",
+            "fileType": ".py",
+            "linesAdded": 7614,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-22T20:24:55.438Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\b6389d6b7d62_add_params_create_param_table_with_.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 7554,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\Param.py": [
+          {
+            "timestamp": "2025-11-22T20:28:10.346Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\Param.py",
+            "fileType": ".py",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "py"
           }
         ]
