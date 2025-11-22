@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2379                                          |
-| **Lines Removed** (➖) | 509                                        |
-| **Net Change** (↕)    | 1870                |
-| **Active Time** (⌚)   | 68 minutes |
+| **Lines Added** (➕)   | 2515                                          |
+| **Lines Removed** (➖) | 515                                        |
+| **Net Change** (↕)    | 2000                |
+| **Active Time** (⌚)   | 69 minutes |
 
 
 ## Modified Files
@@ -35,6 +35,7 @@
 - **placeQuoteFormSchema.ts** (+24, -0)
 - **plateform.ts** (+85, -1)
 - **plateforms.ts** (+40, -1)
+- **usePlaceQuoteForm.ts** (+136, -6)
 
 ## Visualizations
 
@@ -44,7 +45,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 2036
-".ts" : 546
+".ts" : 688
 ".json" : 306
 ```
 
@@ -59,8 +60,8 @@ title Coding activity by hour (count of changes)
 "03h" : 13
 "21h" : 2
 "22h" : 6
-"23h" : 4
+"23h" : 6
 ```
 
 
-> **Last Updated:** 11/22/2025, 11:17:30 PM
+> **Last Updated:** 11/22/2025, 11:32:31 PM
