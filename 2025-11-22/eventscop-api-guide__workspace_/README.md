@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 18659                                          |
-| **Lines Removed** (➖) | 15821                                        |
-| **Net Change** (↕)    | 2838                |
-| **Active Time** (⌚)   | 85 minutes |
+| **Lines Added** (➕)   | 18706                                          |
+| **Lines Removed** (➖) | 15825                                        |
+| **Net Change** (↕)    | 2881                |
+| **Active Time** (⌚)   | 95 minutes |
 
 
 ## Modified Files
@@ -21,13 +21,14 @@
 - **20251120_create_supplier_action_areas_table.py** (+111, -9)
 - **9e55e953cd63_test.py** (+8047, -7989)
 - **routes.py** (+842, -0)
-- **routes.py** (+602, -0)
+- **routes.py** (+606, -3)
 - **b6389d6b7d62_add_params_create_param_table_with_.py** (+7614, -7554)
 - **Param.py** (+48, -6)
-- **8ab850fa405b_add_params_table.py** (+192, -131)
+- **8ab850fa405b_add_params_table.py** (+193, -131)
 - **routes.py** (+92, -0)
 - **Plateform.py** (+45, -0)
 - **__init__.py** (+156, -0)
+- **PlateformParam.py** (+42, -1)
 
 ## Visualizations
 
@@ -36,7 +37,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 34479
+".py" : 34530
 "unknown" : 1
 ```
 
@@ -51,8 +52,8 @@ title Coding activity by hour (count of changes)
 "18h" : 1
 "21h" : 25
 "22h" : 2
-"23h" : 5
+"23h" : 11
 ```
 
 
-> **Last Updated:** 11/22/2025, 11:43:41 PM
+> **Last Updated:** 11/22/2025, 11:48:41 PM
