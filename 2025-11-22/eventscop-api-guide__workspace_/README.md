@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 18365                                          |
+| **Lines Added** (➕)   | 18659                                          |
 | **Lines Removed** (➖) | 15821                                        |
-| **Net Change** (↕)    | 2544                |
-| **Active Time** (⌚)   | 79 minutes |
+| **Net Change** (↕)    | 2838                |
+| **Active Time** (⌚)   | 85 minutes |
 
 
 ## Modified Files
@@ -24,7 +24,10 @@
 - **routes.py** (+602, -0)
 - **b6389d6b7d62_add_params_create_param_table_with_.py** (+7614, -7554)
 - **Param.py** (+48, -6)
-- **8ab850fa405b_add_params_table.py** (+191, -131)
+- **8ab850fa405b_add_params_table.py** (+192, -131)
+- **routes.py** (+92, -0)
+- **Plateform.py** (+45, -0)
+- **__init__.py** (+156, -0)
 
 ## Visualizations
 
@@ -33,7 +36,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 34185
+".py" : 34479
 "unknown" : 1
 ```
 
@@ -48,7 +51,8 @@ title Coding activity by hour (count of changes)
 "18h" : 1
 "21h" : 25
 "22h" : 2
+"23h" : 5
 ```
 
 
-> **Last Updated:** 11/22/2025, 10:13:41 PM
+> **Last Updated:** 11/22/2025, 11:43:41 PM
