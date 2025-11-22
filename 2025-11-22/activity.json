@@ -2,9 +2,9 @@
   "date": "2025-11-22",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 501,
-      "totalLinesRemoved": 10,
-      "totalActiveTime": 17,
+      "totalLinesAdded": 649,
+      "totalLinesRemoved": 12,
+      "totalActiveTime": 18,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\modals\\DatesModal.tsx": [
           {
@@ -194,6 +194,20 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-22T01:36:33.966Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\cart.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\activity\\[[...url_path]]\\page.tsx": [
@@ -254,6 +268,22 @@
             },
             "duration": 2,
             "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\team-building\\ActivityCard.tsx": [
+          {
+            "timestamp": "2025-11-22T01:37:27.574Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\team-building\\ActivityCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 148,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
