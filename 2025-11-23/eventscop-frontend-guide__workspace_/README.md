@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1275                                          |
-| **Lines Removed** (➖) | 45                                        |
-| **Net Change** (↕)    | 1230                |
-| **Active Time** (⌚)   | 62 minutes |
+| **Lines Added** (➕)   | 1381                                          |
+| **Lines Removed** (➖) | 50                                        |
+| **Net Change** (↕)    | 1331                |
+| **Active Time** (⌚)   | 67 minutes |
 
 
 ## Modified Files
@@ -23,9 +23,10 @@
 - **brief-summary.ts** (+124, -0)
 - **SummaryDates.tsx** (+48, -0)
 - **fr.json** (+5, -0)
-- **BudgetSchema.ts** (+24, -0)
+- **BudgetSchema.ts** (+33, -5)
 - **StepBudget.tsx** (+84, -0)
 - **SummaryBudget.tsx** (+30, -0)
+- **useBudgetForm.tsx** (+97, -0)
 
 ## Visualizations
 
@@ -34,8 +35,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 717
-".ts" : 598
+".tsx" : 814
+".ts" : 612
 ".json" : 5
 ```
 
@@ -45,9 +46,9 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 16
-"01h" : 21
+"01h" : 24
 "23h" : 4
 ```
 
 
-> **Last Updated:** 11/23/2025, 1:42:31 AM
+> **Last Updated:** 11/23/2025, 1:47:31 AM
