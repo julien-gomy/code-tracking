@@ -3340,9 +3340,9 @@
       "averageChangeSize": 75
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 13,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 8,
+      "totalLinesAdded": 1255,
+      "totalLinesRemoved": 131,
+      "totalActiveTime": 20,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\includes\\tools.asp": [
           {
@@ -3386,6 +3386,20 @@
             },
             "duration": 1,
             "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-23T14:48:45.416Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\includes\\tools.asp",
+            "fileType": ".asp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "asp"
           }
         ],
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\class\\TriggerSynchronisationEventscop.class.asp": [
@@ -3401,6 +3415,64 @@
               "removed": []
             },
             "duration": 5,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\dashboard.asp": [
+          {
+            "timestamp": "2025-11-23T14:52:42.194Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\dashboard.asp",
+            "fileType": ".asp",
+            "linesAdded": 1241,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-23T14:52:44.000Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\dashboard.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-23T14:53:01.421Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\dashboard.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 91,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-23T14:53:29.929Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\dashboard.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "asp"
           }
         ]
