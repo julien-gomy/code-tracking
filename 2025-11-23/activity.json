@@ -2263,9 +2263,9 @@
       "averageChangeSize": 2.5
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1741,
-      "totalLinesRemoved": 590,
-      "totalActiveTime": 93,
+      "totalLinesAdded": 1742,
+      "totalLinesRemoved": 591,
+      "totalActiveTime": 98,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\8ab850fa405b_add_params_table.py": [
           {
@@ -3408,6 +3408,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-23T22:21:21.430Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\search\\services\\search_engine.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-23T22:21:46.546Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\search\\services\\search_engine.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
