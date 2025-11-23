@@ -3355,8 +3355,8 @@
     },
     "cdp.aleoudev.fr (Workspace)": {
       "totalLinesAdded": 1499,
-      "totalLinesRemoved": 132,
-      "totalActiveTime": 32,
+      "totalLinesRemoved": 133,
+      "totalActiveTime": 33,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\includes\\tools.asp": [
           {
@@ -3443,6 +3443,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-23T20:13:37.860Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\class\\TriggerSynchronisationEventscop.class.asp",
+            "fileType": ".asp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "asp"
           }
         ],
