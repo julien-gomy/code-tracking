@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7172                                          |
-| **Lines Removed** (➖) | 391                                        |
-| **Net Change** (↕)    | 6781                |
-| **Active Time** (⌚)   | 155 minutes |
+| **Lines Added** (➕)   | 7327                                          |
+| **Lines Removed** (➖) | 557                                        |
+| **Net Change** (↕)    | 6770                |
+| **Active Time** (⌚)   | 164 minutes |
 
 
 ## Modified Files
@@ -38,7 +38,7 @@
 - **PlaceQuoteForm.tsx** (+74, -0)
 - **DatesModal.tsx** (+16, -16)
 - **layout.tsx** (+24, -48)
-- **page.tsx** (+16, -14)
+- **page.tsx** (+17, -14)
 - **suppliers.ts** (+8, -5)
 - **constants.ts** (+104, -0)
 - **WelcomeSelectSteps.tsx** (+1, -2)
@@ -56,13 +56,17 @@
 - **page.tsx** (+233, -0)
 - **page.tsx** (+136, -0)
 - **page.tsx** (+80, -0)
-- **StructuredData.tsx** (+175, -0)
+- **StructuredData.tsx** (+326, -150)
 - **page.tsx** (+256, -0)
 - **page.tsx** (+239, -0)
 - **page.tsx** (+125, -0)
 - **page.tsx** (+21, -0)
 - **page.tsx** (+158, -0)
 - **metadata.ts** (+1, -0)
+- **page.tsx** (+0, -16)
+- **page.tsx** (+1, -0)
+- **page.tsx** (+1, -0)
+- **page.tsx** (+1, -0)
 
 ## Visualizations
 
@@ -71,7 +75,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4718
+".tsx" : 5039
 ".ts" : 2840
 ".json" : 5
 ```
@@ -85,9 +89,9 @@ title Coding activity by hour (count of changes)
 "01h" : 28
 "02h" : 41
 "03h" : 13
-"04h" : 21
+"04h" : 29
 "23h" : 4
 ```
 
 
-> **Last Updated:** 11/23/2025, 4:27:33 AM
+> **Last Updated:** 11/23/2025, 4:32:33 AM
