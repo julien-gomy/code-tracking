@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1127                                          |
+| **Lines Added** (➕)   | 1156                                          |
 | **Lines Removed** (➖) | 45                                        |
-| **Net Change** (↕)    | 1082                |
-| **Active Time** (⌚)   | 50 minutes |
+| **Net Change** (↕)    | 1111                |
+| **Active Time** (⌚)   | 52 minutes |
 
 
 ## Modified Files
@@ -18,11 +18,12 @@
 - **StepDates.tsx** (+194, -24)
 - **BriefStepWrap.tsx** (+99, -12)
 - **dateRangeSchema.ts** (+46, -0)
-- **BriefAtom.ts** (+300, -0)
+- **BriefAtom.ts** (+305, -0)
 - **BriefSummaryItems.tsx** (+162, -0)
 - **brief-summary.ts** (+124, -0)
 - **SummaryDates.tsx** (+48, -0)
 - **fr.json** (+4, -0)
+- **BudgetSchema.ts** (+24, -0)
 
 ## Visualizations
 
@@ -32,7 +33,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 599
-".ts" : 569
+".ts" : 598
 ".json" : 4
 ```
 
@@ -42,9 +43,9 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 16
-"01h" : 11
+"01h" : 14
 "23h" : 4
 ```
 
 
-> **Last Updated:** 11/23/2025, 1:27:31 AM
+> **Last Updated:** 11/23/2025, 1:37:31 AM
