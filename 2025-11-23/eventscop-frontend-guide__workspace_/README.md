@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 789                                          |
+| **Lines Added** (➕)   | 1123                                          |
 | **Lines Removed** (➖) | 45                                        |
-| **Net Change** (↕)    | 744                |
-| **Active Time** (⌚)   | 46 minutes |
+| **Net Change** (↕)    | 1078                |
+| **Active Time** (⌚)   | 49 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,9 @@
 - **BriefStepWrap.tsx** (+99, -12)
 - **dateRangeSchema.ts** (+46, -0)
 - **BriefAtom.ts** (+300, -0)
+- **BriefSummaryItems.tsx** (+162, -0)
+- **brief-summary.ts** (+124, -0)
+- **SummaryDates.tsx** (+48, -0)
 
 ## Visualizations
 
@@ -27,8 +30,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 389
-".ts" : 445
+".tsx" : 599
+".ts" : 569
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,9 +40,9 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 16
-"01h" : 6
+"01h" : 10
 "23h" : 4
 ```
 
 
-> **Last Updated:** 11/23/2025, 1:17:31 AM
+> **Last Updated:** 11/23/2025, 1:22:31 AM
