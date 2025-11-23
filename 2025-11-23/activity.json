@@ -3340,7 +3340,7 @@
       "averageChangeSize": 75
     },
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 1255,
+      "totalLinesAdded": 1263,
       "totalLinesRemoved": 131,
       "totalActiveTime": 20,
       "files": {
@@ -3473,6 +3473,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-23T14:59:54.147Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\api\\synchro-eventscop\\dashboard.asp",
+            "fileType": ".asp",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "asp"
           }
         ]
