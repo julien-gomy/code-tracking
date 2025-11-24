@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1129                                          |
-| **Lines Removed** (➖) | 280                                        |
-| **Net Change** (↕)    | 849                |
-| **Active Time** (⌚)   | 97 minutes |
+| **Lines Added** (➕)   | 1133                                          |
+| **Lines Removed** (➖) | 309                                        |
+| **Net Change** (↕)    | 824                |
+| **Active Time** (⌚)   | 99 minutes |
 
 
 ## Modified Files
@@ -26,10 +26,10 @@
 - **useOrganizeNavigation.ts** (+23, -0)
 - **navigation.ts** (+167, -0)
 - **SeminarSection.tsx** (+53, -1)
-- **PresearchBanner.tsx** (+19, -23)
-- **PresearchButton.tsx** (+60, -0)
+- **PresearchBanner.tsx** (+23, -23)
+- **PresearchButton.tsx** (+60, -2)
 - **globals.css** (+257, -0)
-- **ClientPresearchSection.tsx** (+27, -0)
+- **ClientPresearchSection.tsx** (+27, -27)
 
 ## Visualizations
 
@@ -39,7 +39,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 493
-".tsx" : 596
+".tsx" : 629
 ".json" : 63
 ".css" : 257
 ```
@@ -56,8 +56,8 @@ title Coding activity by hour (count of changes)
 "11h" : 3
 "12h" : 2
 "15h" : 19
-"16h" : 12
+"16h" : 15
 ```
 
 
-> **Last Updated:** 11/24/2025, 4:47:38 PM
+> **Last Updated:** 11/24/2025, 4:57:38 PM
