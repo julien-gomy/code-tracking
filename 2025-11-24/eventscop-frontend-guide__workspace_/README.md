@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1196                                          |
-| **Lines Removed** (➖) | 343                                        |
-| **Net Change** (↕)    | 853                |
-| **Active Time** (⌚)   | 134 minutes |
+| **Lines Removed** (➖) | 360                                        |
+| **Net Change** (↕)    | 836                |
+| **Active Time** (⌚)   | 139 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **NoDatesWarning.tsx** (+3, -0)
 - **forms.ts** (+74, -0)
 - **fr.json** (+57, -6)
-- **ConfirmationModal.tsx** (+123, -30)
+- **ConfirmationModal.tsx** (+123, -34)
 - **BriefSection.tsx** (+59, -21)
 - **page.tsx** (+18, -18)
 - **WelcomeSelectSteps.tsx** (+21, -22)
@@ -30,8 +30,9 @@
 - **PresearchButton.tsx** (+64, -4)
 - **globals.css** (+260, -0)
 - **ClientPresearchSection.tsx** (+28, -28)
-- **sitemap-generator.ts** (+1, -0)
+- **sitemap-generator.ts** (+1, -2)
 - **PartnersLogo.tsx** (+52, -3)
+- **biome.json** (+0, -11)
 
 ## Visualizations
 
@@ -40,9 +41,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 494
-".tsx" : 722
-".json" : 63
+".ts" : 496
+".tsx" : 726
+".json" : 74
 ".css" : 260
 ```
 
@@ -60,8 +61,8 @@ title Coding activity by hour (count of changes)
 "15h" : 19
 "16h" : 16
 "17h" : 1
-"18h" : 15
+"18h" : 20
 ```
 
 
-> **Last Updated:** 11/24/2025, 6:27:39 PM
+> **Last Updated:** 11/24/2025, 6:57:39 PM
