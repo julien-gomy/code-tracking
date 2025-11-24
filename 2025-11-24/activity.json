@@ -402,6 +402,56 @@
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\brief.ts"
       ],
       "averageChangeSize": 3.1666666666666665
+    },
+    "eventscop-api-guide (Workspace)": {
+      "totalLinesAdded": 154,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\routes.py": [
+          {
+            "timestamp": "2025-11-24T00:09:40.715Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\00a096886d9d_add_trans.py": [
+          {
+            "timestamp": "2025-11-24T00:10:20.915Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\00a096886d9d_add_trans.py",
+            "fileType": ".py",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "1": 1
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\routes.py",
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\00a096886d9d_add_trans.py"
+      ],
+      "averageChangeSize": 77
     }
   },
   "totalActiveTime": 5,
