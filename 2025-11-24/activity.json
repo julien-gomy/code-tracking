@@ -3,8 +3,8 @@
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 486,
-      "totalLinesRemoved": 199,
-      "totalActiveTime": 47,
+      "totalLinesRemoved": 207,
+      "totalActiveTime": 48,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\brief.ts": [
           {
@@ -469,6 +469,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-24T10:28:13.712Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\ConfirmationModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
