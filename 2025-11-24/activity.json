@@ -2,9 +2,9 @@
   "date": "2025-11-24",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 402,
+      "totalLinesAdded": 444,
       "totalLinesRemoved": 163,
-      "totalActiveTime": 29,
+      "totalActiveTime": 30,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\brief.ts": [
           {
@@ -399,6 +399,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\menu\\BriefSection.tsx": [
+          {
+            "timestamp": "2025-11-24T08:52:17.616Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\menu\\BriefSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-24T08:52:25.817Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\menu\\BriefSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
