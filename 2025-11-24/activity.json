@@ -2,9 +2,9 @@
   "date": "2025-11-24",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 497,
+      "totalLinesAdded": 683,
       "totalLinesRemoved": 218,
-      "totalActiveTime": 49,
+      "totalActiveTime": 55,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\brief.ts": [
           {
@@ -686,6 +686,38 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\hooks\\useOrganizeNavigation.ts": [
+          {
+            "timestamp": "2025-11-24T14:25:16.532Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\hooks\\useOrganizeNavigation.ts",
+            "fileType": ".ts",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\navigation.ts": [
+          {
+            "timestamp": "2025-11-24T14:26:30.599Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\utils\\navigation.ts",
+            "fileType": ".ts",
+            "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ]
       },
