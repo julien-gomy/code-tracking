@@ -1,0 +1,109 @@
+{
+  "date": "2025-11-25",
+  "projects": {
+    "eventscop-api-guide (Workspace)": {
+      "totalLinesAdded": 1118,
+      "totalLinesRemoved": 112,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\SupplierRseLabel.py": [
+          {
+            "timestamp": "2025-11-24T23:03:57.602Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\SupplierRseLabel.py",
+            "fileType": ".py",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\052ff740ad34_add_missing_indexes_for_search_.py": [
+          {
+            "timestamp": "2025-11-24T23:06:13.969Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\052ff740ad34_add_missing_indexes_for_search_.py",
+            "fileType": ".py",
+            "linesAdded": 158,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-24T23:06:27.409Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\052ff740ad34_add_missing_indexes_for_search_.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 52,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-24T23:07:08.844Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\052ff740ad34_add_missing_indexes_for_search_.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 60,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\routes.py": [
+          {
+            "timestamp": "2025-11-24T23:07:37.439Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 905,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 6
+      },
+      "changeFrequency": {
+        "0": 6
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\migration\\versions\\052ff740ad34_add_missing_indexes_for_search_.py",
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\SupplierRseLabel.py",
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\routes.py"
+      ],
+      "averageChangeSize": 246
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
