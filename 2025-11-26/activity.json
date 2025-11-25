@@ -1,0 +1,66 @@
+{
+  "date": "2025-11-26",
+  "projects": {
+    "eventscop-frontend-guide (Workspace)": {
+      "totalLinesAdded": 157,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\supplier-activities.ts": [
+          {
+            "timestamp": "2025-11-25T22:57:02.041Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\supplier-activities.ts",
+            "fileType": ".ts",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\search\\[[...url_path]]\\page.tsx": [
+          {
+            "timestamp": "2025-11-25T22:59:54.456Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\search\\[[...url_path]]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0,
+        "tsx": 3
+      },
+      "changeFrequency": {
+        "23": 3
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\supplier-activities.ts",
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\search\\[[...url_path]]\\page.tsx"
+      ],
+      "averageChangeSize": 78.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "ts"
+  ]
+}
