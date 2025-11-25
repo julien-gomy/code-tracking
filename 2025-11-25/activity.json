@@ -157,9 +157,9 @@
       "averageChangeSize": 246
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 1900,
-      "totalLinesRemoved": 16,
-      "totalActiveTime": 59,
+      "totalLinesAdded": 1919,
+      "totalLinesRemoved": 17,
+      "totalActiveTime": 66,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json": [
           {
@@ -650,6 +650,48 @@
             "fileType": ".tsx",
             "linesAdded": 44,
             "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T14:13:45.779Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\QuoteTarifs.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T14:14:38.379Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\QuoteTarifs.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T14:14:56.041Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\QuoteTarifs.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
               "added": [],
