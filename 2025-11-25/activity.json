@@ -2,9 +2,9 @@
   "date": "2025-11-25",
   "projects": {
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 2448,
+      "totalLinesAdded": 2450,
       "totalLinesRemoved": 112,
-      "totalActiveTime": 8,
+      "totalActiveTime": 10,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\SupplierRseLabel.py": [
           {
@@ -125,6 +125,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-25T12:54:16.793Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
