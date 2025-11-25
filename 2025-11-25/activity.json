@@ -97,9 +97,9 @@
       "averageChangeSize": 246
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 107,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json": [
           {
@@ -129,6 +129,94 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\sitemap-activities.xml\\route.ts": [
+          {
+            "timestamp": "2025-11-25T08:50:58.827Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\sitemap-activities.xml\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-25T08:51:12.663Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\sitemap-activities.xml\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-25T08:51:21.864Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\sitemap-activities.xml\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\lefthook.yml": [
+          {
+            "timestamp": "2025-11-25T08:52:13.108Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\lefthook.yml",
+            "fileType": ".yml",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-11-25T08:54:07.741Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\lefthook.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-11-25T08:54:58.723Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\lefthook.yml",
+            "fileType": ".yml",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
           }
         ]
       },
