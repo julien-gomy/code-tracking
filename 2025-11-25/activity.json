@@ -259,9 +259,9 @@
       "averageChangeSize": 246
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 6032,
-      "totalLinesRemoved": 424,
-      "totalActiveTime": 229,
+      "totalLinesAdded": 6041,
+      "totalLinesRemoved": 433,
+      "totalActiveTime": 230,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json": [
           {
@@ -396,6 +396,34 @@
           },
           {
             "timestamp": "2025-11-25T14:55:01.393Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\lefthook.yml",
+            "fileType": ".yml",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-11-25T21:33:52.291Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\lefthook.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-11-25T21:34:06.579Z",
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\lefthook.yml",
             "fileType": ".yml",
             "linesAdded": 9,
