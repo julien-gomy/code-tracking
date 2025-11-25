@@ -157,7 +157,7 @@
       "averageChangeSize": 246
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 152,
+      "totalLinesAdded": 889,
       "totalLinesRemoved": 11,
       "totalActiveTime": 11,
       "files": {
@@ -293,6 +293,22 @@
             },
             "duration": 4,
             "language": "code-workspace"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\types\\validator.ts": [
+          {
+            "timestamp": "2025-11-25T13:13:01.470Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\types\\validator.ts",
+            "fileType": ".ts",
+            "linesAdded": 737,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
