@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1874                                          |
-| **Lines Removed** (➖) | 11                                        |
-| **Net Change** (↕)    | 1863                |
-| **Active Time** (⌚)   | 40 minutes |
+| **Lines Added** (➕)   | 1881                                          |
+| **Lines Removed** (➖) | 14                                        |
+| **Net Change** (↕)    | 1867                |
+| **Active Time** (⌚)   | 48 minutes |
 
 
 ## Modified Files
@@ -17,12 +17,12 @@
 - **eventscop-frontend-guide.code-workspace** (+45, -0)
 - **validator.ts** (+737, -0)
 - **CityAutocomplete.tsx** (+261, -0)
-- **ActivityQuoteForm.tsx** (+162, -0)
-- **page.tsx** (+150, -0)
-- **ActivityQuoteSidebar.tsx** (+31, -0)
-- **common.ts** (+285, -0)
+- **ActivityQuoteForm.tsx** (+162, -1)
+- **page.tsx** (+152, -0)
+- **ActivityQuoteSidebar.tsx** (+32, -1)
+- **common.ts** (+285, -1)
 - **QuoteTarifs.tsx** (+44, -0)
-- **product.ts** (+52, -0)
+- **product.ts** (+56, -0)
 
 ## Visualizations
 
@@ -32,10 +32,10 @@
 pie showData
 title Lines changed by file type
 ".json" : 5
-".ts" : 1149
+".ts" : 1154
 ".yml" : 38
 ".code-workspace" : 45
-".tsx" : 648
+".tsx" : 653
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -44,8 +44,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 9
-"14h" : 16
+"14h" : 23
 ```
 
 
-> **Last Updated:** 11/25/2025, 2:50:49 PM
+> **Last Updated:** 11/25/2025, 2:55:49 PM
