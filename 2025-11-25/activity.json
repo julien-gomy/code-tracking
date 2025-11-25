@@ -97,9 +97,9 @@
       "averageChangeSize": 246
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 107,
+      "totalLinesAdded": 152,
       "totalLinesRemoved": 11,
-      "totalActiveTime": 7,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json": [
           {
@@ -217,6 +217,22 @@
             },
             "duration": 1,
             "language": "yml"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\eventscop-frontend-guide.code-workspace": [
+          {
+            "timestamp": "2025-11-25T08:58:28.123Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\eventscop-frontend-guide.code-workspace",
+            "fileType": ".code-workspace",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "code-workspace"
           }
         ]
       },
