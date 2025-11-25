@@ -185,9 +185,9 @@
       "averageChangeSize": 246
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 4064,
-      "totalLinesRemoved": 81,
-      "totalActiveTime": 109,
+      "totalLinesAdded": 4142,
+      "totalLinesRemoved": 157,
+      "totalActiveTime": 124,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json": [
           {
@@ -649,6 +649,48 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T15:51:33.843Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\ActivityQuoteForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T15:53:09.366Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\ActivityQuoteForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T15:53:48.252Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\ActivityQuoteForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\activity\\[[...url_path]]\\page.tsx": [
@@ -762,6 +804,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T15:53:09.343Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\activity\\[[...url_path]]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T15:53:48.226Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\activity\\[[...url_path]]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -1077,6 +1147,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T15:53:09.337Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\QuoteTarifs.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 30,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T15:53:48.230Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\QuoteTarifs.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\types\\product.ts": [
@@ -1140,6 +1238,34 @@
           },
           {
             "timestamp": "2025-11-25T14:16:44.424Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\fr.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-25T15:53:09.355Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\fr.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-25T15:53:48.247Z",
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\fr.json",
             "fileType": ".json",
             "linesAdded": 1,
