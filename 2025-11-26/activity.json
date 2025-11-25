@@ -156,6 +156,99 @@
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\scripts\\class\\TriggerSynchronisationEventscop.class.asp"
       ],
       "averageChangeSize": 114
+    },
+    "eventscop-api-guide (Workspace)": {
+      "totalLinesAdded": 153,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.env": [
+          {
+            "timestamp": "2025-11-25T23:26:00.252Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.env",
+            "fileType": "unknown",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-11-25T23:26:09.072Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\tests\\main.py": [
+          {
+            "timestamp": "2025-11-25T23:26:50.390Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\tests\\main.py",
+            "fileType": ".py",
+            "linesAdded": 89,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-25T23:27:15.147Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\tests\\main.py",
+            "fileType": ".py",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-25T23:28:46.319Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\tests\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 1,
+        "py": 4
+      },
+      "changeFrequency": {
+        "0": 5
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\tests\\main.py",
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.env"
+      ],
+      "averageChangeSize": 31
     }
   },
   "totalActiveTime": 3,
