@@ -259,9 +259,9 @@
       "averageChangeSize": 246
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 6326,
-      "totalLinesRemoved": 519,
-      "totalActiveTime": 256,
+      "totalLinesAdded": 6716,
+      "totalLinesRemoved": 523,
+      "totalActiveTime": 264,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json": [
           {
@@ -2483,6 +2483,78 @@
             },
             "duration": 4,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T22:35:52.401Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\search\\[[...url_path]]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T22:37:25.974Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\search\\[[...url_path]]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\suppliers.ts": [
+          {
+            "timestamp": "2025-11-25T22:39:57.990Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\suppliers.ts",
+            "fileType": ".ts",
+            "linesAdded": 275,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-25T22:40:28.892Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\suppliers.ts",
+            "fileType": ".ts",
+            "linesAdded": 114,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-25T22:40:34.630Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\lib\\suppliers.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
