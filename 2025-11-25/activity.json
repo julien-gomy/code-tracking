@@ -259,9 +259,9 @@
       "averageChangeSize": 246
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 6316,
-      "totalLinesRemoved": 518,
-      "totalActiveTime": 246,
+      "totalLinesAdded": 6326,
+      "totalLinesRemoved": 519,
+      "totalActiveTime": 256,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json": [
           {
@@ -2440,6 +2440,48 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T22:32:05.131Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\search\\[[...url_path]]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T22:32:10.862Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\search\\[[...url_path]]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T22:35:48.590Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\app\\[locale]\\(main)\\search\\[[...url_path]]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ]
