@@ -3,7 +3,7 @@
   "projects": {
     "eventscop-api-guide (Workspace)": {
       "totalLinesAdded": 2450,
-      "totalLinesRemoved": 112,
+      "totalLinesRemoved": 113,
       "totalActiveTime": 10,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\eventscop_utils\\models\\SupplierRseLabel.py": [
@@ -139,6 +139,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-25T15:12:14.473Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\seminars\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
