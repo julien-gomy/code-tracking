@@ -216,7 +216,7 @@
     },
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 5783,
-      "totalLinesRemoved": 418,
+      "totalLinesRemoved": 419,
       "totalActiveTime": 223,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json": [
@@ -2110,6 +2110,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-25T17:48:08.873Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\onboarding\\ProviderPersonalFormFields.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
