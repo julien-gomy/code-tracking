@@ -215,9 +215,9 @@
       "averageChangeSize": 246
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 5783,
+      "totalLinesAdded": 5946,
       "totalLinesRemoved": 419,
-      "totalActiveTime": 223,
+      "totalActiveTime": 228,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json": [
           {
@@ -2124,6 +2124,22 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\PresearchSection\\ClientPresearchSection.tsx": [
+          {
+            "timestamp": "2025-11-25T17:52:52.514Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\index\\PresearchSection\\ClientPresearchSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ]

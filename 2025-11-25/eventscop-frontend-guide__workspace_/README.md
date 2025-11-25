@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5783                                          |
+| **Lines Added** (➕)   | 5946                                          |
 | **Lines Removed** (➖) | 419                                        |
-| **Net Change** (↕)    | 5364                |
-| **Active Time** (⌚)   | 223 minutes |
+| **Net Change** (↕)    | 5527                |
+| **Active Time** (⌚)   | 228 minutes |
 
 
 ## Modified Files
@@ -34,6 +34,7 @@
 - **ProviderFilterContent.tsx** (+100, -2)
 - **SearchableSelect.tsx** (+50, -0)
 - **ProviderPersonalFormFields.tsx** (+118, -1)
+- **ClientPresearchSection.tsx** (+163, -0)
 
 ## Visualizations
 
@@ -46,7 +47,7 @@ title Lines changed by file type
 ".ts" : 1889
 ".yml" : 56
 ".code-workspace" : 45
-".tsx" : 2197
+".tsx" : 2360
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -59,8 +60,8 @@ title Coding activity by hour (count of changes)
 "15h" : 29
 "16h" : 19
 "17h" : 32
-"18h" : 20
+"18h" : 21
 ```
 
 
-> **Last Updated:** 11/25/2025, 6:50:50 PM
+> **Last Updated:** 11/25/2025, 6:55:50 PM
