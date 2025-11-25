@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5665                                          |
-| **Lines Removed** (➖) | 412                                        |
-| **Net Change** (↕)    | 5253                |
-| **Active Time** (⌚)   | 217 minutes |
+| **Lines Added** (➕)   | 5783                                          |
+| **Lines Removed** (➖) | 418                                        |
+| **Net Change** (↕)    | 5365                |
+| **Active Time** (⌚)   | 223 minutes |
 
 
 ## Modified Files
@@ -27,12 +27,13 @@
 - **route.ts** (+73, -0)
 - **place.ts** (+23, -4)
 - **supplier-activities.ts** (+367, -0)
-- **ActivityFilterContent.tsx** (+146, -0)
+- **ActivityFilterContent.tsx** (+146, -4)
 - **PlaceFilterContent.tsx** (+220, -0)
 - **SupplierSearchContainer.tsx** (+116, -0)
 - **searchHelpers.ts** (+244, -0)
-- **ProviderFilterContent.tsx** (+100, -0)
+- **ProviderFilterContent.tsx** (+100, -2)
 - **SearchableSelect.tsx** (+50, -0)
+- **ProviderPersonalFormFields.tsx** (+118, -0)
 
 ## Visualizations
 
@@ -45,7 +46,7 @@ title Lines changed by file type
 ".ts" : 1889
 ".yml" : 56
 ".code-workspace" : 45
-".tsx" : 2072
+".tsx" : 2196
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -58,8 +59,8 @@ title Coding activity by hour (count of changes)
 "15h" : 29
 "16h" : 19
 "17h" : 32
-"18h" : 15
+"18h" : 19
 ```
 
 
-> **Last Updated:** 11/25/2025, 6:35:50 PM
+> **Last Updated:** 11/25/2025, 6:40:50 PM
