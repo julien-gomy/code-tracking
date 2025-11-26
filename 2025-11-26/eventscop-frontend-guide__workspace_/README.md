@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2692                                          |
-| **Lines Removed** (➖) | 104                                        |
-| **Net Change** (↕)    | 2588                |
-| **Active Time** (⌚)   | 87 minutes |
+| **Lines Added** (➕)   | 2693                                          |
+| **Lines Removed** (➖) | 114                                        |
+| **Net Change** (↕)    | 2579                |
+| **Active Time** (⌚)   | 91 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,8 @@
 - **suppliers.ts** (+284, -0)
 - **lefthook.yml** (+41, -19)
 - **ConfirmationModal.tsx** (+93, -0)
-- **WelcomeSelectSteps.tsx** (+142, -0)
+- **WelcomeSelectSteps.tsx** (+142, -10)
+- **FinalRecap.tsx** (+1, -0)
 
 ## Visualizations
 
@@ -32,7 +33,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 1872
-".tsx" : 497
+".tsx" : 508
 ".local" : 60
 ".json" : 307
 ".yml" : 60
@@ -48,9 +49,9 @@ title Coding activity by hour (count of changes)
 "09h" : 11
 "10h" : 9
 "11h" : 7
-"12h" : 5
+"12h" : 7
 "23h" : 2
 ```
 
 
-> **Last Updated:** 11/26/2025, 12:23:51 PM
+> **Last Updated:** 11/26/2025, 12:28:51 PM
