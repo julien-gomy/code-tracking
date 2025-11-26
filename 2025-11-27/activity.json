@@ -3,7 +3,7 @@
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 421,
-      "totalLinesRemoved": 28,
+      "totalLinesRemoved": 30,
       "totalActiveTime": 9,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\StepContact.tsx": [
@@ -321,6 +321,20 @@
             "fileType": ".json",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-26T23:37:34.365Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "eventscop-frontend-guide (Workspace)",
             "content": {
               "added": [],
