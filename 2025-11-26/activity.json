@@ -3,8 +3,8 @@
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 545,
-      "totalLinesRemoved": 33,
-      "totalActiveTime": 35,
+      "totalLinesRemoved": 34,
+      "totalActiveTime": 40,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\supplier-activities.ts": [
           {
@@ -295,6 +295,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-11-26T00:48:05.359Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "local"
           }
         ]
