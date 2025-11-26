@@ -2,9 +2,9 @@
   "date": "2025-11-26",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 2227,
-      "totalLinesRemoved": 85,
-      "totalActiveTime": 69,
+      "totalLinesAdded": 2258,
+      "totalLinesRemoved": 94,
+      "totalActiveTime": 71,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\supplier-activities.ts": [
           {
@@ -596,6 +596,50 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\lefthook.yml": [
+          {
+            "timestamp": "2025-11-26T10:42:33.582Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\lefthook.yml",
+            "fileType": ".yml",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-11-26T10:42:34.978Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\lefthook.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-11-26T10:42:44.403Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\lefthook.yml",
+            "fileType": ".yml",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
           }
         ]
       },
