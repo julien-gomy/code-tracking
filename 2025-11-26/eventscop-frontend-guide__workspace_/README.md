@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7921                                          |
+| **Lines Added** (➕)   | 7970                                          |
 | **Lines Removed** (➖) | 380                                        |
-| **Net Change** (↕)    | 7541                |
+| **Net Change** (↕)    | 7590                |
 | **Active Time** (⌚)   | 148 minutes |
 
 
@@ -31,6 +31,7 @@
 - **fr.json** (+3964, -2)
 - **RadiusSelector.tsx** (+158, -3)
 - **useActivityQuoteForm.ts** (+53, -0)
+- **NoDatesWarning.tsx** (+49, -0)
 
 ## Visualizations
 
@@ -40,7 +41,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 2167
-".tsx" : 1651
+".tsx" : 1700
 ".local" : 60
 ".json" : 4273
 ".yml" : 150
@@ -61,8 +62,8 @@ title Coding activity by hour (count of changes)
 "15h" : 6
 "17h" : 1
 "22h" : 10
-"23h" : 12
+"23h" : 13
 ```
 
 
-> **Last Updated:** 11/26/2025, 11:35:24 PM
+> **Last Updated:** 11/26/2025, 11:50:24 PM
