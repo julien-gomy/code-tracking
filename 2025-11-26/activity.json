@@ -1673,9 +1673,9 @@
       "averageChangeSize": 31
     },
     "frontend-cms": {
-      "totalLinesAdded": 226,
+      "totalLinesAdded": 228,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalActiveTime": 4,
       "files": {
         "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local": [
           {
@@ -1690,6 +1690,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-11-26T15:47:17.259Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-11-26T15:48:15.107Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\frontend-cms\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "frontend-cms",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "local"
           }
         ],
