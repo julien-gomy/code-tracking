@@ -2,9 +2,9 @@
   "date": "2025-11-26",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 5428,
+      "totalLinesAdded": 5485,
       "totalLinesRemoved": 366,
-      "totalActiveTime": 135,
+      "totalActiveTime": 136,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\services\\api\\supplier-activities.ts": [
           {
@@ -1256,6 +1256,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-26T22:22:33.708Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\common\\quote-sidebar\\ActivityQuoteForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\i18n\\locales\\fr.json": [
@@ -1344,6 +1358,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\hooks\\useActivityQuoteForm.ts": [
+          {
+            "timestamp": "2025-11-26T22:22:22.949Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\hooks\\useActivityQuoteForm.ts",
+            "fileType": ".ts",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },

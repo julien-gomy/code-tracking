@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5428                                          |
+| **Lines Added** (➕)   | 5485                                          |
 | **Lines Removed** (➖) | 366                                        |
-| **Net Change** (↕)    | 5062                |
-| **Active Time** (⌚)   | 135 minutes |
+| **Net Change** (↕)    | 5119                |
+| **Active Time** (⌚)   | 136 minutes |
 
 
 ## Modified Files
@@ -27,9 +27,10 @@
 - **forms.ts** (+89, -14)
 - **RecapConfirmation.tsx** (+102, -19)
 - **ClientPresearchSection.tsx** (+177, -10)
-- **ActivityQuoteForm.tsx** (+187, -1)
+- **ActivityQuoteForm.tsx** (+191, -1)
 - **fr.json** (+1984, -2)
 - **RadiusSelector.tsx** (+82, -3)
+- **useActivityQuoteForm.ts** (+53, -0)
 
 ## Visualizations
 
@@ -38,8 +39,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 2114
-".tsx" : 1217
+".ts" : 2167
+".tsx" : 1221
 ".local" : 60
 ".json" : 2293
 ".yml" : 110
@@ -60,8 +61,8 @@ title Coding activity by hour (count of changes)
 "15h" : 6
 "17h" : 1
 "22h" : 10
-"23h" : 2
+"23h" : 4
 ```
 
 
-> **Last Updated:** 11/26/2025, 10:58:52 PM
+> **Last Updated:** 11/26/2025, 11:23:52 PM
