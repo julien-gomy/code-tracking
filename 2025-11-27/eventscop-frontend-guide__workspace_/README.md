@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 402                                          |
+| **Lines Added** (➕)   | 421                                          |
 | **Lines Removed** (➖) | 28                                        |
-| **Net Change** (↕)    | 374                |
+| **Net Change** (↕)    | 393                |
 | **Active Time** (⌚)   | 9 minutes |
 
 
 ## Modified Files
-- **StepContact.tsx** (+284, -1)
-- **ActivityQuoteForm.tsx** (+5, -5)
-- **ClientPresearchSection.tsx** (+8, -8)
-- **RadiusSelector.tsx** (+3, -3)
-- **fr.json** (+2, -2)
+- **StepContact.tsx** (+285, -1)
+- **ActivityQuoteForm.tsx** (+10, -5)
+- **ClientPresearchSection.tsx** (+16, -8)
+- **RadiusSelector.tsx** (+6, -3)
+- **fr.json** (+4, -2)
 - **ConfirmationModal.tsx** (+88, -0)
 - **lefthook.yml** (+9, -9)
 - **package.json** (+3, -0)
@@ -27,8 +27,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 405
-".json" : 7
+".tsx" : 422
+".json" : 9
 ".yml" : 18
 ```
 
@@ -37,9 +37,9 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 12
+"00h" : 17
 "23h" : 5
 ```
 
 
-> **Last Updated:** 11/27/2025, 12:20:24 AM
+> **Last Updated:** 11/27/2025, 12:25:24 AM
