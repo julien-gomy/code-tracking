@@ -4,19 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1823                                          |
-| **Lines Removed** (➖) | 73                                        |
-| **Net Change** (↕)    | 1750                |
-| **Active Time** (⌚)   | 24 minutes |
+| **Lines Added** (➕)   | 1867                                          |
+| **Lines Removed** (➖) | 77                                        |
+| **Net Change** (↕)    | 1790                |
+| **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
 - **.env** (+56, -0)
 - **main.py** (+216, -17)
 - **routes.py** (+602, -0)
-- **routes.py** (+393, -56)
+- **routes.py** (+394, -56)
 - **routes.py** (+297, -0)
-- **service.py** (+259, -0)
+- **service.py** (+270, -4)
+- **pyproject.toml** (+32, -0)
 
 ## Visualizations
 
@@ -26,7 +27,8 @@
 pie showData
 title Lines changed by file type
 "unknown" : 56
-".py" : 1840
+".py" : 1856
+".toml" : 32
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,7 +38,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 11
 "16h" : 11
+"17h" : 6
 ```
 
 
-> **Last Updated:** 11/26/2025, 5:00:41 PM
+> **Last Updated:** 11/26/2025, 5:05:41 PM
