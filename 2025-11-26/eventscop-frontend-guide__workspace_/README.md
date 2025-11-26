@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2960                                          |
-| **Lines Removed** (➖) | 333                                        |
-| **Net Change** (↕)    | 2627                |
+| **Lines Added** (➕)   | 2998                                          |
+| **Lines Removed** (➖) | 340                                        |
+| **Net Change** (↕)    | 2658                |
 | **Active Time** (⌚)   | 126 minutes |
 
 
@@ -21,11 +21,11 @@
 - **supplier-activity.ts** (+371, -9)
 - **suppliers.ts** (+284, -13)
 - **lefthook.yml** (+61, -39)
-- **ConfirmationModal.tsx** (+112, -43)
+- **ConfirmationModal.tsx** (+131, -43)
 - **WelcomeSelectSteps.tsx** (+142, -10)
 - **FinalRecap.tsx** (+48, -0)
-- **forms.ts** (+89, -7)
-- **RecapConfirmation.tsx** (+83, -19)
+- **forms.ts** (+89, -14)
+- **RecapConfirmation.tsx** (+102, -19)
 
 ## Visualizations
 
@@ -34,8 +34,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 2107
-".tsx" : 719
+".ts" : 2114
+".tsx" : 757
 ".local" : 60
 ".json" : 307
 ".yml" : 100
@@ -53,9 +53,9 @@ title Coding activity by hour (count of changes)
 "11h" : 7
 "12h" : 26
 "13h" : 2
-"15h" : 1
+"15h" : 4
 "23h" : 2
 ```
 
 
-> **Last Updated:** 11/26/2025, 3:13:51 PM
+> **Last Updated:** 11/26/2025, 3:33:51 PM
