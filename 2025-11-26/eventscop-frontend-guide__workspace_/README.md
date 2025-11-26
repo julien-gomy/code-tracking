@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3175                                          |
-| **Lines Removed** (➖) | 350                                        |
-| **Net Change** (↕)    | 2825                |
-| **Active Time** (⌚)   | 127 minutes |
+| **Lines Added** (➕)   | 5422                                          |
+| **Lines Removed** (➖) | 360                                        |
+| **Net Change** (↕)    | 5062                |
+| **Active Time** (⌚)   | 132 minutes |
 
 
 ## Modified Files
@@ -20,13 +20,16 @@
 - **settings.json** (+307, -0)
 - **supplier-activity.ts** (+371, -9)
 - **suppliers.ts** (+284, -13)
-- **lefthook.yml** (+61, -39)
+- **lefthook.yml** (+61, -49)
 - **ConfirmationModal.tsx** (+131, -43)
 - **WelcomeSelectSteps.tsx** (+142, -10)
 - **FinalRecap.tsx** (+48, -0)
 - **forms.ts** (+89, -14)
 - **RecapConfirmation.tsx** (+102, -19)
 - **ClientPresearchSection.tsx** (+177, -10)
+- **ActivityQuoteForm.tsx** (+186, -0)
+- **fr.json** (+1982, -0)
+- **RadiusSelector.tsx** (+79, -0)
 
 ## Visualizations
 
@@ -36,10 +39,10 @@
 pie showData
 title Lines changed by file type
 ".ts" : 2114
-".tsx" : 944
+".tsx" : 1209
 ".local" : 60
-".json" : 307
-".yml" : 100
+".json" : 2289
+".yml" : 110
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -56,8 +59,9 @@ title Coding activity by hour (count of changes)
 "13h" : 2
 "15h" : 6
 "17h" : 1
+"22h" : 4
 "23h" : 2
 ```
 
 
-> **Last Updated:** 11/26/2025, 5:08:51 PM
+> **Last Updated:** 11/26/2025, 10:48:52 PM
