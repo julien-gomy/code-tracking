@@ -1364,9 +1364,9 @@
       "averageChangeSize": 114
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 5158,
-      "totalLinesRemoved": 97,
-      "totalActiveTime": 36,
+      "totalLinesAdded": 5162,
+      "totalLinesRemoved": 134,
+      "totalActiveTime": 40,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.env": [
           {
@@ -1828,6 +1828,34 @@
             },
             "duration": 0,
             "language": "toml"
+          },
+          {
+            "timestamp": "2025-11-26T16:42:00.699Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\pyproject.toml",
+            "fileType": ".toml",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "toml"
+          },
+          {
+            "timestamp": "2025-11-26T16:42:12.311Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\pyproject.toml",
+            "fileType": ".toml",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "toml"
           }
         ],
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\poetry.lock": [
@@ -1843,6 +1871,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-11-26T16:41:56.298Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\poetry.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 33,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "lock"
           }
         ]
