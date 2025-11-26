@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5422                                          |
-| **Lines Removed** (➖) | 360                                        |
+| **Lines Added** (➕)   | 5428                                          |
+| **Lines Removed** (➖) | 366                                        |
 | **Net Change** (↕)    | 5062                |
-| **Active Time** (⌚)   | 132 minutes |
+| **Active Time** (⌚)   | 135 minutes |
 
 
 ## Modified Files
@@ -27,9 +27,9 @@
 - **forms.ts** (+89, -14)
 - **RecapConfirmation.tsx** (+102, -19)
 - **ClientPresearchSection.tsx** (+177, -10)
-- **ActivityQuoteForm.tsx** (+186, -0)
-- **fr.json** (+1982, -0)
-- **RadiusSelector.tsx** (+79, -0)
+- **ActivityQuoteForm.tsx** (+187, -1)
+- **fr.json** (+1984, -2)
+- **RadiusSelector.tsx** (+82, -3)
 
 ## Visualizations
 
@@ -39,9 +39,9 @@
 pie showData
 title Lines changed by file type
 ".ts" : 2114
-".tsx" : 1209
+".tsx" : 1217
 ".local" : 60
-".json" : 2289
+".json" : 2293
 ".yml" : 110
 ```
 
@@ -59,9 +59,9 @@ title Coding activity by hour (count of changes)
 "13h" : 2
 "15h" : 6
 "17h" : 1
-"22h" : 4
+"22h" : 10
 "23h" : 2
 ```
 
 
-> **Last Updated:** 11/26/2025, 10:48:52 PM
+> **Last Updated:** 11/26/2025, 10:58:52 PM
