@@ -1350,7 +1350,7 @@
       "averageChangeSize": 114
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1564,
+      "totalLinesAdded": 1823,
       "totalLinesRemoved": 73,
       "totalActiveTime": 24,
       "files": {
@@ -1655,6 +1655,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\service.py": [
+          {
+            "timestamp": "2025-11-26T15:56:11.284Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\auth\\service.py",
+            "fileType": ".py",
+            "linesAdded": 259,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
