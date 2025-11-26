@@ -2,7 +2,7 @@
   "date": "2025-11-26",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 545,
+      "totalLinesAdded": 852,
       "totalLinesRemoved": 34,
       "totalActiveTime": 40,
       "files": {
@@ -310,6 +310,22 @@
             },
             "duration": 5,
             "language": "local"
+          }
+        ],
+        "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-11-26T08:16:08.038Z",
+            "fileName": "c:\\Users\\Julien\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 307,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
