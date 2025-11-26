@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2998                                          |
-| **Lines Removed** (➖) | 340                                        |
-| **Net Change** (↕)    | 2658                |
-| **Active Time** (⌚)   | 126 minutes |
+| **Lines Added** (➕)   | 3165                                          |
+| **Lines Removed** (➖) | 350                                        |
+| **Net Change** (↕)    | 2815                |
+| **Active Time** (⌚)   | 127 minutes |
 
 
 ## Modified Files
@@ -26,6 +26,7 @@
 - **FinalRecap.tsx** (+48, -0)
 - **forms.ts** (+89, -14)
 - **RecapConfirmation.tsx** (+102, -19)
+- **ClientPresearchSection.tsx** (+167, -10)
 
 ## Visualizations
 
@@ -35,7 +36,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 2114
-".tsx" : 757
+".tsx" : 934
 ".local" : 60
 ".json" : 307
 ".yml" : 100
@@ -53,9 +54,9 @@ title Coding activity by hour (count of changes)
 "11h" : 7
 "12h" : 26
 "13h" : 2
-"15h" : 4
+"15h" : 6
 "23h" : 2
 ```
 
 
-> **Last Updated:** 11/26/2025, 3:33:51 PM
+> **Last Updated:** 11/26/2025, 3:53:51 PM
