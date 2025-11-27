@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 30242                                          |
+| **Lines Added** (➕)   | 30243                                          |
 | **Lines Removed** (➖) | 18                                        |
-| **Net Change** (↕)    | 30224                |
+| **Net Change** (↕)    | 30225                |
 | **Active Time** (⌚)   | 34 minutes |
 
 
@@ -28,7 +28,7 @@
 - **action_search.asp** (+884, -0)
 - **societe_form.asp** (+1759, -0)
 - **stats_seminaire.asp** (+2664, -0)
-- **type_seminaire_form.asp** (+90, -0)
+- **type_seminaire_form.asp** (+91, -0)
 - **search.asp** (+1495, -0)
 - **demande_form.asp** (+1189, -0)
 - **demande_search.asp** (+2039, -0)
@@ -44,7 +44,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".asp" : 30234
+".asp" : 30235
 ".json" : 26
 ```
 
@@ -62,8 +62,8 @@ title Coding activity by hour (count of changes)
 "14h" : 3
 "15h" : 6
 "22h" : 22
-"23h" : 3
+"23h" : 4
 ```
 
 
-> **Last Updated:** 11/27/2025, 11:16:40 PM
+> **Last Updated:** 11/27/2025, 11:26:40 PM
