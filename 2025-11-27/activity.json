@@ -2,9 +2,9 @@
   "date": "2025-11-27",
   "projects": {
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 7006,
-      "totalLinesRemoved": 79,
-      "totalActiveTime": 49,
+      "totalLinesAdded": 7008,
+      "totalLinesRemoved": 81,
+      "totalActiveTime": 51,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\StepContact.tsx": [
           {
@@ -485,6 +485,34 @@
           },
           {
             "timestamp": "2025-11-26T23:58:56.070Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-27T00:00:36.590Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-27T00:00:44.858Z",
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json",
             "fileType": ".json",
             "linesAdded": 0,
