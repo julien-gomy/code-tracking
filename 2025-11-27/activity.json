@@ -1349,9 +1349,9 @@
       "averageChangeSize": 1533.5
     },
     "eventscop-api-guide (Workspace)": {
-      "totalLinesAdded": 1994,
+      "totalLinesAdded": 2643,
       "totalLinesRemoved": 15,
-      "totalActiveTime": 32,
+      "totalActiveTime": 33,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\search\\services\\search_engine.py": [
           {
@@ -1611,6 +1611,38 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py": [
+          {
+            "timestamp": "2025-11-27T13:22:40.465Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\app\\modules\\suppliers\\activities\\services\\activity_search_engine.py",
+            "fileType": ".py",
+            "linesAdded": 640,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.git\\COMMIT_EDITMSG": [
+          {
+            "timestamp": "2025-11-27T13:23:26.613Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-api-guide\\.git\\COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "eventscop-api-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
