@@ -582,9 +582,9 @@
       "averageChangeSize": 1
     },
     "eventscop-frontend-guide (Workspace)": {
-      "totalLinesAdded": 3173,
-      "totalLinesRemoved": 166,
-      "totalActiveTime": 55,
+      "totalLinesAdded": 3175,
+      "totalLinesRemoved": 168,
+      "totalActiveTime": 56,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\RecapConfirmation.tsx": [
           {
@@ -859,6 +859,34 @@
           },
           {
             "timestamp": "2025-11-28T16:54:17.801Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-28T17:14:54.925Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-28T17:15:04.179Z",
             "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\.next\\package.json",
             "fileType": ".json",
             "linesAdded": 0,
