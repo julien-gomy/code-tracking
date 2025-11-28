@@ -2,7 +2,7 @@
   "date": "2025-11-28",
   "projects": {
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 12401,
+      "totalLinesAdded": 14112,
       "totalLinesRemoved": 187,
       "totalActiveTime": 49,
       "files": {
@@ -475,6 +475,22 @@
               "removed": []
             },
             "duration": 5,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_5_tab_presta.asp": [
+          {
+            "timestamp": "2025-11-28T15:08:09.700Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_5_tab_presta.asp",
+            "fileType": ".asp",
+            "linesAdded": 1711,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "asp"
           }
         ]
