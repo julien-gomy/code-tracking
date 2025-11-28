@@ -583,7 +583,7 @@
     },
     "eventscop-frontend-guide (Workspace)": {
       "totalLinesAdded": 3135,
-      "totalLinesRemoved": 132,
+      "totalLinesRemoved": 160,
       "totalActiveTime": 51,
       "files": {
         "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\RecapConfirmation.tsx": [
@@ -1149,6 +1149,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-28T16:41:12.827Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\scripts\\review.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
