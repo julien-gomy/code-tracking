@@ -2,9 +2,9 @@
   "date": "2025-11-28",
   "projects": {
     "cdp.aleoudev.fr (Workspace)": {
-      "totalLinesAdded": 6171,
+      "totalLinesAdded": 8193,
       "totalLinesRemoved": 13,
-      "totalActiveTime": 34,
+      "totalActiveTime": 36,
       "files": {
         "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_0.asp": [
           {
@@ -89,6 +89,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-28T11:31:21.089Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_step_0.asp",
+            "fileType": ".asp",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "asp"
           }
         ],
@@ -275,6 +289,36 @@
               "removed": []
             },
             "duration": 2,
+            "language": "asp"
+          }
+        ],
+        "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_action_db.asp": [
+          {
+            "timestamp": "2025-11-28T11:32:02.352Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_action_db.asp",
+            "fileType": ".asp",
+            "linesAdded": 2014,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "asp"
+          },
+          {
+            "timestamp": "2025-11-28T11:32:07.757Z",
+            "fileName": "c:\\Mes Projets\\www\\iis\\cdp.aleoudev.fr\\xdev\\cdp\\usr\\dev\\parts\\demandes\\demande_action_db.asp",
+            "fileType": ".asp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cdp.aleoudev.fr (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "asp"
           }
         ]
