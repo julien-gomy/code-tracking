@@ -266,6 +266,39 @@
         "c:\\Mes Projets\\EventScop\\frontend-cms\\src\\lib\\api\\auth.ts"
       ],
       "averageChangeSize": 1
+    },
+    "eventscop-frontend-guide (Workspace)": {
+      "totalLinesAdded": 64,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\RecapConfirmation.tsx": [
+          {
+            "timestamp": "2025-11-28T01:58:20.493Z",
+            "fileName": "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\RecapConfirmation.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "eventscop-frontend-guide (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "2": 0
+      },
+      "topFiles": [
+        "c:\\Mes Projets\\EventScop\\eventscop-frontend-guide\\src\\components\\brief\\steps\\RecapConfirmation.tsx"
+      ],
+      "averageChangeSize": 64
     }
   },
   "totalActiveTime": 0,
